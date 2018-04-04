@@ -1,0 +1,306 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="it" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:dcat="http://vocab.deri.ie/dcat.rdf/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:site="http://www.spaghettiopendata.org/ns#"
+  xmlns:schema="http://schema.org/">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:site_name" content="Spaghetti Open Data" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.spaghettiopendata.org/content/smart-disclosure-e-government-platform" />
+<link rel="shortcut icon" href="../sites/all/themes/sod3_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="../node/166.html" />
+<link rel="canonical" href="smart-disclosure-e-government-platform.html" />
+<meta name="description" content="La smart disclosure (rilascio intelligente) consiste nell&#039;esportare verso il web in modalità machine-to-machine i nostri dati personali detenuti da varie entità. Quando parliamo di &quot;dati personali&quot; pensiamo alla enorme mole di dati anagrafici, tributari, sanitari, previdenziali, catastali, dispersa nelle varie Pubbliche Amministrazioni, banche, associazioni di categoria, società di servizi. Mediante l&#039;uso di tecnologie di autorizzazione digitale, l&#039;esportazione di questi dati verso il web si rivela sicura poiché ogni dato viene fornito solo previa autorizzazione digitale del proprietario stesso.
+
+La smart disclosure, già sperimentata negli USA e Regno Unito con iniziative pilota in ambito commerciale, consentirà alle applicazioni del futuro di reperire i nostri dati direttamente alla fonte, su nostro mandato, col minimo sforzo da parte nostra e senza farli transitare dal browser. Ciò permetterà di automatizzare interi procedimenti che oggi richiedono parecchio lavoro online per l&#039;utente, senza compromettere la privacy più di quanto non accada di già. La smart disclosure aprirebbe scenari assai innovativi, tra cui la fine del monopolio della PA sui servizi di eGovernment e la realizzazione del &quot;government as a platform&quot;.
+
+Nell&#039;ultima parte di questa presentazione verrà illustrato l&#039;approccio smart disclosure applicato al caso, notoriamente complesso, della dichiarazione dei redditi online.
+
+Riferimenti
+
+Giuseppe Ciaccio, Smart disclosure e &quot;government as a platform&quot;. Smart Innovation - ForumPA, 19 gennaio 2015  http://smartinnovation.forumpa.it/story/102817/smart-disclosure-e-government-platform
+
+T. O&#039;Reilly, Government as a platform. Cap. 2 in D. Lathrop, L. Ruma, &quot;Open Government: Collaboration, Transparency, and Participation in Practice&quot;. O&#039;Reilly Media, 2010.  http://chimera.labs.oreilly.com/books/1234000000774/ch02.html
+
+Executive Office of the President National Science and Technology Council, &quot;Smart Disclosure and Consumer Decision Making: Report of the Task Force on Smart Disclosure&quot;, 2013.  https://www.whitehouse.gov/sites/default/files/microsites/ostp/report_of_the_task_force_on_smart_disclosure.pdf
+
+N. Shadbolt, Midata: towards a personal information revolution. In M. Hildebrandt et al. (ed.), &quot;Digital Enlightenment Yearbook&quot;. IOSPress, 2013.  http://eprints.soton.ac.uk/358773/" />
+<meta property="og:title" content="Smart disclosure e &quot;government as a platform&quot;" />
+<meta property="og:description" content="La smart disclosure (rilascio intelligente) consiste nell&#039;esportare verso il web in modalità machine-to-machine i nostri dati personali detenuti da varie entità. Quando parliamo di &quot;dati personali&quot; pensiamo alla enorme mole di dati anagrafici, tributari, sanitari, previdenziali, catastali, dispersa nelle varie Pubbliche Amministrazioni, banche, associazioni di categoria, società di servizi. Mediante l&#039;uso di tecnologie di autorizzazione digitale, l&#039;esportazione di questi dati verso il web si rivela sicura poiché ogni dato viene fornito solo previa autorizzazione digitale del proprietario stesso.
+
+La smart disclosure, già sperimentata negli USA e Regno Unito con iniziative pilota in ambito commerciale, consentirà alle applicazioni del futuro di reperire i nostri dati direttamente alla fonte, su nostro mandato, col minimo sforzo da parte nostra e senza farli transitare dal browser. Ciò permetterà di automatizzare interi procedimenti che oggi richiedono parecchio lavoro online per l&#039;utente, senza compromettere la privacy più di quanto non accada di già. La smart disclosure aprirebbe scenari assai innovativi, tra cui la fine del monopolio della PA sui servizi di eGovernment e la realizzazione del &quot;government as a platform&quot;.
+
+Nell&#039;ultima parte di questa presentazione verrà illustrato l&#039;approccio smart disclosure applicato al caso, notoriamente complesso, della dichiarazione dei redditi online.
+
+Riferimenti
+
+Giuseppe Ciaccio, Smart disclosure e &quot;government as a platform&quot;. Smart Innovation - ForumPA, 19 gennaio 2015  http://smartinnovation.forumpa.it/story/102817/smart-disclosure-e-government-platform
+
+T. O&#039;Reilly, Government as a platform. Cap. 2 in D. Lathrop, L. Ruma, &quot;Open Government: Collaboration, Transparency, and Participation in Practice&quot;. O&#039;Reilly Media, 2010.  http://chimera.labs.oreilly.com/books/1234000000774/ch02.html
+
+Executive Office of the President National Science and Technology Council, &quot;Smart Disclosure and Consumer Decision Making: Report of the Task Force on Smart Disclosure&quot;, 2013.  https://www.whitehouse.gov/sites/default/files/microsites/ostp/report_of_the_task_force_on_smart_disclosure.pdf
+
+N. Shadbolt, Midata: towards a personal information revolution. In M. Hildebrandt et al. (ed.), &quot;Digital Enlightenment Yearbook&quot;. IOSPress, 2013.  http://eprints.soton.ac.uk/358773/" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Smart disclosure e &quot;government as a platform&quot; | Spaghetti Open Data</title>
+  <link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_Krv2lsDiRe0RpHVCfHNzZcy-xh1jpFJW9dPkOJ8J7FE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_kX1d5LrmIJ2geQ8Pjw4barVU9JIeO0Lo79UouLYqf_U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootswatch/3.0.2/cerulean/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/default/files/css/css_g6U6EwXzM2Jt8kacTS8MPdb4CEqzJ0bsrkHRe8WfEQw.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="../sites/default/files/js/js_jpJjaUC0z8JMIyav5oQrYykDRUb64rpaUDpB4Y9aklU.js"></script>
+<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="../sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script src="../sites/default/files/js/js_QDXevDQUHVzZMDomLWFovPGOvjb39NStLwsu8L03TvI.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-37620039-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sod3_bootstrap","theme_token":"ljCXN_AQJ6PSQvn0ZZlFTmhjMm9E_tmNqVmnw5f6bdc","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/it__kFqB28HWmqctT6vvCycgucpWPXQeOGk8eIVBrBvAbU.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"\/\/netdna.bootstrapcdn.com\/bootswatch\/3.0.2\/cerulean\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/sod3_bootstrap\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/content\/smart-disclosure-e-government-platform?destination=node\/166":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-166 node-type-session i18n-it" >
+  <div id="skip-link">
+    <a href="smart-disclosure-e-government-platform.html#main-content" class="element-invisible element-focusable">Salta al contenuto principale</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      
+            <a class="name navbar-brand" href="../index.html" title="Home">Spaghetti Open Data</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="../home.html">Home</a></li>
+<li class="collapsed"><a href="../page/cos-e-chi-siamo.html">Cos&#039;è e chi siamo</a></li>
+<li class="leaf"><a href="../page/netiquette-ovvero-le-regole-di-comportamento.html">Netiquette</a></li>
+<li class="collapsed"><a href="../community.html" title="Community utenti">Community</a></li>
+<li class="leaf"><a href="../page/sod-merge-it-2018.html">SOD a MERGE-it 2018</a></li>
+<li class="collapsed"><a href="../page/altri-raduni-cosa-abbiamo-fatto.html">Altri raduni</a></li>
+<li class="leaf"><a href="../page/si-parla-di-sod-ovvero-una-sorta-di-rassegna-stampa.html" title="Dove si parla di SOD in Rete, dalla rassegna stampa dei raduni, a tutto il resto che ci cita">Si parla di SOD</a></li>
+<li class="leaf"><a href="../page/contatti.html">Contatti</a></li>
+<li class="last leaf"><a href="../page/aiuto.html">Aiuto</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-first well">
+    <section id="block-user-login" class="block block-user clearfix">
+
+        <h2 class="block-title">Accesso utente</h2>
+    
+  <form action="http://www.spaghettiopendata.org/content/smart-disclosure-e-government-platform?destination=node/166" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-type-textfield form-item-name form-item form-group">
+  <label for="edit-name">Nome utente <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" />
+</div>
+<div class="form-type-password form-item-pass form-item form-group">
+  <label for="edit-pass">Password <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" />
+</div>
+<ul><li class="first"><a href="../it/user/register.html" title="Crea un nuovo profilo utente.">Crea nuovo profilo</a></li>
+<li class="last"><a href="../user/password.html" title="Richiedi una nuova password tramite e-mail.">Richiedi nuova password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-CxfuIV4hp4JXwBQk83I_m-g3S7Oupu40UM2qmmYzafc" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Accedi" type="submit">Accedi</button>
+</div></form>
+</section> <!-- /.block -->
+  </div>
+      </aside>  <!-- /#sidebar-first -->
+    
+    <section class="col-sm-9">
+            <ol class="breadcrumb"><li class="first"><a href="../index.html">Home</a></li>
+<li><a href="http://www.spaghettiopendata.org/sod14/sessioni">Sessioni</a></li>
+<li class="active last">Smart disclosure e &quot;government as a platform&quot;</li>
+</ol>      <a id="main-content"></a>
+                    <h1 class="page-header">Smart disclosure e &quot;government as a platform&quot;</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-166" class="node node-session clearfix" about="/content/smart-disclosure-e-government-platform" typeof="sioc:Item foaf:Document">
+
+
+  <header>
+            <span property="dc:title" content="Smart disclosure e &quot;government as a platform&quot;" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2015-02-09T15:06:23+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="../users/giuseppe-ciaccio.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/giuseppe-ciaccio" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">giuseppe ciaccio</a> il Lun, 02/09/2015 - 15:06</span>      </span>
+    
+          <!-- AddThis Button BEGIN -->
+      <div class="addthis_toolbox addthis_default_style" style="margin-top: 10px;">
+      <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+      <a class="addthis_button_google_plusone" g:plusone:annotation="bubble"></a>
+      <a class="addthis_button_tweet"></a>
+      <a class="addthis_button_pinterest_pinit"></a>
+      <a class="addthis_counter addthis_pill_style"></a>
+      </div>
+      <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+      <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js"></script>
+      <!-- AddThis Button END -->
+    
+
+  </header>
+
+  <div class="field field-name-field-tipo-di-attivit- field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tipo di attività:&nbsp;</div><div class="field-items"><div class="field-item even">(SOD15) Barcamp 27/03/2015</div></div></div><div class="field field-name-field-durata field-type-number-decimal field-label-inline clearfix"><div class="field-label">Durata:&nbsp;</div><div class="field-items"><div class="field-item even">50 minuti</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>La smart disclosure (rilascio intelligente) consiste nell'esportare verso il web in modalità machine-to-machine i nostri dati personali detenuti da varie entità. Quando parliamo di "dati personali" pensiamo alla enorme mole di dati anagrafici, tributari, sanitari, previdenziali, catastali, dispersa nelle varie Pubbliche Amministrazioni, banche, associazioni di categoria, società di servizi. Mediante l'uso di tecnologie di autorizzazione digitale, l'esportazione di questi dati verso il web si rivela sicura poiché ogni dato viene fornito solo previa autorizzazione digitale del proprietario stesso.</p>
+<p>La smart disclosure, già sperimentata negli USA e Regno Unito con iniziative pilota in ambito commerciale, consentirà alle applicazioni del futuro di reperire i nostri dati direttamente alla fonte, su nostro mandato, col minimo sforzo da parte nostra e senza farli transitare dal browser. Ciò permetterà di automatizzare interi procedimenti che oggi richiedono parecchio lavoro online per l'utente, senza compromettere la privacy più di quanto non accada di già. La smart disclosure aprirebbe scenari assai innovativi, tra cui la fine del monopolio della PA sui servizi di eGovernment e la realizzazione del "government as a platform".</p>
+<p>Nell'ultima parte di questa presentazione verrà illustrato l'approccio smart disclosure applicato al caso, notoriamente complesso, della dichiarazione dei redditi online.</p>
+<p>Riferimenti</p>
+<p>Giuseppe Ciaccio, Smart disclosure e "government as a platform". Smart Innovation - ForumPA, 19 gennaio 2015  <a href="http://smartinnovation.forumpa.it/story/102817/smart-disclosure-e-government-platform">http://smartinnovation.forumpa.it/story/102817/smart-disclosure-e-govern...</a></p>
+<p>T. O'Reilly, Government as a platform. Cap. 2 in D. Lathrop, L. Ruma, "Open Government: Collaboration, Transparency, and Participation in Practice". O'Reilly Media, 2010.  <a href="http://chimera.labs.oreilly.com/books/1234000000774/ch02.html">http://chimera.labs.oreilly.com/books/1234000000774/ch02.html</a></p>
+<p>Executive Office of the President National Science and Technology Council, "Smart Disclosure and Consumer Decision Making: Report of the Task Force on Smart Disclosure", 2013.  <a href="https://www.whitehouse.gov/sites/default/files/microsites/ostp/report_of_the_task_force_on_smart_disclosure.pdf">https://www.whitehouse.gov/sites/default/files/microsites/ostp/report_of...</a></p>
+<p>N. Shadbolt, Midata: towards a personal information revolution. In M. Hildebrandt et al. (ed.), "Digital Enlightenment Yearbook". IOSPress, 2013.  <a href="http://eprints.soton.ac.uk/358773/">http://eprints.soton.ac.uk/358773/</a></p>
+</div></div></div><div class="field field-label-above field-session-subscribe"><div class="field-label">Iscrizione</div><span class="btn btn-primary flag-wrapper"><a href="../user/login@destination=node%252F166.html">Devi essere loggato per iscriverti a questa sessione</a></span></div><div class="view view-sessions-lista-partecipanti view-id-sessions_lista_partecipanti view-display-id-entity_view_1 view-dom-id-40dbcf9461a9f2210bcc6579e523e7b8">
+        <h2 class="title">Lista partecipanti</h2>
+    
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid cols-4">
+  
+  <tbody>
+          <tr class="row-1 row-first">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/loredana.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/loredana" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Loredana</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="../users/loredana.html#profile-main"><img typeof="foaf:Image" src="../sites/default/files/styles/thumbnail/public/user_avatars/HPIM6490.JPG@itok=S7OP4eO8" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-2">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/luca-cervone.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/luca-cervone" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Luca Cervone</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"></div>  </div>          </td>
+                  <td class="col-3">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/andrea-cremaschi.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/andrea-cremaschi" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Andrea Cremaschi</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="../users/andrea-cremaschi.html#profile-main"><img typeof="foaf:Image" src="../sites/default/files/styles/thumbnail/public/user_avatars/10634096_10204614532862101_1024730878740463073_o.jpg@itok=qskwSjlH" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-4 col-last">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/mariagrazia.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/mariagrazia" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Mariagrazia</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="../users/mariagrazia.html#profile-main"><img typeof="foaf:Image" src="../sites/default/files/styles/thumbnail/public/default_images/identicon.png@itok=yOu9-yzO" alt="" /></a></div>  </div>          </td>
+              </tr>
+          <tr class="row-2">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/perchinenna.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/perchinenna" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Perchinenna</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"></div>  </div>          </td>
+                  <td class="col-2">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/marcointercity.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/marcointercity" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">MarcoIntercity</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="../users/marcointercity.html#profile-main"><img typeof="foaf:Image" src="../sites/default/files/styles/thumbnail/public/user_avatars/201940494-d01ffbf1-4aec-4b08-8bc9-6bedc4b41fc5.jpg@itok=jRwZJOPH" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-3">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/simone-silvestri.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/simone-silvestri" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Simone Silvestri</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="../users/simone-silvestri.html#profile-main"><img typeof="foaf:Image" src="../sites/default/files/styles/thumbnail/public/default_images/identicon.png@itok=yOu9-yzO" alt="" /></a></div>  </div>          </td>
+                  <td class="col-4 col-last">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/giovanni-battista-gallus.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/giovanni-battista-gallus" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Giovanni Battis...</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="../users/giovanni-battista-gallus.html#profile-main"><img typeof="foaf:Image" src="../sites/default/files/styles/thumbnail/public/user_avatars/733906_10200713009886039_1697715162_n.jpg@itok=11-Vz5_n" width="100" height="100" alt="" /></a></div>  </div>          </td>
+              </tr>
+          <tr class="row-3">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/mg.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/mg" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">MG</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="../users/mg.html#profile-main"><img typeof="foaf:Image" src="../sites/default/files/styles/thumbnail/public/default_images/identicon.png@itok=yOu9-yzO" alt="" /></a></div>  </div>          </td>
+                  <td class="col-2">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/daniele-del-pinto.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/daniele-del-pinto" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Daniele Del Pinto</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="../users/daniele-del-pinto.html#profile-main"><img typeof="foaf:Image" src="../sites/default/files/styles/thumbnail/public/user_avatars/AAEAAQAAAAAAAAeBAAAAJGZhMTUzMjE2LTEyODktNDY0Ny05NDA2LWQyY2FmOTRkZmY1MQ.jpg@itok=Flc8wcSf" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-3">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/azzurra.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/azzurra" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">azzurra</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"></div>  </div>          </td>
+                  <td class="col-4 col-last">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/angelo-biolcati-rinaldi.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/angelo-biolcati-rinaldi" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Angelo Biolcati...</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="../users/angelo-biolcati-rinaldi.html#profile-main"><img typeof="foaf:Image" src="../sites/default/files/styles/thumbnail/public/user_avatars/biol_FB_1.jpg@itok=WxbijO5j" width="100" height="100" alt="" /></a></div>  </div>          </td>
+              </tr>
+          <tr class="row-4">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/paola-brizi.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/paola-brizi" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Paola Brizi</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="../users/paola-brizi.html#profile-main"><img typeof="foaf:Image" src="../sites/default/files/styles/thumbnail/public/user_avatars/Pao&#32;img.jpg@itok=-cKEawrr" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-2">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/marco-brandizi.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/marco-brandizi" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Marco Brandizi</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="../users/marco-brandizi.html#profile-main"><img typeof="foaf:Image" src="../sites/default/files/styles/thumbnail/public/user_avatars/me_bitstripped.png@itok=yzydnzfD" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-3">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/emanuele-storti.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/emanuele-storti" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Emanuele Storti</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="../users/emanuele-storti.html#profile-main"><img typeof="foaf:Image" src="../sites/default/files/styles/thumbnail/public/default_images/identicon.png@itok=yOu9-yzO" alt="" /></a></div>  </div>          </td>
+                  <td class="col-4 col-last">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/riccardo-giordani.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/riccardo-giordani" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Riccardo Giordani</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="../users/riccardo-giordani.html#profile-main"><img typeof="foaf:Image" src="../sites/default/files/styles/thumbnail/public/user_avatars/riccardo2.jpeg@itok=EribCvsV" width="100" height="100" alt="" /></a></div>  </div>          </td>
+              </tr>
+          <tr class="row-5 row-last">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="../users/giacomo-gamba.html" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/giacomo-gamba" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Giacomo Gamba</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="../users/giacomo-gamba.html#profile-main"><img typeof="foaf:Image" src="../sites/default/files/styles/thumbnail/public/user_avatars/Giack-small.jpg@itok=GDCWbHAV" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-2">
+                      </td>
+                  <td class="col-3">
+                      </td>
+                  <td class="col-4 col-last">
+                      </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <span property="dc:title" content="Smart disclosure e &quot;government as a platform&quot;" class="rdf-meta element-hidden"></span>
+      <footer>
+                </footer>
+  
+  
+</article> <!-- /.node -->
+
+</section> <!-- /.block -->
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+  </footer>
+  <script src="../sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+</body>
+</html>

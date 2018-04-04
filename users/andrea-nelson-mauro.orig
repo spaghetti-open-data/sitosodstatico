@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="it" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:dcat="http://vocab.deri.ie/dcat.rdf/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:site="http://www.spaghettiopendata.org/ns#"
+  xmlns:schema="http://schema.org/">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="http://www.spaghettiopendata.org/user/46" />
+<meta property="og:site_name" content="Spaghetti Open Data" />
+<meta property="og:description" content="Italiane e italiani che fanno cose con i dati" />
+<link rel="shortcut icon" href="http://www.spaghettiopendata.org/sites/all/themes/sod3_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:url" content="http://www.spaghettiopendata.org/users/andrea-nelson-mauro" />
+<link rel="canonical" href="http://www.spaghettiopendata.org/users/andrea-nelson-mauro" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<meta about="/users/andrea-nelson-mauro#me" typeof="foaf:Person" rel="foaf:account" resource="/users/andrea-nelson-mauro" />
+<meta about="/users/andrea-nelson-mauro" property="schema:name" content="nelsonmau" />
+<meta property="og:type" content="profile" />
+<meta property="og:title" content="Andrea Nelson Mauro" />
+<meta name="description" content="Italiane e italiani che fanno cose con i dati" />
+  <title>Andrea Nelson Mauro | Spaghetti Open Data</title>
+  <link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_Krv2lsDiRe0RpHVCfHNzZcy-xh1jpFJW9dPkOJ8J7FE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_MxUk3IzB0ErhsfSZ4lGOJnfd2cGKpM6aRLXwtmWk_Qk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.0.2/cerulean/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_g6U6EwXzM2Jt8kacTS8MPdb4CEqzJ0bsrkHRe8WfEQw.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_jpJjaUC0z8JMIyav5oQrYykDRUb64rpaUDpB4Y9aklU.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_QDXevDQUHVzZMDomLWFovPGOvjb39NStLwsu8L03TvI.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-37620039-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sod3_bootstrap","theme_token":"wk0GltrPqNlhlvQP9upO6layplYdode8aYLlEVezG0E","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/it__kFqB28HWmqctT6vvCycgucpWPXQeOGk8eIVBrBvAbU.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"sites\/all\/modules\/contrib\/addressfield\/addressfield.css":1,"\/\/netdna.bootstrapcdn.com\/bootswatch\/3.0.2\/cerulean\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/sod3_bootstrap\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/users\/andrea-nelson-mauro?destination=user\/46":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-user page-user- page-user-46 i18n-it" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Salta al contenuto principale</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      
+            <a class="name navbar-brand" href="/" title="Home">Spaghetti Open Data</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/home">Home</a></li>
+<li class="collapsed"><a href="/page/cos-e-chi-siamo">Cos&#039;è e chi siamo</a></li>
+<li class="leaf"><a href="/page/netiquette-ovvero-le-regole-di-comportamento">Netiquette</a></li>
+<li class="collapsed"><a href="/community" title="Community utenti">Community</a></li>
+<li class="leaf"><a href="/page/sod-merge-it-2018">SOD a MERGE-it 2018</a></li>
+<li class="collapsed"><a href="/page/altri-raduni-cosa-abbiamo-fatto">Altri raduni</a></li>
+<li class="leaf"><a href="/page/si-parla-di-sod-ovvero-una-sorta-di-rassegna-stampa" title="Dove si parla di SOD in Rete, dalla rassegna stampa dei raduni, a tutto il resto che ci cita">Si parla di SOD</a></li>
+<li class="leaf"><a href="/page/contatti">Contatti</a></li>
+<li class="last leaf"><a href="/page/aiuto">Aiuto</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-first well">
+    <section id="block-user-login" class="block block-user clearfix">
+
+        <h2 class="block-title">Accesso utente</h2>
+    
+  <form action="/users/andrea-nelson-mauro?destination=user/46" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-type-textfield form-item-name form-item form-group">
+  <label for="edit-name">Nome utente <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" />
+</div>
+<div class="form-type-password form-item-pass form-item form-group">
+  <label for="edit-pass">Password <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" />
+</div>
+<ul><li class="first"><a href="/user/register" title="Crea un nuovo profilo utente.">Crea nuovo profilo</a></li>
+<li class="last"><a href="/user/password" title="Richiedi una nuova password tramite e-mail.">Richiedi nuova password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-y2NFoDc_JzNLgD2527yc8diDiYFfXCWYupNJdr7WPmA" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Accedi" type="submit">Accedi</button>
+</div></form>
+</section> <!-- /.block -->
+  </div>
+      </aside>  <!-- /#sidebar-first -->
+    
+    <section class="col-sm-9">
+            <ol class="breadcrumb"><li class="first"><a href="/">Home</a></li>
+<li class="active last">Andrea Nelson Mauro</li>
+</ol>      <a id="main-content"></a>
+                    <h1 class="page-header">Andrea Nelson Mauro</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div class="profile" typeof="schema:Person sioc:UserAccount" about="/users/andrea-nelson-mauro">
+  <a id="profile-main"></a>  <h3>Il mio profilo</h3>
+
+<dl>
+  <div class="entity entity-profile2 profile2-main clearfix" about="/users/andrea-nelson-mauro" typeof="schema:person">
+
+  
+  <div class="content">
+    <div class="field field-name-field-profile-avatar field-type-image field-label-hidden"><div class="field-items"><div class="field-item even" rel="schema:image" resource="http://www.spaghettiopendata.org/sites/default/files/user_avatars/nelson_1.jpg"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/user_avatars/nelson_1.jpg" width="250" height="250" alt="" /></div></div></div><div class="field field-name-field-profile-nome field-type-text field-label-inline clearfix"><div class="field-label">Nome:&nbsp;</div><div class="field-items"><div class="field-item even" property="schema:alternateName">Andrea Nelson Mauro</div></div></div><div class="field field-name-field-profile-descrizione field-type-text-long field-label-above"><div class="field-label">Descrizione:&nbsp;</div><div class="field-items"><div class="field-item even" property="schema:summary schema:description">Mi chiamo Andrea Nelson Mauro, sono un data jour­na­list. Mi sono for­mato nella cro­naca locale e ho lavo­rato come redat­tore e capo­cro­ni­sta in vari quo­ti­diani e set­ti­ma­nali in Sicilia ed Emilia-Romagna. Nel 2012 ho co-fon­dato Dataninja, un net­work di data jour­na­list: col­la­boro con alcune tra le prin­ci­pali testate ita­liane (Corriere della Sera, Sole24Ore, Sky​.it, Espresso), con pub­bli­che ammi­ni­stra­zioni (DPS — Open Coesione, Comune di Bologna, Regione Emilia-Romagna) e con pro­getti infor­ma­tivi per pro­muo­vere la cit­ta­di­nanza attiva (Open Ricostruzione). Sono un folk della com­mu­nity Spaghetti Open Data e par­te­cipo a nume­rosi pro­getti di civic acti­vism, come Era della Trasparenza e Twitantonio​.it.</div></div></div><div class="field field-name-field-profile-comunita-appartene field-type-list-text field-label-above"><div class="field-label">Comunità di appartenenza:&nbsp;</div><div class="field-items"><div class="field-item even" property="schema:jobTitle">giornalismo</div><div class="field-item odd" property="schema:jobTitle">dataviz</div></div></div><div class="field field-name-field-profiles-address-citta field-type-addressfield field-label-above"><div class="field-label">Citta di cui mi interesso:&nbsp;</div><div class="field-items"><div class="field-item even" property="schema:jobLocation"><div class="addressfield-container-inline locality-block country-IT"><span class="locality" x-autocompletetype="locality" autocomplete="locality">Bologna</span> <span class="state" x-autocompletetype="region" autocomplete="region">BO</span></div><span class="country" x-autocompletetype="country" autocomplete="country">Italia</span></div><div class="field-item odd" property="schema:jobLocation"><div class="addressfield-container-inline locality-block country-IT"><span class="locality" x-autocompletetype="locality" autocomplete="locality">MILANO</span> <span class="state" x-autocompletetype="region" autocomplete="region">MI</span></div><span class="country" x-autocompletetype="country" autocomplete="country">Italia</span></div><div class="field-item even" property="schema:jobLocation"><div class="addressfield-container-inline locality-block country-IT"><span class="locality" x-autocompletetype="locality" autocomplete="locality">Roma</span> <span class="state" x-autocompletetype="region" autocomplete="region">RM</span></div><span class="country" x-autocompletetype="country" autocomplete="country">Italia</span></div><div class="field-item odd" property="schema:jobLocation"><div class="addressfield-container-inline locality-block country-IT"><span class="locality" x-autocompletetype="locality" autocomplete="locality">Messina</span> <span class="state" x-autocompletetype="region" autocomplete="region">ME</span></div><span class="country" x-autocompletetype="country" autocomplete="country">Italia</span></div></div></div><div class="field field-name-field-profile-keywords field-type-taxonomy-term-reference field-label-above"><div class="field-label">Tag con cui ti identifichi :&nbsp;</div><div class="field-items"><div class="field-item even" rel="schema:keywords">data journalism</div><div class="field-item odd" rel="schema:keywords">open data</div><div class="field-item even" rel="schema:keywords">journalism</div><div class="field-item odd" rel="schema:keywords">new media</div><div class="field-item even" rel="schema:keywords">data</div><div class="field-item odd" rel="schema:keywords">scraping</div><div class="field-item even" rel="schema:keywords">storytelling</div><div class="field-item odd" rel="schema:keywords">opensource</div><div class="field-item even" rel="schema:keywords">civic hackers</div><div class="field-item odd" rel="schema:keywords">activist</div></div></div><div class="field field-name-field-profile-blog-personale field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even" property="schema:sameAs"><a href="http://www.dataninja.it">Blog personale</a></div></div></div><div class="field field-name-field-profile-facebook field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even" property="schema:sameAs"><a href="http://facebook.com/nelsonmau">Profilo Facebook</a></div></div></div><div class="field field-name-field-profile-twitter field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even" property="schema:sameAs"><a href="http://twitter.com/nelsonmau">Profilo Twitter</a></div></div></div><div class="field field-name-field-profile-linkedin field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even" property="schema:sameAs"><a href="http://it.linkedin.com/in/nelsonmau/">Profilo Linkedin</a></div></div></div><div class="field field-name-field-partecipo-a-sod15 field-type-list-boolean field-label-above"><div class="field-label">Partecipo a SOD15:&nbsp;</div><div class="field-items"><div class="field-item even">SI</div></div></div>  </div>
+</div>
+</dl>
+  <h3>Cronologia</h3>
+
+<dl>
+  <dt>Blog</dt>
+<dd><a href="/blogs/andrea-nelson-mauro" title="Leggi gli ultimi post del blog di Andrea Nelson Mauro">Vedi messaggi recenti del blog</a></dd>
+<dt>Iscritto da</dt>
+<dd>5 anni 4 mesi</dd>
+</dl>
+<span rel="schema:url" resource="/users/andrea-nelson-mauro" class="rdf-meta element-hidden"></span><span property="schema:name" content="nelsonmau" class="rdf-meta element-hidden"></span></div>
+
+</section> <!-- /.block -->
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+  </footer>
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+</body>
+</html>

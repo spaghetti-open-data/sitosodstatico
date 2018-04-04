@@ -1,0 +1,214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="it" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:dcat="http://vocab.deri.ie/dcat.rdf/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:site="http://www.spaghettiopendata.org/ns#"
+  xmlns:schema="http://schema.org/">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:site_name" content="Spaghetti Open Data" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.spaghettiopendata.org/blog/alberto-cottica/call-proposals-cerchiamo-una-citt-ospitare-il-raduno-di-spaghetti-open-data" />
+<link rel="shortcut icon" href="http://www.spaghettiopendata.org/sites/all/themes/sod3_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="http://www.spaghettiopendata.org/node/99" />
+<link rel="canonical" href="http://www.spaghettiopendata.org/blog/alberto-cottica/call-proposals-cerchiamo-una-citt-ospitare-il-raduno-di-spaghetti-open-data" />
+<meta name="description" content="Spaghetti Open Data è la principale comunità di discussione in lingua italiana intorno al tema degli open data in tutte le sue declinazioni. Ne fanno parte civic hackers, sviluppatori, funzionari pubblici, giuristi, data journalists, ricercatori e semplici cittadini interessati al tema. Esiste dall&#039;ottobre 2010: al momento in cui scrivo, la mailing list ha 640 iscritti, con 1.353 discussioni e oltre 10.000 messaggi. La comunità ha deciso di organizzare il proprio secondo raduno (SOD14)." />
+<meta property="og:title" content="Call for proposals: cerchiamo una città per ospitare il raduno di Spaghetti Open Data" />
+<meta property="og:description" content="Spaghetti Open Data è la principale comunità di discussione in lingua italiana intorno al tema degli open data in tutte le sue declinazioni. Ne fanno parte civic hackers, sviluppatori, funzionari pubblici, giuristi, data journalists, ricercatori e semplici cittadini interessati al tema. Esiste dall&#039;ottobre 2010: al momento in cui scrivo, la mailing list ha 640 iscritti, con 1.353 discussioni e oltre 10.000 messaggi. La comunità ha deciso di organizzare il proprio secondo raduno (SOD14)." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Call for proposals: cerchiamo una città per ospitare il raduno di Spaghetti Open Data | Spaghetti Open Data</title>
+  <link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_Krv2lsDiRe0RpHVCfHNzZcy-xh1jpFJW9dPkOJ8J7FE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_kX1d5LrmIJ2geQ8Pjw4barVU9JIeO0Lo79UouLYqf_U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.0.2/cerulean/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_g6U6EwXzM2Jt8kacTS8MPdb4CEqzJ0bsrkHRe8WfEQw.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_jpJjaUC0z8JMIyav5oQrYykDRUb64rpaUDpB4Y9aklU.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_QDXevDQUHVzZMDomLWFovPGOvjb39NStLwsu8L03TvI.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-37620039-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sod3_bootstrap","theme_token":"NBwgPomw91J0PknPjoCn7qUe0Q6WUpd-3PB7A4Utrb4","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/it__kFqB28HWmqctT6vvCycgucpWPXQeOGk8eIVBrBvAbU.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"\/\/netdna.bootstrapcdn.com\/bootswatch\/3.0.2\/cerulean\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/sod3_bootstrap\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/blog\/alberto-cottica\/call-proposals-cerchiamo-una-citt-ospitare-il-raduno-di-spaghetti-open-data?destination=node\/99":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-99 node-type-blog i18n-it" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Salta al contenuto principale</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      
+            <a class="name navbar-brand" href="/" title="Home">Spaghetti Open Data</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/home">Home</a></li>
+<li class="collapsed"><a href="/page/cos-e-chi-siamo">Cos&#039;è e chi siamo</a></li>
+<li class="leaf"><a href="/page/netiquette-ovvero-le-regole-di-comportamento">Netiquette</a></li>
+<li class="collapsed"><a href="/community" title="Community utenti">Community</a></li>
+<li class="leaf"><a href="/page/sod-merge-it-2018">SOD a MERGE-it 2018</a></li>
+<li class="collapsed"><a href="/page/altri-raduni-cosa-abbiamo-fatto">Altri raduni</a></li>
+<li class="leaf"><a href="/page/si-parla-di-sod-ovvero-una-sorta-di-rassegna-stampa" title="Dove si parla di SOD in Rete, dalla rassegna stampa dei raduni, a tutto il resto che ci cita">Si parla di SOD</a></li>
+<li class="leaf"><a href="/page/contatti">Contatti</a></li>
+<li class="last leaf"><a href="/page/aiuto">Aiuto</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-first well">
+    <section id="block-user-login" class="block block-user clearfix">
+
+        <h2 class="block-title">Accesso utente</h2>
+    
+  <form action="/blog/alberto-cottica/call-proposals-cerchiamo-una-citt-ospitare-il-raduno-di-spaghetti-open-data?destination=node/99" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-type-textfield form-item-name form-item form-group">
+  <label for="edit-name">Nome utente <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" />
+</div>
+<div class="form-type-password form-item-pass form-item form-group">
+  <label for="edit-pass">Password <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" />
+</div>
+<ul><li class="first"><a href="/user/register" title="Crea un nuovo profilo utente.">Crea nuovo profilo</a></li>
+<li class="last"><a href="/user/password" title="Richiedi una nuova password tramite e-mail.">Richiedi nuova password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-rk5xfqKZ6iv4M3729qzgyQx9TO7uka8z9eGOXnN1hqg" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Accedi" type="submit">Accedi</button>
+</div></form>
+</section> <!-- /.block -->
+  </div>
+      </aside>  <!-- /#sidebar-first -->
+    
+    <section class="col-sm-9">
+            <ol class="breadcrumb"><li class="first"><a href="/">Home</a></li>
+<li><a href="/blog">Blog</a></li>
+<li><a href="/blogs/alberto-cottica">Blog di Alberto Cottica</a></li>
+<li class="active last">Call for proposals: cerchiamo una città per ospitare il raduno di Spaghetti Open Data</li>
+</ol>      <a id="main-content"></a>
+                    <h1 class="page-header">Call for proposals: cerchiamo una città per ospitare il raduno di Spaghetti Open Data</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-99" class="node node-blog clearfix" about="/blog/alberto-cottica/call-proposals-cerchiamo-una-citt-ospitare-il-raduno-di-spaghetti-open-data" typeof="sioc:Post sioct:BlogPost">
+
+
+  <header>
+            <span property="dc:title" content="Call for proposals: cerchiamo una città per ospitare il raduno di Spaghetti Open Data" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2013-09-11T16:13:41+02:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/alberto-cottica" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/alberto-cottica" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Alberto Cottica</a> il Mer, 09/11/2013 - 16:13</span>      </span>
+    
+          <!-- AddThis Button BEGIN -->
+      <div class="addthis_toolbox addthis_default_style" style="margin-top: 10px;">
+      <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+      <a class="addthis_button_google_plusone" g:plusone:annotation="bubble"></a>
+      <a class="addthis_button_tweet"></a>
+      <a class="addthis_button_pinterest_pinit"></a>
+      <a class="addthis_counter addthis_pill_style"></a>
+      </div>
+      <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+      <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js"></script>
+      <!-- AddThis Button END -->
+    
+
+  </header>
+
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Spaghetti Open Data è la principale comunità di discussione in lingua italiana intorno al tema degli open data in tutte le sue declinazioni. Ne fanno parte civic hackers, sviluppatori, funzionari pubblici, giuristi, data journalists, ricercatori e semplici cittadini interessati al tema. Esiste dall'ottobre 2010: al momento in cui scrivo, la mailing list ha 640 iscritti, con 1.353 discussioni e oltre 10.000 messaggi. La comunità ha deciso di organizzare il proprio secondo raduno (SOD14). Il raduno si svolgerà alla fine di gennaio 2014 e durerà tre giorni, il tempo di un lungo fine settimana. Indicativamente, il primo giorno sarà dedicato a una unconference, con presentazioni di progetti open data; il secondo a uno o più hackathons; il terzo a un minicorso pratico. In base ai risultati del 2013, prevediamo che a SOD14 parteciperanno dalle 100 alle 300 persone (<a href="http://www.chefuturo.it/2013/01/sod13-che-succede-quando-gli-spaghetti-incontrano-gli-open-data/">leggi il resoconto di SOD13</a>). Cerchiamo: </p>
+<ul><li>
+		una città disposta ad ospitare il raduno, mettendo a disposizione di chi vi partecipa alcuni servizi.</li>
+<li>
+		un numero imprecisato di enti pubblici o imprese private disposte a collaborare all'organizzazione.</li>
+</ul><p>	<strong>Cosa ci serve </strong></p>
+<ul><li>
+		essenziale: una o più sale dotate di un buon wi-fi e abbondanti prese di corrente. L'ideale è avere più sale, vicine tra loro, di dimensioni e vocazioni diverse (lecture theater, salette con tavoli per hackathon etc.)</li>
+<li>
+		essenziale: una o più persone, espresse dalla città organizzatrice, che si facciano carico personalmente di organizzare il raduno insieme a noi.</li>
+<li>
+		desiderabile: coffee/lunch breaks. Al civic hacking serve caffeina! Nel 2013 ciascuno si è pagato la propria.</li>
+<li>
+		desiderabile: convenzioni a prezzi agevolati per alberghi e ristoranti</li>
+<li>
+		desiderabile: sponsorizzazione di un keynote speaker o un docente.</li>
+<li>
+		gli elementi indicati come essenziali devono necessariamente essere offerti dalla città ospitante. Gli altri possono venire offerti dalla città ospitante o da altri. In realtà, a noi piacerebbe di più che ci fosse collaborazione tra più città (o Regioni o aziende).</li>
+</ul><p>Spaghetti Open Data non è un'organizzazione, e quindi non ha codice fiscale o conto corrente. Non può, quindi, accettare denaro ma solo contributi in natura.</p>
+<p>	<strong>La candidatura di Bologna</strong><br />
+La città di Bologna ha ospitato SOD13 e, generosamente, si è già candidata per ospitare SOD14 (<a href="https://groups.google.com/forum/#!topic/spaghettiopendata/ilCgFeGBC-s">discussione in mailing list</a>). L'offerta comprende:</p>
+<ul><li>
+		una collaborazione tra Regione Emilia Romagna e Comune di Bologna per lavorare all'organizzazione. I referenti per Regione e Comune sono stati individuati.</li>
+<li>
+		sale con wi-fi molto veloce (e che nel 2013 ha retto senza problemi gli oltre 100 device collegati, che non è una cosa da poco)</li>
+<li>
+		un'azienda privata, Laboratori Guglielmo Marconi, che offre un po' di back office organizzativo e amministrativo se serve</li>
+<li>
+		impegno fin da subito a sostenere anche SOD15 e SOD16, per fare del raduno un appuntamento fisso.</li>
+<li>
+		a Bologna si mangia bene e non è difficle trovare ristoranti in centro dove si va a piedi.</li>
+</ul><p>	<strong>Come candidarsi</strong><br />
+Ecco come proporre la tua città in alternativa a Bologna o proporre il tuo ente o la tua azienda per collaborare con noi all'organizzazione di SOD14.</p>
+<ul><li>
+		<a href="https://groups.google.com/d/forum/spaghettiopendata">iscriviti</a> a Spaghetti Open Data</li>
+<li>
+		apri una discussione con un titolo informativo: per esempio "XY vuole ospitare il raduno 2014". Scrivi chi sei e cosa ti offri di fare per SOD14, scegliendo dalla lista qui sopra o anche aggiungendo una cosa che a noi non è venuta in mente. </li>
+<li>
+		fai tutto questo entro il 10 ottobre 2013. </li>
+<li>
+		la comunità discuterà le varie proposte sulla mailing list e prenderà una decisione in qualche giorno.</li>
+</ul><p> <br />
+ </p>
+</div></div></div><span property="dc:title" content="Call for proposals: cerchiamo una città per ospitare il raduno di Spaghetti Open Data" class="rdf-meta element-hidden"></span>
+      <footer>
+            <ul class="links list-inline"><li class="blog_usernames_blog first"><a href="/blogs/alberto-cottica" title="Leggi gli ultimi post del blog di Alberto Cottica">Blog di Alberto Cottica</a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/99%23comment-form">Accedi</a> o <a href="/user/register?destination=node/99%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul>    </footer>
+  
+  
+</article> <!-- /.node -->
+
+</section> <!-- /.block -->
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+  </footer>
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+</body>
+</html>

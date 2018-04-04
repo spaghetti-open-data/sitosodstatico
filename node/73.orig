@@ -1,0 +1,229 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="it" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:dcat="http://vocab.deri.ie/dcat.rdf/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:site="http://www.spaghettiopendata.org/ns#"
+  xmlns:schema="http://schema.org/">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:site_name" content="Spaghetti Open Data" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.spaghettiopendata.org/blog/francesco-minazzi/appunti-lhackathon-2nd-track-epsi-scoreboard" />
+<link rel="shortcut icon" href="http://www.spaghettiopendata.org/sites/all/themes/sod3_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="http://www.spaghettiopendata.org/node/73" />
+<link rel="canonical" href="http://www.spaghettiopendata.org/blog/francesco-minazzi/appunti-lhackathon-2nd-track-epsi-scoreboard" />
+<meta name="description" content=" 
+In vista del raduno, a mero uso e consumo dei partecipanti alla seconda sezione dell&#039;hackathon, che non abbiano avuto modo e tempo di approfondire, ecco qualche indicazione sull&#039;oggetto dello stesso." />
+<meta property="og:title" content="Appunti per l&#039;hackathon – 2nd track: ePSI scoreboard" />
+<meta property="og:description" content=" 
+In vista del raduno, a mero uso e consumo dei partecipanti alla seconda sezione dell&#039;hackathon, che non abbiano avuto modo e tempo di approfondire, ecco qualche indicazione sull&#039;oggetto dello stesso." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Appunti per l&#039;hackathon – 2nd track: ePSI scoreboard | Spaghetti Open Data</title>
+  <link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_Krv2lsDiRe0RpHVCfHNzZcy-xh1jpFJW9dPkOJ8J7FE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_kX1d5LrmIJ2geQ8Pjw4barVU9JIeO0Lo79UouLYqf_U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.0.2/cerulean/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_g6U6EwXzM2Jt8kacTS8MPdb4CEqzJ0bsrkHRe8WfEQw.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_jpJjaUC0z8JMIyav5oQrYykDRUb64rpaUDpB4Y9aklU.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_QDXevDQUHVzZMDomLWFovPGOvjb39NStLwsu8L03TvI.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-37620039-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sod3_bootstrap","theme_token":"iWuo45IUnpJuIaFT1DswnEv5h4mP93Aq5o7yXXM66bc","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/it__kFqB28HWmqctT6vvCycgucpWPXQeOGk8eIVBrBvAbU.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"\/\/netdna.bootstrapcdn.com\/bootswatch\/3.0.2\/cerulean\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/sod3_bootstrap\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/blog\/francesco-minazzi\/appunti-lhackathon-2nd-track-epsi-scoreboard?destination=node\/73":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-73 node-type-blog i18n-it" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Salta al contenuto principale</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      
+            <a class="name navbar-brand" href="/" title="Home">Spaghetti Open Data</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/home">Home</a></li>
+<li class="collapsed"><a href="/page/cos-e-chi-siamo">Cos&#039;è e chi siamo</a></li>
+<li class="leaf"><a href="/page/netiquette-ovvero-le-regole-di-comportamento">Netiquette</a></li>
+<li class="collapsed"><a href="/community" title="Community utenti">Community</a></li>
+<li class="leaf"><a href="/page/sod-merge-it-2018">SOD a MERGE-it 2018</a></li>
+<li class="collapsed"><a href="/page/altri-raduni-cosa-abbiamo-fatto">Altri raduni</a></li>
+<li class="leaf"><a href="/page/si-parla-di-sod-ovvero-una-sorta-di-rassegna-stampa" title="Dove si parla di SOD in Rete, dalla rassegna stampa dei raduni, a tutto il resto che ci cita">Si parla di SOD</a></li>
+<li class="leaf"><a href="/page/contatti">Contatti</a></li>
+<li class="last leaf"><a href="/page/aiuto">Aiuto</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-first well">
+    <section id="block-user-login" class="block block-user clearfix">
+
+        <h2 class="block-title">Accesso utente</h2>
+    
+  <form action="/blog/francesco-minazzi/appunti-lhackathon-2nd-track-epsi-scoreboard?destination=node/73" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-type-textfield form-item-name form-item form-group">
+  <label for="edit-name">Nome utente <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" />
+</div>
+<div class="form-type-password form-item-pass form-item form-group">
+  <label for="edit-pass">Password <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" />
+</div>
+<ul><li class="first"><a href="/user/register" title="Crea un nuovo profilo utente.">Crea nuovo profilo</a></li>
+<li class="last"><a href="/user/password" title="Richiedi una nuova password tramite e-mail.">Richiedi nuova password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-tpmcpcdTm-4-W_q0m_kliwh7elXq1dJ8pS2YbZiOl3A" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Accedi" type="submit">Accedi</button>
+</div></form>
+</section> <!-- /.block -->
+  </div>
+      </aside>  <!-- /#sidebar-first -->
+    
+    <section class="col-sm-9">
+            <ol class="breadcrumb"><li class="first"><a href="/">Home</a></li>
+<li><a href="/blog">Blog</a></li>
+<li><a href="/blogs/francesco-minazzi">Blog di Avv. Francesco Minazzi</a></li>
+<li class="active last">Appunti per l&#039;hackathon – 2nd track: ePSI scoreboard</li>
+</ol>      <a id="main-content"></a>
+                    <h1 class="page-header">Appunti per l&#039;hackathon – 2nd track: ePSI scoreboard</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-73" class="node node-blog clearfix" about="/blog/francesco-minazzi/appunti-lhackathon-2nd-track-epsi-scoreboard" typeof="sioc:Post sioct:BlogPost">
+
+
+  <header>
+            <span property="dc:title" content="Appunti per l&#039;hackathon – 2nd track: ePSI scoreboard" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="1" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2013-01-08T00:04:47+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/francesco-minazzi" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/francesco-minazzi" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Avv. Francesco ...</a> il Mar, 01/08/2013 - 00:04</span>      </span>
+    
+          <!-- AddThis Button BEGIN -->
+      <div class="addthis_toolbox addthis_default_style" style="margin-top: 10px;">
+      <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+      <a class="addthis_button_google_plusone" g:plusone:annotation="bubble"></a>
+      <a class="addthis_button_tweet"></a>
+      <a class="addthis_button_pinterest_pinit"></a>
+      <a class="addthis_counter addthis_pill_style"></a>
+      </div>
+      <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+      <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js"></script>
+      <!-- AddThis Button END -->
+    
+
+  </header>
+
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p> <br />
+In vista del raduno, a mero uso e consumo dei partecipanti alla seconda sezione dell'hackathon, che non abbiano avuto modo e tempo di approfondire, ecco qualche indicazione sull'oggetto dello stesso.<br />
+Lo scopo è revisionare il punteggio italiano inserito nell'ePSI <a href="http://epsiplatform.eu/content/european-psi-scoreboard">Scoreboard</a>. L'ePSI è lo European Public Sector Information (Platform), ovvero il corpo di dati della macchina pubblica europea: trova il suo fondamento attuale nella <a href="http://ec.europa.eu/information_society/policy/psi/actions_eu/policy_actions/index_en.htm">direttiva</a> sul riuso dei dati degli organi pubblici esistenti nell'Unione Europea<br />
+Lo Scoreboard (letteralmente “tabellone segnapunti”) è il sistema di classificazione che l'ePSI ha inteso adottare per valutare lo stato di diffusione dei dati aperti e di attuazione della citata direttiva negli Stati membri. E' stato compilato sulla base di ricerche internet e dell'apporto di esperti, presentando dunque un certo margine di incertezza, nonché inesattezze dovute all'inevitabile obsolescenza delle informazioni: non ha, infatti, tenuto conto delle molteplici iniziative in tema di dati aperti sorte di recente, soprattutto in riferimento agli Enti Locali.<br />
+Consapevole di questi limiti, la stessa ePSI Plateform invita ad inviare, tramite apposito <a href="http://epsiplatform.eu/contact">modulo</a> di contatto, i dati necessari a correggere le informazioni in loro possesso.<br />
+L'obiettivo è, dunque, quello di adeguare il dato italiano sulle pratiche open data alla situazione attuale, ben più rosea che in precedenza, dato sottostimato, a quanto pare, nello scoreboard.<br />
+I criteri di misurazione usati concernono sette aspetti del riuso di dati pubblici, ciascuno dei quali basato su un certo numero di indicatori:<br />
+ </p>
+<ol><li>
+		attuazione della direttiva PSI, con due indicatori da 50 punti cadauno: attuazione della direttiva in assenza di procedure d'infrazione ad essa inerenti e quantità di esenzioni dall'attuarla, concesse dallo Stato membro ad alcuni Enti;
+	</li>
+<li>
+		politica nazionale di riuso, con cinque indicatori da 20 punti cadauno: previsione di un obbligo generale di garantire il diritto al riuso, distinzione tra riuso commerciale e non commerciale, procedura di appello e risarcimento avverso il diniego di riuso da parte di un organo pubblico, esortazione dello Stato agli Enti ad effettuare il riuso spontaneamente piuttosto che su richiesta, previsione di licenze nazionali consigliate;
+	</li>
+<li>
+		formati, con quattro indicatori, due da 20 punti e due da 30 punti: incoraggiamento a pubblicare dati “grezzi” in standard aperti, obbligo di pubblicare dati “grezzi” in standard aperti, incoraggiamento a pubblicare Linked Open Data, esistenza di cataloghi/portali nazionali e/o regionali;
+	</li>
+<li>
+		costi, con tre indicatori alternativi da 30 e 50, perché due opzioni si escludono: adozione di un modello che ripaghi i costi, adozione di un modello basato sui costi marginali, adozione di un modello a costi marginali con eccezioni;
+	</li>
+<li>
+		diritti di esclusiva, con tre indicatori, da 50, 30 e 20 punti: previsione del divieto di garantire diritti esclusivi di riuso o pubblicazione a determinati soggetti, pendenza di giudizi legali contro un ente che abbia concesso diritti di esclusiva, cessazione coatta di almeno due contratti di esclusiva;
+	</li>
+<li>
+		disponibilità di informazioni locali e regionali e comunità open data, con tre indicatori, da 40 e 20 punti: esistenza blanda (40), moderata(40) o consistente (20) di enti locali che abbiano pubblicato almeno un toto di dataset ed esistenza di comunità locali di attivisti (credo abbiano sbagliato a indicare i punti però);
+	</li>
+<li>
+		eventi e attività, con tre indicatori, da 50, 25 e 25 punti: pochi eventi nazionali o inter-regionali (50), vari eventi nazionali o inter-regionali (25) e un numero considerevole di eventi nazionali o inter-regionali (25, anche qui credo abbiano indicato male i punti).
+	</li>
+</ol><p> <br />
+L'ePSI stesso invita anche ad informarli se i criteri adottati sono da ritenersi errati o poco pertinenti, pur precisando che non prevedono di modificarli a breve: direi che di modifiche possiamo discutere, ad esempio rispetto ai costi nel documento illustrativo si parla anche di <a href="http://it.wikipedia.org/wiki/Return_on_investment">ROI</a>, che Alberto in un thread spiegava essere concetto poco consono ai dati aperti. Ritengo, inoltre, come accennato, che in alcuni casi abbiano invertito i punti da assegnare: non vedo perché, altrimenti, un numero considerevole di eventi (almeno dodici annuali dice il questionario) riceva la metà dei punti di un numero basso di eventi (almeno quattro annuali).<br />
+Infine, si precisa che i punti degli indicatori sono assegnati con principio del codice binario: o tutti o niente. Quindi, se un obiettivo legato all'indicatore non è raggiunto al 100%, il valore è zero e non 30,5 o 14,995784739.<br />
+Questo può costituire un punto di partenza, si attendono ovviamente ulteriori contributi ed osservazioni, nonché l'opinione di Morena Ragone posta a direzione della second track.<br />
+Buon lavoro a tutti.</p>
+</div></div></div><span property="dc:title" content="Appunti per l&#039;hackathon – 2nd track: ePSI scoreboard" class="rdf-meta element-hidden"></span>
+      <footer>
+            <ul class="links list-inline"><li class="blog_usernames_blog first"><a href="/blogs/francesco-minazzi" title="Leggi gli ultimi post del blog di Avv. Francesco Minazzi">Blog di Avv. Francesco Minazzi</a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/73%23comment-form">Accedi</a> o <a href="/user/register?destination=node/73%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul>    </footer>
+  
+  <div id="comments" class="comment-wrapper">
+          <h2 class="title">Commenti</h2>
+      
+  <a id="comment-15"></a>
+<div class="comment clearfix" about="/comment/15#comment-15" typeof="sioc:Post sioct:Comment">
+  
+  
+    <h3 property="dc:title" datatype=""><a href="/comment/15#comment-15" class="permalink" rel="bookmark">A Bologna!</a></h3>
+  
+  <div class="submitted">
+    <a href="/comment/15#comment-15" class="permalink" rel="bookmark">Collegamento permanente</a>    <span property="dc:date dc:created" content="2013-01-14T18:17:28+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/morena" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/morena" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Morena</a> il Lun, 01/14/2013 - 18:17</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/blog/francesco-minazzi/appunti-lhackathon-2nd-track-epsi-scoreboard" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Ciao Francesco,<br />
+grazie per bella presentazione, innanzitutto. Credo che il lavoro che ci prepariamo a fare a Bologna sia molto importante: da una parte, ci consentirà di entrare in relazione diretta con la PSI Directive - quanti di noi la conoscono davvero? - e, dall'altra, ci aiuterà ad approfondire la valutazione data al processo di apertura dei dati pubblici nel nostro Paese, migliorandone, se del caso, le precedenti valutazioni..Negli utimi mesi, infatti, sono molte le attività intraprese, sia a livello normativo, che di sensibilizzazione e di avvicinamento al tema: non dubito che, allo stato, i risultati saranno migliorativi, grazie anche all'aiuto di tutti gli spaghettari e spaghettare che vorranno lavorarci. Di certo, il lavoro in crowd che ci apprestiamo a realizzare consentirà anche di verificare la presenza di eventuali errori, come quelli da te segnalati, e di portarli all'attenzione del gruppo di lavoro. <br />
+Ci vediamo a Bologna, allora!</p>
+</div></div></div>      </div>
+
+  <ul class="links list-inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/73%23comment-form">Accedi</a> o <a href="/user/register?destination=node/73%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul></div>
+
+  </div>
+
+</article> <!-- /.node -->
+
+</section> <!-- /.block -->
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+  </footer>
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+</body>
+</html>

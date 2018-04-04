@@ -1,0 +1,365 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="it" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:dcat="http://vocab.deri.ie/dcat.rdf/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:site="http://www.spaghettiopendata.org/ns#"
+  xmlns:schema="http://schema.org/">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.spaghettiopendata.org/sites/all/themes/sod3_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" type="application/rss+xml" title="Feed RSS - blog" href="http://www.spaghettiopendata.org/blog/feed" />
+  <title>Blog | Spaghetti Open Data</title>
+  <link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_Krv2lsDiRe0RpHVCfHNzZcy-xh1jpFJW9dPkOJ8J7FE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_kX1d5LrmIJ2geQ8Pjw4barVU9JIeO0Lo79UouLYqf_U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.0.2/cerulean/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_g6U6EwXzM2Jt8kacTS8MPdb4CEqzJ0bsrkHRe8WfEQw.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_jpJjaUC0z8JMIyav5oQrYykDRUb64rpaUDpB4Y9aklU.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_QDXevDQUHVzZMDomLWFovPGOvjb39NStLwsu8L03TvI.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-37620039-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sod3_bootstrap","theme_token":"Yx0UH4DxyEuhLrqmdMoWDwKSgk1yhkX-iqwH3g6rUkY","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/it__kFqB28HWmqctT6vvCycgucpWPXQeOGk8eIVBrBvAbU.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"\/\/netdna.bootstrapcdn.com\/bootswatch\/3.0.2\/cerulean\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/sod3_bootstrap\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/blog?destination=blog%3Fpage%3D2":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-blog i18n-it" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Salta al contenuto principale</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      
+            <a class="name navbar-brand" href="/" title="Home">Spaghetti Open Data</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/home">Home</a></li>
+<li class="collapsed"><a href="/page/cos-e-chi-siamo">Cos&#039;è e chi siamo</a></li>
+<li class="leaf"><a href="/page/netiquette-ovvero-le-regole-di-comportamento">Netiquette</a></li>
+<li class="expanded active-trail dropdown"><a href="/community" title="Community utenti" class="active-trail dropdown-toggle" data-target="#" data-toggle="dropdown">Community <span class="caret"></span></a><ul class="dropdown-menu"><li class="first last leaf active-trail active"><a href="/blog" title="" class="active-trail active">Blog collettivo</a></li>
+</ul></li>
+<li class="leaf"><a href="/page/sod-merge-it-2018">SOD a MERGE-it 2018</a></li>
+<li class="collapsed"><a href="/page/altri-raduni-cosa-abbiamo-fatto">Altri raduni</a></li>
+<li class="leaf"><a href="/page/si-parla-di-sod-ovvero-una-sorta-di-rassegna-stampa" title="Dove si parla di SOD in Rete, dalla rassegna stampa dei raduni, a tutto il resto che ci cita">Si parla di SOD</a></li>
+<li class="leaf"><a href="/page/contatti">Contatti</a></li>
+<li class="last leaf"><a href="/page/aiuto">Aiuto</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-first well">
+    <section id="block-user-login" class="block block-user clearfix">
+
+        <h2 class="block-title">Accesso utente</h2>
+    
+  <form action="/blog?destination=blog%3Fpage%3D2" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-type-textfield form-item-name form-item form-group">
+  <label for="edit-name">Nome utente <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" />
+</div>
+<div class="form-type-password form-item-pass form-item form-group">
+  <label for="edit-pass">Password <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" />
+</div>
+<ul><li class="first"><a href="/user/register" title="Crea un nuovo profilo utente.">Crea nuovo profilo</a></li>
+<li class="last"><a href="/user/password" title="Richiedi una nuova password tramite e-mail.">Richiedi nuova password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-ARKwCMq5DdTUmoXfTJTVBK5azR0uoZHyUHlqJnhjB0U" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Accedi" type="submit">Accedi</button>
+</div></form>
+</section> <!-- /.block -->
+  </div>
+      </aside>  <!-- /#sidebar-first -->
+    
+    <section class="col-sm-9">
+            <ol class="breadcrumb"><li class="first"><a href="/">Home</a></li>
+<li class="active last">Blog</li>
+</ol>      <a id="main-content"></a>
+                    <h1 class="page-header">Blog</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-148" class="node node-blog node-teaser clearfix" about="/blog/luca-corsato/il-francobollo-di-sod14" typeof="sioc:Post sioct:BlogPost">
+
+
+  <header>
+              <h2><a href="/blog/luca-corsato/il-francobollo-di-sod14">Il francobollo di #SOD14</a></h2>
+        <span property="dc:title" content="Il francobollo di #SOD14" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="1" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2014-03-27T10:48:00+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/luca-corsato" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/luca-corsato" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">luca corsato</a> il Gio, 03/27/2014 - 10:48</span>      </span>
+    
+    
+
+  </header>
+
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Un evento non è un EVENTO senza il proprio francobollo, e quindi... et voilà!!!! Come ormai di tradizione, in allegato l'immagine e il vettoriale in .svg (lo aprite con inkscape). Ho lasciato i crocini così è già pronto per diventare un adesivo... ci si vede domani!<br /><img alt="" src="http://www.spaghettiopendata.org/sites/default/files/blog/francobollo_SOD.png" /></p>
+</div></div></div><span property="dc:title" content="Il francobollo di #SOD14" class="rdf-meta element-hidden"></span>
+      <footer>
+            <ul class="links list-inline"><li class="node-readmore first"><a href="/blog/luca-corsato/il-francobollo-di-sod14" rel="tag" title="Il francobollo di #SOD14">Leggi tutto<span class="element-invisible"> su Il francobollo di #SOD14</span></a></li>
+<li class="blog_usernames_blog"><a href="/blogs/luca-corsato" title="Leggi gli ultimi post del blog di luca corsato">Blog di luca corsato</a></li>
+<li class="comment-comments"><a href="/blog/luca-corsato/il-francobollo-di-sod14#comments" title="Vai al primo commento di questo argomento.">1 commento</a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/148%23comment-form">Accedi</a> o <a href="/user/register?destination=node/148%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul>    </footer>
+  
+  
+</article> <!-- /.node -->
+<article id="node-147" class="node node-blog node-teaser clearfix" about="/blog/alberto-cottica/sod14-last-minute-2" typeof="sioc:Post sioct:BlogPost">
+
+
+  <header>
+              <h2><a href="/blog/alberto-cottica/sod14-last-minute-2">SOD14 Last minute: - 2</a></h2>
+        <span property="dc:title" content="SOD14 Last minute: - 2" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="3" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2014-03-26T10:41:08+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/alberto-cottica" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/alberto-cottica" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Alberto Cottica</a> il Mer, 03/26/2014 - 10:41</span>      </span>
+    
+    
+
+  </header>
+
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Come tutti gli eventi veramente bottom-up e di comunità, anche SOD14 ha la tendenza a montarsi da solo all'ultimo minuto, senza un vero comando centrale. Uso questo post per riassumere i cambiamenti e le aggiunte al programma degli ultimi giorni: se necessario, ne faremo un altro domani. L'executive summary è che va tutto bene: <strong>Keep calm and #SOD14</strong>.</p></div></div></div><span property="dc:title" content="SOD14 Last minute: - 2" class="rdf-meta element-hidden"></span>
+      <footer>
+            <ul class="links list-inline"><li class="node-readmore first"><a href="/blog/alberto-cottica/sod14-last-minute-2" rel="tag" title="SOD14 Last minute: - 2">Leggi tutto<span class="element-invisible"> su SOD14 Last minute: - 2</span></a></li>
+<li class="blog_usernames_blog"><a href="/blogs/alberto-cottica" title="Leggi gli ultimi post del blog di Alberto Cottica">Blog di Alberto Cottica</a></li>
+<li class="comment-comments"><a href="/blog/alberto-cottica/sod14-last-minute-2#comments" title="Vai al primo commento di questo argomento.">3 commenti</a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/147%23comment-form">Accedi</a> o <a href="/user/register?destination=node/147%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul>    </footer>
+  
+  
+</article> <!-- /.node -->
+<article id="node-146" class="node node-blog node-teaser clearfix" about="/blog/vinc/il-jingle-di-spaghetti-open-data-2014" typeof="sioc:Post sioct:BlogPost">
+
+
+  <header>
+              <h2><a href="/blog/vinc/il-jingle-di-spaghetti-open-data-2014">Il Jingle di Spaghetti Open Data 2014</a></h2>
+        <span property="dc:title" content="Il Jingle di Spaghetti Open Data 2014" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="1" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2014-03-25T23:13:24+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/vinc" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/vinc" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Vinc</a> il Mar, 03/25/2014 - 23:13</span>      </span>
+    
+    
+
+  </header>
+
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Tutto nasce lo scorso mese di febbraio, a conclusione dell’Open Data Day a Bari. Con gli amici spaghettari stavamo sorseggiando un aperitivo vista mare quando  inevitabilmente si comincia a parlare del raduno di Bologna. <em>“Ci vorrebbe una sigla musicale”  </em>dice qualcuno. In quello stesso istante tutti annuiscono e nel farlo si voltano verso di me.</p></div></div></div><span property="dc:title" content="Il Jingle di Spaghetti Open Data 2014" class="rdf-meta element-hidden"></span>
+      <footer>
+            <ul class="links list-inline"><li class="node-readmore first"><a href="/blog/vinc/il-jingle-di-spaghetti-open-data-2014" rel="tag" title="Il Jingle di Spaghetti Open Data 2014">Leggi tutto<span class="element-invisible"> su Il Jingle di Spaghetti Open Data 2014</span></a></li>
+<li class="blog_usernames_blog"><a href="/blogs/vinc" title="Leggi gli ultimi post del blog di Vinc">Blog di Vinc</a></li>
+<li class="comment-comments"><a href="/blog/vinc/il-jingle-di-spaghetti-open-data-2014#comments" title="Vai al primo commento di questo argomento.">1 commento</a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/146%23comment-form">Accedi</a> o <a href="/user/register?destination=node/146%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul>    </footer>
+  
+  
+</article> <!-- /.node -->
+<article id="node-142" class="node node-blog node-teaser clearfix" about="/blog/mara-cinquepalmi/sod14-appuntamento-bologna-dal-28-al-30-marzo" typeof="sioc:Post sioct:BlogPost">
+
+
+  <header>
+              <h2><a href="/blog/mara-cinquepalmi/sod14-appuntamento-bologna-dal-28-al-30-marzo">SOD14, appuntamento a Bologna dal 28 al 30 marzo</a></h2>
+        <span property="dc:title" content="SOD14, appuntamento a Bologna dal 28 al 30 marzo" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2014-03-20T14:48:16+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/mara-cinquepalmi" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/mara-cinquepalmi" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Mara Cinquepalmi</a> il Gio, 03/20/2014 - 14:48</span>      </span>
+    
+    
+
+  </header>
+
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Dal 28 al 30 marzo Bologna ospita #SOD14, il secondo raduno di<a href="http://www.spaghettiopendata.org/"> Spaghetti Open Data</a>.<br />
+Dopo il successo dello scorso anno, la community si ritrova sotto le due Torri con una tre giorni ricca di appuntamenti e tante novità.<br /></p></div></div></div><span property="dc:title" content="SOD14, appuntamento a Bologna dal 28 al 30 marzo" class="rdf-meta element-hidden"></span>
+      <footer>
+            <ul class="links list-inline"><li class="node-readmore first"><a href="/blog/mara-cinquepalmi/sod14-appuntamento-bologna-dal-28-al-30-marzo" rel="tag" title="SOD14, appuntamento a Bologna dal 28 al 30 marzo">Leggi tutto<span class="element-invisible"> su SOD14, appuntamento a Bologna dal 28 al 30 marzo</span></a></li>
+<li class="blog_usernames_blog"><a href="/blogs/mara-cinquepalmi" title="Leggi gli ultimi post del blog di Mara Cinquepalmi">Blog di Mara Cinquepalmi</a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/142%23comment-form">Accedi</a> o <a href="/user/register?destination=node/142%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul>    </footer>
+  
+  
+</article> <!-- /.node -->
+<article id="node-138" class="node node-blog node-teaser clearfix" about="/blog/luca-corsato/loghi-spaghetti-open-data-2014" typeof="sioc:Post sioct:BlogPost">
+
+
+  <header>
+              <h2><a href="/blog/luca-corsato/loghi-spaghetti-open-data-2014">Loghi Spaghetti Open Data 2014</a></h2>
+        <span property="dc:title" content="Loghi Spaghetti Open Data 2014" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2014-03-12T11:29:10+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/luca-corsato" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/luca-corsato" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">luca corsato</a> il Mer, 03/12/2014 - 11:29</span>      </span>
+    
+    
+
+  </header>
+
+  <div class="field field-name-field-immagine-blog-entry field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/blog/luca-corsato/loghi-spaghetti-open-data-2014"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/SOD_14_pasta_mini_0.png?itok=2oHjlo-I" width="100" height="100" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Premessa<br />
+Era da un po’ che ci pensavo e siccome ritengo che l’immaginario sia importante, allora ho raccolto le idee e le suggestioni e ho realizzato i loghi per <a href="http://www.spaghettiopendata.org/">Spaghetti Open Data</a>.<br /></p></div></div></div><span property="dc:title" content="Loghi Spaghetti Open Data 2014" class="rdf-meta element-hidden"></span>
+      <footer>
+            <ul class="links list-inline"><li class="node-readmore first"><a href="/blog/luca-corsato/loghi-spaghetti-open-data-2014" rel="tag" title="Loghi Spaghetti Open Data 2014">Leggi tutto<span class="element-invisible"> su Loghi Spaghetti Open Data 2014</span></a></li>
+<li class="blog_usernames_blog"><a href="/blogs/luca-corsato" title="Leggi gli ultimi post del blog di luca corsato">Blog di luca corsato</a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/138%23comment-form">Accedi</a> o <a href="/user/register?destination=node/138%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul>    </footer>
+  
+  
+</article> <!-- /.node -->
+<article id="node-129" class="node node-blog node-teaser clearfix" about="/blog/alberto-cottica/sod14-verso-il-programma-ultimi-giorni-iscriversi" typeof="sioc:Post sioct:BlogPost">
+
+
+  <header>
+              <h2><a href="/blog/alberto-cottica/sod14-verso-il-programma-ultimi-giorni-iscriversi">SOD14, verso il programma – ultimi giorni per iscriversi!</a></h2>
+        <span property="dc:title" content="SOD14, verso il programma – ultimi giorni per iscriversi!" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2014-03-09T10:29:35+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/alberto-cottica" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/alberto-cottica" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Alberto Cottica</a> il Dom, 03/09/2014 - 10:29</span>      </span>
+    
+    
+
+  </header>
+
+  <div class="field field-name-field-immagine-blog-entry field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/blog/alberto-cottica/sod14-verso-il-programma-ultimi-giorni-iscriversi"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/SOD13_at_work.jpg?itok=05FgV-2-" width="100" height="38" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p> <br /></p></div></div></div><span property="dc:title" content="SOD14, verso il programma – ultimi giorni per iscriversi!" class="rdf-meta element-hidden"></span>
+      <footer>
+            <ul class="links list-inline"><li class="node-readmore first"><a href="/blog/alberto-cottica/sod14-verso-il-programma-ultimi-giorni-iscriversi" rel="tag" title="SOD14, verso il programma – ultimi giorni per iscriversi!">Leggi tutto<span class="element-invisible"> su SOD14, verso il programma – ultimi giorni per iscriversi!</span></a></li>
+<li class="blog_usernames_blog"><a href="/blogs/alberto-cottica" title="Leggi gli ultimi post del blog di Alberto Cottica">Blog di Alberto Cottica</a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/129%23comment-form">Accedi</a> o <a href="/user/register?destination=node/129%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul>    </footer>
+  
+  
+</article> <!-- /.node -->
+<article id="node-123" class="node node-blog node-teaser clearfix" about="/blog/andrea-nelson-mauro/lopendataday-della-porta-accanto" typeof="sioc:Post sioct:BlogPost">
+
+
+  <header>
+              <h2><a href="/blog/andrea-nelson-mauro/lopendataday-della-porta-accanto">L&#039;OpenDataDay della porta accanto</a></h2>
+        <span property="dc:title" content="L&#039;OpenDataDay della porta accanto" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2014-03-02T17:31:12+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/andrea-nelson-mauro" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/andrea-nelson-mauro" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Andrea Nelson Mauro</a> il Dom, 03/02/2014 - 17:31</span>      </span>
+    
+    
+
+  </header>
+
+  <div class="field field-name-field-immagine-blog-entry field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/blog/andrea-nelson-mauro/lopendataday-della-porta-accanto"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/oddmap.png?itok=RkbXgrD5" width="100" height="59" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Una delle cose più interessanti sugli Open Data è secondo me poterli raccontare, spiegare almeno un po' a cosa possono servire, cercare di capire a chi può interessare. Il 22 febbraio 2014, otto giorni fa rispetto a quando scrivo questo post, in una ventina di città italiane si è tenuto l'Open Data Day (<a href="http://opendataday.org/">iniziativa internazionale</a> che si è diffusa anche in Italia).</p></div></div></div><span property="dc:title" content="L&#039;OpenDataDay della porta accanto" class="rdf-meta element-hidden"></span>
+      <footer>
+            <ul class="links list-inline"><li class="node-readmore first"><a href="/blog/andrea-nelson-mauro/lopendataday-della-porta-accanto" rel="tag" title="L&#039;OpenDataDay della porta accanto">Leggi tutto<span class="element-invisible"> su L&#039;OpenDataDay della porta accanto</span></a></li>
+<li class="blog_usernames_blog"><a href="/blogs/andrea-nelson-mauro" title="Leggi gli ultimi post del blog di Andrea Nelson Mauro">Blog di Andrea Nelson Mauro</a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/123%23comment-form">Accedi</a> o <a href="/user/register?destination=node/123%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul>    </footer>
+  
+  
+</article> <!-- /.node -->
+<article id="node-116" class="node node-blog node-teaser clearfix" about="/blog/mara-cinquepalmi/sod14-come-iscriversi-e-come-partecipare" typeof="sioc:Post sioct:BlogPost">
+
+
+  <header>
+              <h2><a href="/blog/mara-cinquepalmi/sod14-come-iscriversi-e-come-partecipare">SOD14, come iscriversi e come partecipare</a></h2>
+        <span property="dc:title" content="SOD14, come iscriversi e come partecipare" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2014-02-24T15:58:24+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/mara-cinquepalmi" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/mara-cinquepalmi" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Mara Cinquepalmi</a> il Lun, 02/24/2014 - 15:58</span>      </span>
+    
+    
+
+  </header>
+
+  <div class="field field-name-field-immagine-blog-entry field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/blog/mara-cinquepalmi/sod14-come-iscriversi-e-come-partecipare"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/05-SOD13.jpg?itok=we6H7Ko5" width="100" height="66" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Manca poco più di un mese all’edizione 2014 del raduno di Spaghetti Open Data che si terrà a Bologna il 28, 29 e 30 marzo 2014.</p></div></div></div><span property="dc:title" content="SOD14, come iscriversi e come partecipare" class="rdf-meta element-hidden"></span>
+      <footer>
+            <ul class="links list-inline"><li class="node-readmore first"><a href="/blog/mara-cinquepalmi/sod14-come-iscriversi-e-come-partecipare" rel="tag" title="SOD14, come iscriversi e come partecipare">Leggi tutto<span class="element-invisible"> su SOD14, come iscriversi e come partecipare</span></a></li>
+<li class="blog_usernames_blog"><a href="/blogs/mara-cinquepalmi" title="Leggi gli ultimi post del blog di Mara Cinquepalmi">Blog di Mara Cinquepalmi</a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/116%23comment-form">Accedi</a> o <a href="/user/register?destination=node/116%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul>    </footer>
+  
+  
+</article> <!-- /.node -->
+<article id="node-110" class="node node-blog node-teaser clearfix" about="/blog/nelsonmau/chi-controlla-lintegrit-dei-dati" typeof="sioc:Post sioct:BlogPost">
+
+
+  <header>
+              <h2><a href="/blog/nelsonmau/chi-controlla-lintegrit-dei-dati">Chi controlla l&#039;integrità dei dati? </a></h2>
+        <span property="dc:title" content="Chi controlla l&#039;integrità dei dati? " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2014-02-17T09:41:04+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/andrea-nelson-mauro" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/andrea-nelson-mauro" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Andrea Nelson Mauro</a> il Lun, 02/17/2014 - 09:41</span>      </span>
+    
+    
+
+  </header>
+
+  <div class="field field-name-field-immagine-blog-entry field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/blog/nelsonmau/chi-controlla-lintegrit-dei-dati"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/1280px-Broken_glass.jpg?itok=WGM27fPY" width="100" height="43" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>"Dall'inizio della civilità umana al 2003 sono stati prodotti 5 esabyte di dati, la stessa quantità di dati che oggi produciamo ogni due giorni. E il passo sta accelerando": questa frase è stata pronunciata da Eric Schmidt nel 2010, a quel tempo era Executive Chairman di Google (<a href="http://techcrunch.com/2010/08/04/schmidt-data/" target="_blank">leggi di più qui</a>).  Ma chi controlla l'integrità dei dati? Il fatto che siano corretti? Che non ci siano errori o manipolazioni?</p></div></div></div><span property="dc:title" content="Chi controlla l&#039;integrità dei dati? " class="rdf-meta element-hidden"></span>
+      <footer>
+            <ul class="links list-inline"><li class="node-readmore first"><a href="/blog/nelsonmau/chi-controlla-lintegrit-dei-dati" rel="tag" title="Chi controlla l&#039;integrità dei dati? ">Leggi tutto<span class="element-invisible"> su Chi controlla l&#039;integrità dei dati? </span></a></li>
+<li class="blog_usernames_blog"><a href="/blogs/andrea-nelson-mauro" title="Leggi gli ultimi post del blog di Andrea Nelson Mauro">Blog di Andrea Nelson Mauro</a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/110%23comment-form">Accedi</a> o <a href="/user/register?destination=node/110%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul>    </footer>
+  
+  
+</article> <!-- /.node -->
+<article id="node-104" class="node node-blog node-teaser clearfix" about="/blog/nelsonmau/il-raduno-di-spaghetti-open-data-bologna-dal-28-al-30-marzo-2014-sod14-guarda-il-trailer" typeof="sioc:Post sioct:BlogPost">
+
+
+  <header>
+              <h2><a href="/blog/nelsonmau/il-raduno-di-spaghetti-open-data-bologna-dal-28-al-30-marzo-2014-sod14-guarda-il-trailer">Il raduno di Spaghetti Open Data a Bologna dal 28 al 30 marzo 2014 | #SOD14 | Guarda il trailer! </a></h2>
+        <span property="dc:title" content="Il raduno di Spaghetti Open Data a Bologna dal 28 al 30 marzo 2014 | #SOD14 | Guarda il trailer! " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2014-01-10T15:39:39+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/andrea-nelson-mauro" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/andrea-nelson-mauro" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Andrea Nelson Mauro</a> il Ven, 01/10/2014 - 15:39</span>      </span>
+    
+    
+
+  </header>
+
+  <div class="field field-name-field-immagine-blog-entry field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/blog/nelsonmau/il-raduno-di-spaghetti-open-data-bologna-dal-28-al-30-marzo-2014-sod14-guarda-il-trailer"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/sod_tortelli2.jpg_0.png?itok=nXS9Hg_p" width="100" height="75" alt="" /></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p dir="ltr"><span id="docs-internal-guid-3de9d64f-7c88-b5ea-d98d-53c9816f2550"><span>Segnatevi la data in agenda, perché l'appuntamento è da non perdere: 28, 29 e 30 marzo 2014 si terrà a Bologna il raduno di Spaghetti Open Data, la community italiana dedicata agli Open Data. Sul programma e sulle scelte effettuate e da effettuare è in corso una discussione sul gruppo e chiunque è invitato a </span><a href="https://groups.google.com/forum/#!topic/spaghettiopendata/SeWD57OodfI"><span>partecipare e contribuire</span></a><span>.</span></span></p></div></div></div><span property="dc:title" content="Il raduno di Spaghetti Open Data a Bologna dal 28 al 30 marzo 2014 | #SOD14 | Guarda il trailer! " class="rdf-meta element-hidden"></span>
+      <footer>
+            <ul class="links list-inline"><li class="node-readmore first"><a href="/blog/nelsonmau/il-raduno-di-spaghetti-open-data-bologna-dal-28-al-30-marzo-2014-sod14-guarda-il-trailer" rel="tag" title="Il raduno di Spaghetti Open Data a Bologna dal 28 al 30 marzo 2014 | #SOD14 | Guarda il trailer! ">Leggi tutto<span class="element-invisible"> su Il raduno di Spaghetti Open Data a Bologna dal 28 al 30 marzo 2014 | #SOD14 | Guarda il trailer! </span></a></li>
+<li class="blog_usernames_blog"><a href="/blogs/andrea-nelson-mauro" title="Leggi gli ultimi post del blog di Andrea Nelson Mauro">Blog di Andrea Nelson Mauro</a></li>
+<li class="comment_forbidden last"><span><a href="/user/login?destination=node/104%23comment-form">Accedi</a> o <a href="/user/register?destination=node/104%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul>    </footer>
+  
+  
+</article> <!-- /.node -->
+<div class="text-center"><ul class="pagination"><li class="prev first"><a href="/blog?page=1">previous</a></li>
+<li><a title="Vai a pagina 1" href="/blog">1</a></li>
+<li><a title="Vai a pagina 2" href="/blog?page=1">2</a></li>
+<li class="active"><a href="#">3</a></li>
+<li><a title="Vai a pagina 4" href="/blog?page=3">4</a></li>
+<li><a title="Vai a pagina 5" href="/blog?page=4">5</a></li>
+<li><a title="Vai a pagina 6" href="/blog?page=5">6</a></li>
+<li class="next last"><a href="/blog?page=3">next</a></li>
+</ul></div>
+</section> <!-- /.block -->
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+  </footer>
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+</body>
+</html>

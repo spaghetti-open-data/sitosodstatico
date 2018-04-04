@@ -1,0 +1,356 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="it" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:dcat="http://vocab.deri.ie/dcat.rdf/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:site="http://www.spaghettiopendata.org/ns#"
+  xmlns:schema="http://schema.org/">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:site_name" content="Spaghetti Open Data" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.spaghettiopendata.org/content/standard-i-dati-aperti-ovvero-liberare-i-dati-davvero-che-fare" />
+<link rel="shortcut icon" href="http://www.spaghettiopendata.org/sites/all/themes/sod3_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="http://www.spaghettiopendata.org/node/224" />
+<link rel="canonical" href="http://www.spaghettiopendata.org/content/standard-i-dati-aperti-ovvero-liberare-i-dati-davvero-che-fare" />
+<meta name="description" content="Come liberare i dati, per davvero: formati, identificatori, vocabolari standard, interoperabilità, dati linkati, a che punto siamo, come fare per fare passi avanti." />
+<meta property="og:title" content="Standard per i dati aperti, ovvero: liberare i dati per davvero, che fare?" />
+<meta property="og:description" content="Come liberare i dati, per davvero: formati, identificatori, vocabolari standard, interoperabilità, dati linkati, a che punto siamo, come fare per fare passi avanti." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Standard per i dati aperti, ovvero: liberare i dati per davvero, che fare? | Spaghetti Open Data</title>
+  <link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_Krv2lsDiRe0RpHVCfHNzZcy-xh1jpFJW9dPkOJ8J7FE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_kX1d5LrmIJ2geQ8Pjw4barVU9JIeO0Lo79UouLYqf_U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.0.2/cerulean/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_g6U6EwXzM2Jt8kacTS8MPdb4CEqzJ0bsrkHRe8WfEQw.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_jpJjaUC0z8JMIyav5oQrYykDRUb64rpaUDpB4Y9aklU.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_QDXevDQUHVzZMDomLWFovPGOvjb39NStLwsu8L03TvI.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-37620039-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sod3_bootstrap","theme_token":"uMNgn_aNRLF7n558vCh41Y_jnP3tQIdsi4zHEKPlM4g","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/it__kFqB28HWmqctT6vvCycgucpWPXQeOGk8eIVBrBvAbU.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"\/\/netdna.bootstrapcdn.com\/bootswatch\/3.0.2\/cerulean\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/sod3_bootstrap\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/content\/standard-i-dati-aperti-ovvero-liberare-i-dati-davvero-che-fare?destination=node\/224":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-224 node-type-session i18n-it" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Salta al contenuto principale</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      
+            <a class="name navbar-brand" href="/" title="Home">Spaghetti Open Data</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/home">Home</a></li>
+<li class="collapsed"><a href="/page/cos-e-chi-siamo">Cos&#039;è e chi siamo</a></li>
+<li class="leaf"><a href="/page/netiquette-ovvero-le-regole-di-comportamento">Netiquette</a></li>
+<li class="collapsed"><a href="/community" title="Community utenti">Community</a></li>
+<li class="leaf"><a href="/page/sod-merge-it-2018">SOD a MERGE-it 2018</a></li>
+<li class="collapsed"><a href="/page/altri-raduni-cosa-abbiamo-fatto">Altri raduni</a></li>
+<li class="leaf"><a href="/page/si-parla-di-sod-ovvero-una-sorta-di-rassegna-stampa" title="Dove si parla di SOD in Rete, dalla rassegna stampa dei raduni, a tutto il resto che ci cita">Si parla di SOD</a></li>
+<li class="leaf"><a href="/page/contatti">Contatti</a></li>
+<li class="last leaf"><a href="/page/aiuto">Aiuto</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-first well">
+    <section id="block-user-login" class="block block-user clearfix">
+
+        <h2 class="block-title">Accesso utente</h2>
+    
+  <form action="/content/standard-i-dati-aperti-ovvero-liberare-i-dati-davvero-che-fare?destination=node/224" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-type-textfield form-item-name form-item form-group">
+  <label for="edit-name">Nome utente <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" />
+</div>
+<div class="form-type-password form-item-pass form-item form-group">
+  <label for="edit-pass">Password <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" />
+</div>
+<ul><li class="first"><a href="/user/register" title="Crea un nuovo profilo utente.">Crea nuovo profilo</a></li>
+<li class="last"><a href="/user/password" title="Richiedi una nuova password tramite e-mail.">Richiedi nuova password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-mAhmFjUSnRJI-PI9F2mfkt341Xra2s_PVQYfiAg405Y" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Accedi" type="submit">Accedi</button>
+</div></form>
+</section> <!-- /.block -->
+  </div>
+      </aside>  <!-- /#sidebar-first -->
+    
+    <section class="col-sm-9">
+            <ol class="breadcrumb"><li class="first"><a href="/">Home</a></li>
+<li><a href="/sod14/sessioni">Sessioni</a></li>
+<li class="active last">Standard per i dati aperti, ovvero: liberare i dati per davvero, che fare?</li>
+</ol>      <a id="main-content"></a>
+                    <h1 class="page-header">Standard per i dati aperti, ovvero: liberare i dati per davvero, che fare?</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-224" class="node node-session clearfix" about="/content/standard-i-dati-aperti-ovvero-liberare-i-dati-davvero-che-fare" typeof="sioc:Item foaf:Document">
+
+
+  <header>
+            <span property="dc:title" content="Standard per i dati aperti, ovvero: liberare i dati per davvero, che fare?" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2016-04-04T17:59:07+02:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/marco-brandizi" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/marco-brandizi" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Marco Brandizi</a> il Lun, 04/04/2016 - 17:59</span>      </span>
+    
+          <!-- AddThis Button BEGIN -->
+      <div class="addthis_toolbox addthis_default_style" style="margin-top: 10px;">
+      <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+      <a class="addthis_button_google_plusone" g:plusone:annotation="bubble"></a>
+      <a class="addthis_button_tweet"></a>
+      <a class="addthis_button_pinterest_pinit"></a>
+      <a class="addthis_counter addthis_pill_style"></a>
+      </div>
+      <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+      <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js"></script>
+      <!-- AddThis Button END -->
+    
+
+  </header>
+
+  <div class="field field-name-field-tipo-di-attivit- field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Tipo di attività:&nbsp;</div><div class="field-items"><div class="field-item even">(Un)Conference 06/05/2016</div></div></div><div class="field field-name-field-livello-di-difficolta field-type-taxonomy-term-reference field-label-inline clearfix"><div class="field-label">Livello di difficoltà:&nbsp;</div><div class="field-items"><div class="field-item even">Semplice</div></div></div><div class="field field-name-field-durata field-type-number-decimal field-label-inline clearfix"><div class="field-label">Durata:&nbsp;</div><div class="field-items"><div class="field-item even">120 minuti</div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Cosa si intende di solito in pratica, quando si parla di open data? Mettiamo che voglia fare una piccola applicazione, per localizzare opere d’arte in diversi luoghi. L’esperienza più comune è andare su siti come <a href="http://www.dati.gov.it">dati.gov.it</a>, oppure <a href="http://www.data.gov">data.gov</a>, cercare qualcosa (di solito per parole chiave), scaricare file interessanti (in formati come CSV, XML, JSON), aprirli uno ad uno, e vedere cosa c’è dentro. Spesso, dopo questa fase preliminare, bisogna anche ‘pulire' tutti i file ritenuti interessanti, e convertirli in un formato unico (spesso reinventato per l’ennesima volta), che verrà usato dalla nostra applicazione.</p>
+<p>	 </p>
+<p>	Ma devono essere per forza così i dati aperti?! E’ risaputo che la risposta è no, almeno per una data tipologia di dati (per esempio, le opere d’arte, oppure la descrizione delle organizzazioni/musei in cui queste si trovano, compresa la loro geolocalizzazione), l’ideale è che:</p>
+<ul><li>
+		i file/documenti pubblicati da vari detentori dei dati fossero in un unico formato (esempio, <a href="http://pro.europeana.eu/page/edm-documentation">Europeana</a>), o quantomeno non in una pletora di formati incompatibili e poco documentati</li>
+<li>
+		le entità descritte dai dati avessero identificatori comuni (per esempio, che le amministrazioni pubbliche italiane facessero riferimento al registro <a href="http://www.indicepa.gov.it">IPA</a>)</li>
+<li>
+		i dati fossero caratterizzati tramite <a href="https://en.wikipedia.org/wiki/Semantic_spectrum">vocabolari, tassonomie, ontologie</a> comuni e standardizzate</li>
+<li>
+		i dati fossero integrati da opportuni riferimenti, secondo i principi dei <a href="https://en.wikipedia.org/wiki/Linked_data">linked data</a></li>
+</ul><p>	 </p>
+<p>	Pubblicare dati in questo modo potenzia enormemente le opportunità degli open data, permettendo un accesso pieno a dei dati inter-operabili: in pratica, le ricerche sono più precise (grazie a vocabolari ed ontologie), non ho bisogno di riconvertire i file (formati unici e standardizzati), riconosco al volo i duplicati (identificatori), accedo anche automaticamente ai dati correlati (linked data).</p>
+<p>	 </p>
+<p>	Si fa tutto questo? Quanto? A che punto siamo? La risposta più probabile è che non si fa o si fa poco: perché? Come bisognerebbe muoversi per promuovere una maggiore standardizzazione dei dati aperti, soprattutto favorire la loro integrazione nella visione dei linked data? Quali iniziative sarebbe bello e utile mettere in piedi per la comunità degli open data, comprese le pubbliche amministrazioni?</p>
+<p>	 </p>
+<p>	Possibili risposte (al 'che fare', o cosa si fa già) potrebbero essere: </p>
+<ul><li>
+		Organizzare dei volontari per raccogliere (ad esempio in un wiki) un catalogo di formati, vocabolari, ontologie, tool per la pulizia e conversione dei dati (in parte si fa già, per esempio con <a href="https://joinup.ec.europa.eu/">joinUp</a>, <a href="https://biosharing.org">Biosharing</a>, <a href="http://bioportal.bioontology.org">Bioportal</a>)</li>
+<li>
+		Progetti pilota per standardizzare dati esistenti (uno dei vari <a href="https://data.gov.uk/blog/small-step-localgiant-leap-open-data">esempi</a>), promuovendo l'engagement della comunità in <a href="http://athens.unmonastery.org/">modi originali</a></li>
+<li>
+		Un servizio web che guidi un editore di un/molti file di dati (es, CSV) nella scelta del formato standard in cui convertirlo, pulizia, identificazione ed integrazione dei record/entità presenti nel file e, infine, consenta di pubblicare sia il file originale, che dati in formato avanzato ottenuti dal file, i.e., linked data. <a href="http://openrefine.org">Open Refine</a> (con relativa <a href="http://networkedplanet.com/blog/2015/07/13/turning-flat-data-into-semantic-data-with-open-refine-and-the-rdf-extension.html">estensione RDF</a>) e <a href="http://jbiomedsem.biomedcentral.com/articles/10.1186/2041-1480-3-11">COEUS</a> potrebbero essere degli esempi ispiratori</li>
+<li>
+		Un servizio web che, sfruttando la standardizzazione di cui stiamo parlando aiuti a consumatore i dati, sia l’utente finale (es, ricerche integrate per parole chiave, <a href="http://datausa.io">analisi e visualizzazione</a>), sia l’utente sviluppatore (es, <a href="http://www.programmableweb.com/apis/director">catalogo di API</a>, qualcosa di simile per esempi SPARQL)<br />
+		 </li>
+</ul><p>Questa sessione si propone innanzitutto di mettere insieme le persone interessate a questi temi, per rispondere alle domande qui poste. Magari potrebbe nascerne un progetto di medio/lungo periodo. <br />
+	 </p>
+</div></div></div><div class="field field-label-above field-session-subscribe"><div class="field-label">Iscrizione</div><span class="btn btn-primary flag-wrapper"><a href="/user/login?destination=node/224">Devi essere loggato per iscriverti a questa sessione</a></span></div><div class="view view-sessions-lista-partecipanti view-id-sessions_lista_partecipanti view-display-id-entity_view_1 view-dom-id-52de5d1511ae2708ab21f6fbfd5ed2d6">
+        <h2 class="title">Lista partecipanti</h2>
+    
+  
+  
+      <div class="view-content">
+      <table class="views-view-grid cols-4">
+  
+  <tbody>
+          <tr class="row-1 row-first">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/davozza" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/davozza" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">davozza</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"></div>  </div>          </td>
+                  <td class="col-2">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/cecilia-piffer" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/cecilia-piffer" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Cecilia Piffer</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"></div>  </div>          </td>
+                  <td class="col-3">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/marconi-daniela" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/marconi-daniela" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">marconi daniela</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"></div>  </div>          </td>
+                  <td class="col-4 col-last">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/llehtsalu" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/llehtsalu" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Liise Lehtsalu</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/llehtsalu#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/default_images/identicon.png?itok=yOu9-yzO" alt="" /></a></div>  </div>          </td>
+              </tr>
+          <tr class="row-2">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/beppenapo" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/beppenapo" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">beppenapo</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/beppenapo#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/me2.jpg?itok=WcOD2LWS" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-2">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/donato-de-ieso" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/donato-de-ieso" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Donato De Ieso</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/donato-de-ieso#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/donato_deieso.jpg?itok=tVAvwHof" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-3">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/francesco-0" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/francesco-0" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Francesco</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/francesco-0#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/birra%202.jpg?itok=jSdaZKsX" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-4 col-last">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/anna-raimondi-0" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/anna-raimondi-0" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Anna Raimondi</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/anna-raimondi-0#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/1064514_10200579684708131_1356164250_o_2.jpg?itok=56DyhTBc" width="100" height="100" alt="" /></a></div>  </div>          </td>
+              </tr>
+          <tr class="row-3">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/elisabetta-alberti" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/elisabetta-alberti" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Elisabetta Alberti</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/elisabetta-alberti#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/default_images/identicon.png?itok=yOu9-yzO" alt="" /></a></div>  </div>          </td>
+                  <td class="col-2">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/giancarlo-di-capua" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/giancarlo-di-capua" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Giancarlo Di Capua</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/giancarlo-di-capua#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/default_images/identicon.png?itok=yOu9-yzO" alt="" /></a></div>  </div>          </td>
+                  <td class="col-3">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/susannaalessandrini" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/susannaalessandrini" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Susanna Alessandrini</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/susannaalessandrini#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/default_images/identicon.png?itok=yOu9-yzO" alt="" /></a></div>  </div>          </td>
+                  <td class="col-4 col-last">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/dan" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/dan" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">dan</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/dan#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/default_images/identicon.png?itok=yOu9-yzO" alt="" /></a></div>  </div>          </td>
+              </tr>
+          <tr class="row-4">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/nicola-valenti" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/nicola-valenti" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Nicola Valenti</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/nicola-valenti#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/mayakovksy3.jpg?itok=Z4h4QkYH" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-2">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/davide-galletti" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/davide-galletti" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Davide Galletti</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/davide-galletti#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/Davide%20Galletti.jpeg?itok=CNEMP_Qi" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-3">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/fragleria" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/fragleria" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">fragleria</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/fragleria#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/154853_1395128307411902_551800678_n.jpg?itok=X67yCGAi" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-4 col-last">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/deucat" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/deucat" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">deucat</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/deucat#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/default_images/identicon.png?itok=yOu9-yzO" alt="" /></a></div>  </div>          </td>
+              </tr>
+          <tr class="row-5">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/nicola-guarino" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/nicola-guarino" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Nicola Guarino</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/nicola-guarino#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/default_images/identicon.png?itok=yOu9-yzO" alt="" /></a></div>  </div>          </td>
+                  <td class="col-2">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/federico-morando" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/federico-morando" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Federico Morando</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/federico-morando#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/federico-small-squared.jpg?itok=c5eQgUd2" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-3">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/victoria-garcia" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/victoria-garcia" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Victoria Garcia</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/victoria-garcia#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/1788.JPG?itok=72pOqTvb" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-4 col-last">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/marco-scar" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/marco-scar" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Marco Scar.</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/marco-scar#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/Scarselli%20Marco.jpg?itok=Unwv6Nj1" width="100" height="100" alt="" /></a></div>  </div>          </td>
+              </tr>
+          <tr class="row-6">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/nicola-vitucci" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/nicola-vitucci" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Nicola Vitucci</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/nicola-vitucci#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/DSC_1365.JPG?itok=KrnKlaKZ" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-2">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/daniele-del-pinto" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/daniele-del-pinto" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Daniele Del Pinto</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/daniele-del-pinto#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/AAEAAQAAAAAAAAeBAAAAJGZhMTUzMjE2LTEyODktNDY0Ny05NDA2LWQyY2FmOTRkZmY1MQ.jpg?itok=Flc8wcSf" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-3">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/eusebia-parrotto" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/eusebia-parrotto" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Eusebia Parrotto</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"></div>  </div>          </td>
+                  <td class="col-4 col-last">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/cristiano-longo" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/cristiano-longo" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Cristiano Longo</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/cristiano-longo#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/fotoParimp.jpg?itok=QZn9Plhi" width="100" height="100" alt="" /></a></div>  </div>          </td>
+              </tr>
+          <tr class="row-7">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/ilariabotti" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/ilariabotti" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">ilaria.botti</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/ilariabotti#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/default_images/identicon.png?itok=yOu9-yzO" alt="" /></a></div>  </div>          </td>
+                  <td class="col-2">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/roberto-rosso" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/roberto-rosso" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Roberto Rosso</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/roberto-rosso#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/default_images/identicon.png?itok=yOu9-yzO" alt="" /></a></div>  </div>          </td>
+                  <td class="col-3">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/marco-brandizi" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/marco-brandizi" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Marco Brandizi</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/marco-brandizi#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/me_bitstripped.png?itok=yzydnzfD" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-4 col-last">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/daniele-crespi" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/daniele-crespi" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Daniele Crespi</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/daniele-crespi#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/foto1.jpg?itok=gLrzaQKV" width="100" height="100" alt="" /></a></div>  </div>          </td>
+              </tr>
+          <tr class="row-8 row-last">
+                  <td class="col-1 col-first">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/franco-morelli" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/franco-morelli" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Franco Morelli</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/franco-morelli#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/2014-02-19%2013.34.46_1.jpg?itok=ogaVatjB" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-2">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/giacomo-gamba" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/giacomo-gamba" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Giacomo Gamba</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/giacomo-gamba#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/Giack-small.jpg?itok=GDCWbHAV" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-3">
+              
+  <div class="views-field views-field-name">        <span class="field-content"><a href="/users/riccardo-grosso" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/riccardo-grosso" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Riccardo Grosso</a></span>  </div>  
+  <div class="views-field views-field-field-profile-avatar">        <div class="field-content"><a href="/users/riccardo-grosso#profile-main"><img typeof="foaf:Image" src="http://www.spaghettiopendata.org/sites/default/files/styles/thumbnail/public/user_avatars/hardrockvenezia.jpg?itok=jbvoZhGI" width="100" height="100" alt="" /></a></div>  </div>          </td>
+                  <td class="col-4 col-last">
+                      </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> <span property="dc:title" content="Standard per i dati aperti, ovvero: liberare i dati per davvero, che fare?" class="rdf-meta element-hidden"></span>
+      <footer>
+                </footer>
+  
+  
+</article> <!-- /.node -->
+
+</section> <!-- /.block -->
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+  </footer>
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+</body>
+</html>

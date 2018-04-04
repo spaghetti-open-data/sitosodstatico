@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.spaghettiopendata.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Blog di Stefano Durì</title>
+ <link>http://www.spaghettiopendata.org/blogs/stefano-dur</link>
+ <description></description>
+ <language>it</language>
+<item>
+ <title>Intimo, dati, retorica</title>
+ <link>http://www.spaghettiopendata.org/blog/stefano-dur/intimo-dati-retorica</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Un recente &lt;a href=&quot;http://www.michelecamp.it/archives/3578&quot;&gt;post&lt;/a&gt; di Michele Vianello ha dato origine ad un &lt;a href=&quot;https://groups.google.com/forum/#!topic/spaghettiopendata/arey7LoIq28&quot;&gt;dibattito tra i membri del gruppo SOD&lt;/a&gt;. Scorrendo i vari commenti non sarà difficile notare che esistono opinioni diverse sia sugli obbiettivi sia sui contenuti del post in questione. Qui sotto trovate qualche mia riflessione, del tutto personale e non rappresentativa di una posizione comune (meno che mai &quot;ufficiale&quot;) degli spaghettari.&lt;/p&gt;
+&lt;div&gt;
+	Il post di Vianello - tecnicamente - rientra nel genere dell&#039;invettiva​. L&#039;invettiva è caratterizzata sempre da un obbiettivo polemico ben definito e dalla scarsa presenza di argomentazioni strutturate: non è destinata a un pubblico di interlocutori, prevede solo amici e nemici. E&#039; invece ricca di tecniche e figure retoriche destinate ad emozionare un uditorio che non si ha interesse a convincere ma a trascinare, costringendolo entro premesse non discutibili (ma non per questo false). &lt;/div&gt;
+&lt;div&gt;
+	 &lt;/div&gt;
+&lt;div&gt;
+	Questo post è in effetti un buon esempio di uso della retorica: ci troviamo l&#039;anafora (quel &quot;Possibile non si capisca&quot; ripetuto), l&#039;iperbole, il sarcasmo, l&#039;argomento &quot;ad personam&quot; (gli &quot;aspiranti consulenti&quot; della PA, motivati da interessi privati più che da elevati ideali), la petizione di principio. Vorrei chiarire: sto parlando della forma del discorso, non della qualità degli argomenti &quot;a monte&quot;. D&#039;altra parte, se uno preferisce l&#039;invettiva al confronto dialettico un motivo ci sarà. Capisco che qualcuno qui stia tossicchiando imbarazzato e cerchi di derubricare il post a benevola provocazione, o di promuoverlo a rude incitamento, ma io penso che vada esaminato con attenzione.&lt;/div&gt;
+&lt;div&gt;
+	 &lt;/div&gt;
+&lt;div&gt;
+	Il bersaglio mi pare evidente, visto che l&#039;unico ente concreto di cui si parla (in negativo) e che viene chiamato per nome è il &quot;movimento per gli open data&quot;. Il sarcasmo riservato ai &quot;militanti&quot;, poi, toglie ogni eventuale dubbio (e il successivo &quot;Sprecare simili talenti in nome della “trasparenza” mi pare sbagliato&quot; temo suoni a questo punto un po&#039; come una tardiva captatio benevolentiae). Credo sia lecito ricondurre al movimento anche altre maligne entità astratte come la &quot;parzialità&quot; o la &quot;pseudopolitica&quot; e che quel &quot;Possibile non si capisca&quot; vada reso più esplicitamente con &quot;Possibile che il movimento non capisca&quot;. &lt;/div&gt;
+&lt;div&gt;
+	 &lt;/div&gt;
+&lt;div&gt;
+	Il testo è composto da affermazioni non dimostrate e interrogazioni retoriche, cioé domande che incorporano la risposta, che la implicano - e non sempre hanno il punto interrogativo alla fine: &quot;la battaglia per l’uso del dato aperto è troppo importante per relegarla alla parzialità e alla pseudopolitica&quot; è, in realtà, una domanda retorica (&quot;Vogliamo forse relegare una battaglia così importante nella parzialità e nella pseudopolitica?&quot;) ribaltata in affermazione. Quell&#039;insistito &quot;Possibile non si capisca&quot;​, poi,​ mi piace molto: ​è accorato, ​crea complicità con il lettore e allo stesso tempo suggerisce che il bersaglio (il signor &quot;si&quot;) soffre di un deficit intellettuale così serio da impedirgli di cogliere l&#039;ovvio (ovvio per chi scrive e per i​l ​lettore complice).&lt;/div&gt;
+&lt;div&gt;
+	(Non vorrei che tutto questo suonasse offensivo: l&#039;invettiva, piaccia o no, è un genere fatto così)&lt;/div&gt;
+&lt;div&gt;
+	 &lt;/div&gt;
+&lt;div&gt;
+	&lt;span&gt;Anche le domande retoriche vanno prese sul serio. Un buon esercizio è rispondere nel modo &quot;sbagliato&quot; e poi chiedersi &quot;come diavolo potrei argomentare questa posizione?&quot;. &lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;
+	&lt;span&gt;Facciamo la prova. &lt;/span&gt;&lt;/div&gt;
+&lt;blockquote&gt;&lt;div&gt;
+		&lt;em&gt;Possibile non si capisca che, in formato open, prima di tutto, andranno messi i dati che potranno generare un valore economico e sociale da parte dei cittadini, delle imprese, della Pubblica Amministrazione?&lt;span&gt;​&lt;/span&gt;&lt;/em&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;div&gt;
+	Risposta sbagliata: &quot;sì, è possibile&quot;&lt;/div&gt;
+&lt;div&gt;
+	 &lt;/div&gt;
+&lt;div&gt;
+	Esempio di argomentazione:&lt;/div&gt;
+&lt;div&gt;
+	 &lt;/div&gt;
+&lt;div&gt;
+	&quot;Non credo che la PA &lt;span&gt;(perché è di questo che si parla fin dall&#039;inizio del post) &lt;/span&gt;sia in grado di stabilire a priori quali dati sono &quot;utili&quot; per le imprese, quindi è bene che non ci provi nemmeno e lasci fare, come si dice, a chi è del ramo. Anzi: penso proprio che - parlando di dati - la PA abbia altri compiti, in primis quello di &lt;span&gt;consentire ai cittadini &lt;/span&gt;​e ai sempre più fantomatici watchdog &lt;span&gt;di valutare il suo operato&lt;/span&gt;​, o di informarli su quello che succede in città (la scuola, la salute, &lt;span&gt;l&#039;immigrazione,&lt;/span&gt;&lt;span&gt; &lt;/span&gt;roba così)​&lt;span&gt;. P&lt;/span&gt;&lt;span&gt;ubblicare &lt;/span&gt;​un &lt;span&gt;bilancio &lt;/span&gt;chiaro è una sua priorità assoluta. ​&lt;span&gt;Il formato open&lt;/span&gt;​, a questo punto,​ &lt;span&gt;non è un lusso aggiuntivo: aumenta il potenziale informativo&lt;/span&gt;​ dei dati e quindi il valore per chi intende utilizzarli. E&#039; in questo modo che possono entrare in circolo. E&#039; in questo modo, ad esempio, che da affermazioni generiche e inutili del tipo &quot;quel tizio guadagna troppo&quot; si può passare a &quot;quel tizio guadagna inspiegabilmente più dei suoi equivalenti in altri uffici pubblici&quot;. &lt;/div&gt;
+&lt;div&gt;
+	&lt;span&gt;Aggiungo che questa storia dello sviluppo generato dagli open data al momento mi lascia freddino. Ho ben presente come si fanno i soldi con dati riservati o di cui si ha il monopolio, vedo esempi di applicazioni gratuite basate su open data, non mi pare invece di vedere &#039;sto gran business (per non parlare di nuova occupazione) generato da dati open &lt;/span&gt;&lt;span&gt;e che rimangono open&lt;/span&gt;
+&lt;div&gt;
+		&lt;span&gt;.&lt;/span&gt;Inter nos, sono intimamente convinto che lo streaming delle sedute di qualsivoglia ente sia uno spettacolo che ci possiamo mediamente evitare e confesso di aver fatto uso di Radio Radicale come sonnifero&quot;&lt;/div&gt;
+&lt;div&gt;
+		 &lt;/div&gt;
+&lt;div&gt;
+		Facile, no? Provate anche voi.​&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;span property=&quot;dc:title&quot; content=&quot;Intimo, dati, retorica&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;</description>
+ <pubDate>Sat, 04 May 2013 07:45:14 +0000</pubDate>
+ <dc:creator>Stefano Durì</dc:creator>
+ <guid isPermaLink="false">97 at http://www.spaghettiopendata.org</guid>
+ <comments>http://www.spaghettiopendata.org/blog/stefano-dur/intimo-dati-retorica#comments</comments>
+</item>
+</channel>
+</rss>

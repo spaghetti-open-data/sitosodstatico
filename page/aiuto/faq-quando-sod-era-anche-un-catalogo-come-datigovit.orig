@@ -1,0 +1,198 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="it" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:dcat="http://vocab.deri.ie/dcat.rdf/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:site="http://www.spaghettiopendata.org/ns#"
+  xmlns:schema="http://schema.org/">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortlink" href="http://www.spaghettiopendata.org/node/8" />
+<meta property="og:site_name" content="Spaghetti Open Data" />
+<meta property="og:type" content="article" />
+<link rel="shortcut icon" href="http://www.spaghettiopendata.org/sites/all/themes/sod3_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:url" content="http://www.spaghettiopendata.org/page/aiuto/faq-quando-sod-era-anche-un-catalogo-come-datigovit" />
+<link rel="canonical" href="http://www.spaghettiopendata.org/page/aiuto/faq-quando-sod-era-anche-un-catalogo-come-datigovit" />
+<meta property="og:description" content="Nota: queste erano le FAQ risalenti al periodo 2010 - 2011 della comunità di Spaghetti Open Data. In quell&#039;anno SOD aveva costruito un catalogo dei dati aperti e non dal basso, in forma volontaria.
+Queste erano le nostre FAQ.
+==============================" />
+<link rel="up" href="/node/4" />
+<link rel="prev" href="/node/4" />
+<link rel="next" href="/page/cos-e-chi-siamo" />
+<meta name="description" content="Nota: queste erano le FAQ risalenti al periodo 2010 - 2011 della comunità di Spaghetti Open Data. In quell&#039;anno SOD aveva costruito un catalogo dei dati aperti e non dal basso, in forma volontaria.
+Queste erano le nostre FAQ.
+==============================" />
+<meta property="og:title" content="FAQ - Quando SOD era anche un catalogo come dati.gov.it" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+  <title>FAQ - Quando SOD era anche un catalogo come dati.gov.it | Spaghetti Open Data</title>
+  <link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_Krv2lsDiRe0RpHVCfHNzZcy-xh1jpFJW9dPkOJ8J7FE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_kX1d5LrmIJ2geQ8Pjw4barVU9JIeO0Lo79UouLYqf_U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.0.2/cerulean/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_g6U6EwXzM2Jt8kacTS8MPdb4CEqzJ0bsrkHRe8WfEQw.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_jpJjaUC0z8JMIyav5oQrYykDRUb64rpaUDpB4Y9aklU.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_QDXevDQUHVzZMDomLWFovPGOvjb39NStLwsu8L03TvI.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-37620039-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sod3_bootstrap","theme_token":"qYNmY7UyuCa4le-QnhXbBzyALPSsoXPLkSs_U_GHyWc","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/it__kFqB28HWmqctT6vvCycgucpWPXQeOGk8eIVBrBvAbU.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"\/\/netdna.bootstrapcdn.com\/bootswatch\/3.0.2\/cerulean\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/sod3_bootstrap\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/page\/aiuto\/faq-quando-sod-era-anche-un-catalogo-come-datigovit?destination=node\/8":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-8 node-type-page i18n-it" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Salta al contenuto principale</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      
+            <a class="name navbar-brand" href="/" title="Home">Spaghetti Open Data</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/home">Home</a></li>
+<li class="collapsed"><a href="/page/cos-e-chi-siamo">Cos&#039;è e chi siamo</a></li>
+<li class="leaf"><a href="/page/netiquette-ovvero-le-regole-di-comportamento">Netiquette</a></li>
+<li class="collapsed"><a href="/community" title="Community utenti">Community</a></li>
+<li class="leaf"><a href="/page/sod-merge-it-2018">SOD a MERGE-it 2018</a></li>
+<li class="collapsed"><a href="/page/altri-raduni-cosa-abbiamo-fatto">Altri raduni</a></li>
+<li class="leaf"><a href="/page/si-parla-di-sod-ovvero-una-sorta-di-rassegna-stampa" title="Dove si parla di SOD in Rete, dalla rassegna stampa dei raduni, a tutto il resto che ci cita">Si parla di SOD</a></li>
+<li class="leaf"><a href="/page/contatti">Contatti</a></li>
+<li class="last leaf"><a href="/page/aiuto">Aiuto</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-first well">
+    <section id="block-user-login" class="block block-user clearfix">
+
+        <h2 class="block-title">Accesso utente</h2>
+    
+  <form action="/page/aiuto/faq-quando-sod-era-anche-un-catalogo-come-datigovit?destination=node/8" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-type-textfield form-item-name form-item form-group">
+  <label for="edit-name">Nome utente <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" />
+</div>
+<div class="form-type-password form-item-pass form-item form-group">
+  <label for="edit-pass">Password <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" />
+</div>
+<ul><li class="first"><a href="/user/register" title="Crea un nuovo profilo utente.">Crea nuovo profilo</a></li>
+<li class="last"><a href="/user/password" title="Richiedi una nuova password tramite e-mail.">Richiedi nuova password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-OjAjO3S3FPqMZhF_6-Bq2zGY2bTlo1AK40FULCSAE2Y" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Accedi" type="submit">Accedi</button>
+</div></form>
+</section> <!-- /.block -->
+  </div>
+      </aside>  <!-- /#sidebar-first -->
+    
+    <section class="col-sm-9">
+            <ol class="breadcrumb"><li class="first"><a href="/">Home</a></li>
+<li><a href="/node/4">Aiuto</a></li>
+<li class="active last">FAQ - Quando SOD era anche un catalogo come dati.gov.it</li>
+</ol>      <a id="main-content"></a>
+                    <h1 class="page-header">FAQ - Quando SOD era anche un catalogo come dati.gov.it</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-8" class="node node-page clearfix" about="/page/aiuto/faq-quando-sod-era-anche-un-catalogo-come-datigovit" typeof="foaf:Document">
+
+
+  <header>
+            <span property="dc:title" content="FAQ - Quando SOD era anche un catalogo come dati.gov.it" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+    
+    
+
+  </header>
+
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Nota: queste erano le FAQ risalenti al periodo 2010 - 2011 della comunità di Spaghetti Open Data. In quell'anno SOD aveva costruito un catalogo dei dati aperti e non dal basso, in forma volontaria.</p>
+<p>Queste erano le nostre FAQ.</p>
+<p>==============================</p>
+<p style="line-height: 1.2em; margin-top: 0px; color: rgb(60, 61, 63); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: justify; "><strong>A cosa serve SOD?</strong><br />
+	Ad avere subito un punto di accesso agli open data italiani, ma prima di tutto ai dati pubblici da trasformare in Open Data; e a proporre una modalità di approccio ai siti di open data futuri, riutilizzabile a costo zero da chiunque.</p>
+<p style="line-height: 1.2em; margin-top: 0px; color: rgb(60, 61, 63); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: justify; "><strong>Quale sarebbe il vostro approccio?</strong><br />
+	Quello di massima apertura a tutti i livelli. I dati che abbiamo raccolto sono stati inseriti o comunque sono in fase di inserimento nel <a href="http://it.ckan.net/about" style="color: rgb(163, 0, 8); ">CKAN italiano</a>; l'interfaccia e il template HTML sono stati realizzati in formato aperto, e sono facilmente esportabili in vari formati. Per esportare il codice posiziona il mouse sulla prima riga delle tabelle: comparirà l'icona di una forbice. Cliccala e scegli il formato di esportazione.</p>
+<p style="line-height: 1.2em; margin-top: 0px; color: rgb(60, 61, 63); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: justify; "><strong>Open Data e dati pubblici, e riusabilità: spieghiamo meglio</strong><br />
+	La questione non è semplice, ma proviamoci. Questo è uno degli scopi di SOD: creare confronto e consapevolezza su tale tema. In breve: <strong>per essere Open Data un dato grezzo deve essere tecnicamente e legalmente abilitato al riuso</strong>. Significa che deve essere condiviso con una licenza che abiliti tale riuso, anche in ambito commerciale, e che tecnicamente sia in un formato aperto non proprietario per garantire la massima libertà. Per mostrare tale cammino che riguarda anche il passaggio tecnico verso il Web of Data, abbiamo inserito le stelline del Linked Data. Tre stelline è il livello dell'Open Data, mentre cinque identificano il livello del Linked Open Data.<br />
+	Ulteriori informazioni su <a href="http://www.slideshare.net/dagoneye/liberare-i-dati-spaghetti-open-data-verso-i-linked-open-data" style="color: rgb(163, 0, 8); ">questa presentazione</a> e sulla legenda originale per lo <a href="http://lab.linkeddata.deri.ie/2010/star-scheme-by-example/" style="color: rgb(163, 0, 8); ">Star Scheme for Linked Data by example</a></p>
+<p style="line-height: 1.2em; margin-top: 0px; color: rgb(60, 61, 63); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: justify; "><strong>Qualche dettaglio tecnico in più? Cosa gira sotto?</strong><br />
+	Crediamo che si debba incentivare il riuso, non solo dei dati, ma anche delle tecnologie, per poi poterci concentrare sul resto: sotto il cofano c'è semplice HTML e un framework molto potente sviluppato <a href="http://simile.mit.edu/" style="color: rgb(163, 0, 8); ">dal MIT sotto il cappello della sigla SIMILE</a> - "Semantic Interoperability of Metadata and Information in unLike Environments". Questo framework in particolare si chiama <a href="http://www.simile-widgets.org/exhibit/" style="color: rgb(163, 0, 8); ">Simile Exhibit</a> e fa due semplici cose: permette di caricare i dati da n fonti diverse, sparse per la Rete, e utilizza delle modalità interattive assai semplici per filtrare e navigare tali dati. E non ha bisogno di cose particolari: tutto gira nel proprio browser, e si carica al primo aprirsi della pagina.<br />
+	Nel nostro caso i dati si caricano da alcuni fogli elettronici editati a più mani inseriti in Google Docs.<br />
+	E se si è sviluppatori Web, potrete creare nuove pagine che mostrino i dati nella maniera che più vi aggrada, senza chiederci niente! Un po' come quando si inserisce un link ad una pagina nel Web: non serve chiedere, basta farlo.</p>
+<p style="line-height: 1.2em; margin-top: 0px; color: rgb(60, 61, 63); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: justify; "><strong>Comunque mai sentita questa tecnologia. Ma nel mondo qualcuno usa queste cose?</strong><br />
+	Questo framework è nato nel dicembre 2006. Ma pochi lo sanno.<br />
+	Tre esempi al volo: una pagina di un sito spagnolo <a href="http://datos.fundacionctic.org/sandbox/catalog/faceted/" style="color: rgb(163, 0, 8); ">usa Simile Exhibit per mostrare chi nel mondo ha approcciato gli Open Data</a>, mentre in <a href="http://blog.spaziogis.it/static/where_to_sleep_in_turin/" style="color: rgb(163, 0, 8); ">questo esempio</a> sono gli italiani del <a href="http://blog.spaziogis.it/" style="color: rgb(163, 0, 8); ">blog TANTO</a> a sfruttare sempre le medesime tecnologie per giocare con gli Open Data tratti dal Piemonte.<br />
+	Non ultimo, il <a href="http://data-gov.tw.rpi.edu/demo/stable/demo-92-datasets-exhibit.html" style="color: rgb(163, 0, 8); ">famoso data.gov americano stesso si può navigare nel medesimo modo</a>, e qui i numeri che si vedono sono certamente diversi.</p>
+<p style="line-height: 1.2em; margin-top: 0px; color: rgb(60, 61, 63); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: justify; "><strong>Ma non credete che queste cose debbano essere fatte dallo Stato?</strong><br />
+	A dire la verità sì. Non intendiamo certo sostituirci alle autorità pubbliche, anzi facciamo il tifo per il futuro data.gov.it. SOD vuole essere solo una soluzione ponte, utile nel tempo necessario allo Stato italiano per lanciare una proprio iniziativa.</p>
+<p style="line-height: 1.2em; margin-top: 0px; color: rgb(60, 61, 63); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: justify; "><strong>Chi vi paga?</strong><br />
+	Nessuno. SOD è fatto al 100% di lavoro volontario. Anche l'hosting è autofinanziato.</p>
+<p style="line-height: 1.2em; margin-top: 0px; color: rgb(60, 61, 63); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: justify; "><strong>Conosco un database/un software per il trattamento degli open data che non avete menzionato!</strong><br />
+	Ottimo! Segnalacelo <a href="http://groups.google.it/group/spaghettiopendata" style="color: rgb(163, 0, 8); ">sulla mailing list</a> o attraverso <a href="mailto:matt@blog.dagoneye.it" style="color: rgb(163, 0, 8); ">Matteo</a>, provvederemo a inserirlo.</p>
+<p style="line-height: 1.2em; margin-top: 0px; color: rgb(60, 61, 63); font-family: Arial, Helvetica, sans-serif; font-size: 14px; text-align: justify; "><strong>Mi piace! Come posso darvi una mano?</strong><br />
+	Puoi certamente diffondere l'iniziativa presso i tuoi contatti su Facebook, Twitter o tra i tuoi amici e colleghi. Se hai anche voglia di fare un po' di volontariato iscriviti alla <a href="http://groups.google.it/group/spaghettiopendata" style="color: rgb(163, 0, 8); ">mailing list</a> e faccelo sapere, così ti informiamo sulle iniziative in corso</p>
+</div></div></div><span property="dc:title" content="FAQ - Quando SOD era anche un catalogo come dati.gov.it" class="rdf-meta element-hidden"></span>  <div id="book-navigation-4" class="book-navigation">
+    
+        <div class="page-links clearfix">
+              <a href="/node/4" class="page-previous" title="Vai alla pagina precedente">‹ Aiuto</a>
+                    <a href="/node/4" class="page-up" title="Vai alla pagina padre">su</a>
+                    <a href="/page/cos-e-chi-siamo" class="page-next" title="Vai alla pagina successiva">Cos&#039;è e chi siamo ›</a>
+          </div>
+    
+  </div>
+
+      <footer>
+            <ul class="links list-inline"><li class="book_printer first last"><a href="/book/export/html/8" title="Mostra una versione stampabile di questa pagina del book e delle sue sottopagine.">Versione stampabile</a></li>
+</ul>    </footer>
+  
+  
+</article> <!-- /.node -->
+
+</section> <!-- /.block -->
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+  </footer>
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+</body>
+</html>
