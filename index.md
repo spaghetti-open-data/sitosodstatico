@@ -1,5 +1,5 @@
 ---
-Spaghetti Open Data
+layout: default
 ---
 
 Siamo un gruppo di cittadini italiani interessati al rilascio di dati pubblici in formato aperto, in modo da renderne facile l'accesso e il riuso (open data). Ci sembra che questa pratica sia utile per alimentare la discussione sulle scelte che ci attendono; rendendo facilmente accessibili informazioni di qualità alta, contribuirà a renderla più razionale, allargata e fondata sui dati. Con tutti i suoi difetti, la nostra democrazia è un grandissimo dono che ci hanno fatto le generazioni passate: il minimo che possiamo fare, tutti insieme, è cercare di averne cura.
