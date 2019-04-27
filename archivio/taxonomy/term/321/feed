@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.spaghettiopendata.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Spaghetti Open Data - FormAzione 08/05/2016</title>
+ <link>http://www.spaghettiopendata.org/term/tipo-di-attivit/formazione-08052016</link>
+ <description></description>
+ <language>it</language>
+<item>
+ <title>LOD, SPARQL e dintorni: un piccolo how-to</title>
+ <link>http://www.spaghettiopendata.org/content/lod-sparql-e-dintorni-un-piccolo-how</link>
+ <description>&lt;div class=&quot;field field-name-field-tipo-di-attivit- field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tipo di attività:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;FormAzione 08/05/2016&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-livello-di-difficolta field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Livello di difficoltà:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermedio&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-durata field-type-number-decimal field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Durata:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;120 minuti&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Una panoramica sull&#039;utilizzo di Linked Open Data e degli strumenti che li caratterizzano (modello RDF, ontologie, triple store, query SPARQL ecc.).&lt;br /&gt;
+L&#039;idea della sessione è non solo di parlare degli aspetti tecnici, ma anche di scambiarsi delle idee su cosa ci si aspetta quando si parla di LOD e su come utilizzare le risorse già esistenti.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-label-above field-session-subscribe&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Iscrizione&lt;/div&gt;&lt;span class=&quot;btn btn-primary flag-wrapper&quot;&gt;&lt;a href=&quot;/user/login?destination=taxonomy/term/321/feed&quot;&gt;Devi essere loggato per iscriverti a questa sessione&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;span property=&quot;dc:title&quot; content=&quot;LOD, SPARQL e dintorni: un piccolo how-to&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;</description>
+ <pubDate>Wed, 13 Apr 2016 21:15:20 +0000</pubDate>
+ <dc:creator>Nicola Vitucci</dc:creator>
+ <guid isPermaLink="false">238 at http://www.spaghettiopendata.org</guid>
+ <comments>http://www.spaghettiopendata.org/content/lod-sparql-e-dintorni-un-piccolo-how#comments</comments>
+</item>
+<item>
+ <title>Strutturazione dei dati e pubblicazione: usiamo i dati di ComunWeb</title>
+ <link>http://www.spaghettiopendata.org/content/strutturazione-dei-dati-e-pubblicazione-usiamo-i-dati-di-comunweb</link>
+ <description>&lt;div class=&quot;field field-name-field-tipo-di-attivit- field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tipo di attività:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;FormAzione 08/05/2016&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-livello-di-difficolta field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Livello di difficoltà:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermedio&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-durata field-type-number-decimal field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Durata:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;50 minuti&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;a href=&quot;http://data.comunweb.it/&quot;&gt;ComunWeb&lt;/a&gt; è la piattaforma web utilizzata dai comuni trentini. Oltre a permettere di avere una piattaforma comune di gestione dei contenuti, permette anche la strutturazione delle informazioni in modo omogeneo tra i vari comuni e fornisce delle API (end point) di accesso alle informazioni base (classi) in modo aperto, ed ha permesso la messa a disposizione di piu di 3400 dataset comunali.&lt;br /&gt;
+Il seminario intende fornire le indicazioni formative di base su &lt;a href=&quot;http://www.comunweb.it/openpa/classes&quot;&gt;come queste informazioni sono messe a disposizione&lt;/a&gt;, quali sono e come sono strutturate, con l&#039;obbiettivo di stimolare il &quot;riuso&quot; di tali informazioni per la realizzazione di semplici servizi al cittadino e/o alle aziende.&lt;br /&gt;
+Relatori: Gabriele Francescotto, Francesca Gleria, Combetto Marco&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-label-above field-session-subscribe&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Iscrizione&lt;/div&gt;&lt;span class=&quot;btn btn-primary flag-wrapper&quot;&gt;&lt;a href=&quot;/user/login?destination=taxonomy/term/321/feed&quot;&gt;Devi essere loggato per iscriverti a questa sessione&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;span property=&quot;dc:title&quot; content=&quot;Strutturazione dei dati e pubblicazione: usiamo i dati di ComunWeb&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;</description>
+ <pubDate>Tue, 12 Apr 2016 07:20:57 +0000</pubDate>
+ <dc:creator>Marco Combetto</dc:creator>
+ <guid isPermaLink="false">236 at http://www.spaghettiopendata.org</guid>
+ <comments>http://www.spaghettiopendata.org/content/strutturazione-dei-dati-e-pubblicazione-usiamo-i-dati-di-comunweb#comments</comments>
+</item>
+<item>
+ <title>Introduzione al trattamento e analisi dei geodati con R </title>
+ <link>http://www.spaghettiopendata.org/content/introduzione-al-trattamento-e-analisi-dei-geodati-con-r</link>
+ <description>&lt;div class=&quot;field field-name-field-tipo-di-attivit- field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tipo di attività:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;FormAzione 08/05/2016&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-livello-di-difficolta field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Livello di difficoltà:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Avanzato&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-durata field-type-number-decimal field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Durata:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;120 minuti&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Nel corso verranno introdotti una serie di pacchetti e tecniche specifiche per analsi spaziali&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Trattamento, pulizia e sistemazione dei dataset e dei geodati&lt;/li&gt;
+&lt;li&gt;
+		Applicare  statistiche spaziali ai nostri dati&lt;/li&gt;
+&lt;li&gt;
+		Visualizzare le geometrie attraverso mappe&lt;/li&gt;
+&lt;li&gt;
+		Pubblicare i risultati in mappe interattive sul web&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-label-above field-session-subscribe&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Iscrizione&lt;/div&gt;&lt;span class=&quot;btn btn-primary flag-wrapper&quot;&gt;&lt;a href=&quot;/user/login?destination=taxonomy/term/321/feed&quot;&gt;Devi essere loggato per iscriverti a questa sessione&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;span property=&quot;dc:title&quot; content=&quot;Introduzione al trattamento e analisi dei geodati con R &quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;</description>
+ <pubDate>Wed, 06 Apr 2016 12:39:42 +0000</pubDate>
+ <dc:creator>Andrea Zedda</dc:creator>
+ <guid isPermaLink="false">229 at http://www.spaghettiopendata.org</guid>
+ <comments>http://www.spaghettiopendata.org/content/introduzione-al-trattamento-e-analisi-dei-geodati-con-r#comments</comments>
+</item>
+<item>
+ <title>Telegram per il riuso degli openData</title>
+ <link>http://www.spaghettiopendata.org/content/telegram-il-riuso-degli-opendata</link>
+ <description>&lt;div class=&quot;field field-name-field-tipo-di-attivit- field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tipo di attività:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;FormAzione 08/05/2016&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-livello-di-difficolta field-type-taxonomy-term-reference field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Livello di difficoltà:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Intermedio&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-durata field-type-number-decimal field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Durata:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;50 minuti&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Come Telegram può veicolare gli opendata (e i dati in generale) per renderli fruibili ad un pubblico vasto e non di addetti ai lavori.&lt;br /&gt;
+Esempi di Bot&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-label-above field-session-subscribe&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Iscrizione&lt;/div&gt;&lt;span class=&quot;btn btn-primary flag-wrapper&quot;&gt;&lt;a href=&quot;/user/login?destination=taxonomy/term/321/feed&quot;&gt;Devi essere loggato per iscriverti a questa sessione&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;span property=&quot;dc:title&quot; content=&quot;Telegram per il riuso degli openData&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;</description>
+ <pubDate>Thu, 24 Mar 2016 18:07:39 +0000</pubDate>
+ <dc:creator>Piersoft</dc:creator>
+ <guid isPermaLink="false">216 at http://www.spaghettiopendata.org</guid>
+ <comments>http://www.spaghettiopendata.org/content/telegram-il-riuso-degli-opendata#comments</comments>
+</item>
+</channel>
+</rss>

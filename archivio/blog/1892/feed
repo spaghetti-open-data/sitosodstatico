@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.spaghettiopendata.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Blog di Mariella Miele</title>
+ <link>http://www.spaghettiopendata.org/blogs/mariella-miele</link>
+ <description></description>
+ <language>it</language>
+<item>
+ <title>#GreenODD2017</title>
+ <link>http://www.spaghettiopendata.org/blog/mariella-miele/greenodd2017</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Buondì,&lt;br /&gt;
+vi segnalo l&#039;Hackathon di Roma Capitale per il 22 aprile prossimo, Hearth Day. Per l&#039;occasione l&#039;amministrazione capitolina apre i propri dati sull&#039;ambiente.&lt;br /&gt;&lt;a href=&quot;https://www.comune.roma.it/pcr/it/newsview.page?contentId=NEW1469224&quot;&gt;https://www.comune.roma.it/pcr/it/newsview.page?contentId=NEW1469224&lt;/a&gt;&lt;br /&gt;
+Un cambio di tendenza? ... eppur si muove!&lt;br /&gt;
+Servono mentor. Sviluppatori e progettisti di app..partecipate col vostro importante contributo. &lt;br /&gt;
+Vi aspetto,&lt;br /&gt;
+Mariella&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;span property=&quot;dc:title&quot; content=&quot;#GreenODD2017&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;</description>
+ <pubDate>Tue, 11 Apr 2017 06:32:13 +0000</pubDate>
+ <dc:creator>Mariella Miele</dc:creator>
+ <guid isPermaLink="false">262 at http://www.spaghettiopendata.org</guid>
+ <comments>http://www.spaghettiopendata.org/blog/mariella-miele/greenodd2017#comments</comments>
+</item>
+</channel>
+</rss>

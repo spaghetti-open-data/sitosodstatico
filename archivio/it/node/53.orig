@@ -1,0 +1,172 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="it" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:dcat="http://vocab.deri.ie/dcat.rdf/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:site="http://www.spaghettiopendata.org/ns#"
+  xmlns:schema="http://schema.org/">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:site_name" content="Spaghetti Open Data" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.spaghettiopendata.org/page/raduno-2013/ecco-il-primo-raduno-sod" />
+<link rel="shortcut icon" href="http://www.spaghettiopendata.org/sites/all/themes/sod3_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="http://www.spaghettiopendata.org/node/53" />
+<link rel="canonical" href="http://www.spaghettiopendata.org/page/raduno-2013/ecco-il-primo-raduno-sod" />
+<meta name="description" content="Dopo due anni e mezzo, oltre quattrocento iscritti, oltre ottocento threads, migliaia di messaggi, la mailing list di Spaghetti Open Data organizza un incontro in carne, ossa e tortellini. Il luogo prescelto è Bologna, dove possiamo contare sul supporto logistico dell&#039;iniziativa open data della Regione Emilia Romagna (grazie!) e del gruppo agenda digitale al Comune (grazie!); le date sono 18-20 gennaio 2013." />
+<meta property="og:title" content="Ecco il primo raduno SOD!" />
+<meta property="og:description" content="Dopo due anni e mezzo, oltre quattrocento iscritti, oltre ottocento threads, migliaia di messaggi, la mailing list di Spaghetti Open Data organizza un incontro in carne, ossa e tortellini. Il luogo prescelto è Bologna, dove possiamo contare sul supporto logistico dell&#039;iniziativa open data della Regione Emilia Romagna (grazie!) e del gruppo agenda digitale al Comune (grazie!); le date sono 18-20 gennaio 2013." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Ecco il primo raduno SOD! | Spaghetti Open Data</title>
+  <link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_Krv2lsDiRe0RpHVCfHNzZcy-xh1jpFJW9dPkOJ8J7FE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_kX1d5LrmIJ2geQ8Pjw4barVU9JIeO0Lo79UouLYqf_U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.0.2/cerulean/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_g6U6EwXzM2Jt8kacTS8MPdb4CEqzJ0bsrkHRe8WfEQw.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_jpJjaUC0z8JMIyav5oQrYykDRUb64rpaUDpB4Y9aklU.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_QDXevDQUHVzZMDomLWFovPGOvjb39NStLwsu8L03TvI.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-37620039-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sod3_bootstrap","theme_token":"eT3jMj0ptmGrHc7r8x8JCjKUCJgBievtSwFYrJCVRXI","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/it__kFqB28HWmqctT6vvCycgucpWPXQeOGk8eIVBrBvAbU.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"\/\/netdna.bootstrapcdn.com\/bootswatch\/3.0.2\/cerulean\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/sod3_bootstrap\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/page\/raduno-2013\/ecco-il-primo-raduno-sod?destination=node\/53":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-53 node-type-page i18n-it" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Salta al contenuto principale</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      
+            <a class="name navbar-brand" href="/" title="Home">Spaghetti Open Data</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/home">Home</a></li>
+<li class="collapsed"><a href="/page/cos-e-chi-siamo">Cos&#039;è e chi siamo</a></li>
+<li class="leaf"><a href="/page/netiquette-ovvero-le-regole-di-comportamento">Netiquette</a></li>
+<li class="collapsed"><a href="/community" title="Community utenti">Community</a></li>
+<li class="leaf"><a href="/page/sod-merge-it-2018">SOD a MERGE-it 2018</a></li>
+<li class="expanded active-trail dropdown"><a href="/page/altri-raduni-cosa-abbiamo-fatto" class="active-trail dropdown-toggle" data-target="#" data-toggle="dropdown">Altri raduni <span class="caret"></span></a><ul class="dropdown-menu"><li class="first expanded"><a href="/page/benvenut-sod16" title="">Raduno 2016</a></li>
+<li class="expanded"><a href="/page/benvenut-sod15">Raduno 2015</a></li>
+<li class="expanded"><a href="/page/benvenut-sod14" title="Landing page per SOD14">Raduno 2014</a></li>
+<li class="last expanded active-trail active"><a href="/page/raduno-2013/ecco-il-primo-raduno-sod" title="" class="active-trail active">Raduno 2013</a></li>
+</ul></li>
+<li class="leaf"><a href="/page/si-parla-di-sod-ovvero-una-sorta-di-rassegna-stampa" title="Dove si parla di SOD in Rete, dalla rassegna stampa dei raduni, a tutto il resto che ci cita">Si parla di SOD</a></li>
+<li class="leaf"><a href="/page/contatti">Contatti</a></li>
+<li class="last leaf"><a href="/page/aiuto">Aiuto</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-first well">
+    <section id="block-user-login" class="block block-user clearfix">
+
+        <h2 class="block-title">Accesso utente</h2>
+    
+  <form action="/page/raduno-2013/ecco-il-primo-raduno-sod?destination=node/53" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-type-textfield form-item-name form-item form-group">
+  <label for="edit-name">Nome utente <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" />
+</div>
+<div class="form-type-password form-item-pass form-item form-group">
+  <label for="edit-pass">Password <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" />
+</div>
+<ul><li class="first"><a href="/user/register" title="Crea un nuovo profilo utente.">Crea nuovo profilo</a></li>
+<li class="last"><a href="/user/password" title="Richiedi una nuova password tramite e-mail.">Richiedi nuova password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-yLktmxTl5GC03xx9a0fd4rl22g0hKaOxaV_MwJp8jNk" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Accedi" type="submit">Accedi</button>
+</div></form>
+</section> <!-- /.block -->
+  </div>
+      </aside>  <!-- /#sidebar-first -->
+    
+    <section class="col-sm-9">
+            <ol class="breadcrumb"><li class="first"><a href="/">Home</a></li>
+<li><a href="/page/altri-raduni-cosa-abbiamo-fatto">Altri raduni</a></li>
+<li><a href="/page/raduno-2013/ecco-il-primo-raduno-sod" title="" class="active">Raduno 2013</a></li>
+<li class="active last">Ecco il primo raduno SOD!</li>
+</ol>      <a id="main-content"></a>
+                    <h1 class="page-header">Ecco il primo raduno SOD!</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-53" class="node node-page clearfix" about="/page/raduno-2013/ecco-il-primo-raduno-sod" typeof="foaf:Document">
+
+
+  <header>
+            <span property="dc:title" content="Ecco il primo raduno SOD!" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+    
+    
+
+  </header>
+
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Dopo due anni e mezzo, oltre quattrocento iscritti, oltre ottocento threads, migliaia di messaggi, la mailing list di Spaghetti Open Data organizza un incontro in carne, ossa e tortellini. Il luogo prescelto è <strong>Bologna</strong>, dove possiamo contare sul supporto logistico dell'<a href="http://dati.emilia-romagna.it/">iniziativa open data della Regione Emilia Romagna</a> (grazie!) e del <a href="http://iperbole2020.comune.bologna.it/agenda-digitale/">gruppo agenda digitale</a> al Comune (grazie!); le date sono <strong>18-20 gennaio 2013</strong>.</p>
+<p>Abbiamo deciso di dedicare questo raduno alla memoria di <a href="http://www.spaghettiopendata.org/it/page/raduno-2013/aaron-swartz">Aaron Swartz</a>. L'hashtag è <a href="https://twitter.com/search?q=%23sod13&amp;src=typd">#SOD13</a>. . L'agenda è questa:</p>
+<ul><li>
+		Venerdì 18 (ore 14.00) sarà dedicata alle <strong>presentazioni</strong> di progetti open data dalla comunità. In Regione Emilia Romagna, viale Aldo Moro 18 - Sala Auditorium (<a href="http://www.spaghettiopendata.org/it/page/raduno-2013/meet-and-greet">info</a> - <a href="https://maps.google.it/maps?q=viale+aldo+moro+18,+bologna&amp;hl=it&amp;sll=44.506928,11.366071&amp;sspn=0.017843,0.042272&amp;t=v&amp;hnear=Viale+Aldo+Moro,+18,+Bologna,+Emilia-Romagna&amp;z=16">mappa</a>), la sera prima cena sociale (<a href="http://www.spaghettiopendata.org/it/page/raduno-2013/cena-sociale-sod">iscrizioni</a>)</li>
+<li>
+		Sabato 19 (ore 10.00) facciamo un <strong>hackathon</strong>, e proviamo a scrivere una nuova app o a migliorarne una esistente. Urban Center Comune di Bologna, Sala Borsa, Piazza Nettuno 3 (<a href="http://www.spaghettiopendata.org/it/page/raduno-2013/hackathon">info</a> - <a href="https://maps.google.it/maps?q=piazza+nettuno+3,+bologna&amp;hl=it&amp;ll=44.494822,11.34259&amp;spn=0.011434,0.020814&amp;sll=44.597309,11.498748&amp;sspn=0.730458,1.332092&amp;hnear=Piazza+del+Nettuno,+3,+Bologna,+Emilia-Romagna&amp;t=m&amp;z=16">mappa</a>). La seconda giornata si apre con "<strong>Un caffè con le <a href="http://www.girlgeekdinnersbologna.com">Girl Geek Dinners Bologna</a>"</strong>. Inoltre, nel corso della giornata le GGDBo saranno presenti con un "gender open data corner", ovvero un punto informativo dove le donne che partecipano a #SOD13 possono compilare un questionario dedicato alla raccolta di dati relativo all'uso di internet e dei social media che diventerà poi una infografica di genere da rilasciare in rete</li>
+<li>
+		Domenica 20 (ore 10.00) faremo un mini-corso di una giornata per imparare a <strong>mixare i dati aperti con geodati e realizzare mappe</strong>. Il taglio sarà molto pratico (una specie di tutorial assistito), e sarà guidato dall'impareggiabile <a href="http://ed.fbk.eu/people/napo/">Maurizio "Napo" Napolitano</a> di <a href="http://www.fbk.eu">FBK</a> e portavoce Open Knowledge Foundation, Gran Maestro dei geohackers italiani. <strike><a href="http://kilowatt.bo.it/">Kilowatt</a>, Via del Borgo di San Pietro 22 (<a href="http://www.spaghettiopendata.org/it/page/raduno-2013/mappe-e-geodati-un-minicorso">info</a> - <a href="http://a.tiles.mapbox.com/v3/napo.map-ln4fqf6f.html#17.00/44.49919/11.34873">mappa</a>).</strike> Locale La Scuderia - piazza verdi 2 (<a href="http://www.lascuderia.bo.it/">info</a> <a href="http://tiles.mapbox.com/napo/map/map-ln4fqf6f">mappa</a>)</li>
+</ul><p>Il raduno, come SOD stessa, è un'iniziativa di società civile, autorealizzata e autofinanziata da chi vi partecipa. A Bologna un manipolo di volontari si sta occupando degli aspetti logistici: per facilitare il loro lavoro ti chiediamo di iscriverti per tempo. Se sai già di volere venire, fallo subito, in modo che possiamo cercare una sala di dimensioni giuste e che sia gratis o quasi. Nel frame qui sotto puoi iscriverti e dirci come vorresti partecipare. Se vuoi sapere chi si è già iscritto <a href="http://stefanoduri.altervista.org/sod.html">guarda qui</a>. Se vuoi darci una mano, <a href="/it/node/61">benvenuto</a>.</p>
+<p>L'incontro è organizzato in collaborazione con: </p>
+<p><img alt="" src="/sites/www.spaghettiopendata.org/files/marchio_RER_2009_RGB%20%281%29.jpg" style="width: 200px; height: 34px;" /> <img alt="" src="/sites/www.spaghettiopendata.org/files/002_CoBo_ML_Af_Col_Pos_CMYK.png" style="width: 150px; height: 81px;" /> <img alt="" src="/sites/www.spaghettiopendata.org/files/logoG.png" style="width: 150px; height: 53px;" /> <img alt="" src="http://epsiplatform.eu/sites/all/themes/epsitheme/images/epsilogo.png" style="width: 180px; height: 65px;" /></p>
+<p><iframe frameborder="0" height="1248" marginheight="0" marginwidth="0" src="https://docs.google.com/spreadsheet/embeddedform?formkey=dHNnOFJ1UGxBQklWSzFjWlJpQ2hCd0E6MA" width="760">Loading...</iframe></p>
+</div></div></div><span property="dc:title" content="Ecco il primo raduno SOD!" class="rdf-meta element-hidden"></span>
+      <footer>
+                </footer>
+  
+  
+</article> <!-- /.node -->
+
+</section> <!-- /.block -->
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+  </footer>
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+</body>
+</html>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.spaghettiopendata.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Blog di pjhooker</title>
+ <link>http://www.spaghettiopendata.org/blogs/pjhooker</link>
+ <description></description>
+ <language>it</language>
+<item>
+ <title>C’è chi va e c’è chi viene: matrice origine-destinazione</title>
+ <link>http://www.spaghettiopendata.org/blog/pjhooker/c-chi-va-e-c-chi-viene-matrice-origine-destinazione</link>
+ <description>&lt;div class=&quot;field field-name-field-immagine-blog-entry field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.spaghettiopendata.org/sites/default/files/20998640705_6e407c28a2_h-e1442062032472-825x510.jpg&quot; width=&quot;825&quot; height=&quot;510&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Nell’Aprile 2015, la Regione Lombardia ha pubblicato un nuovo dataset, intolato &lt;a href=&quot;http://www.trasporti.regione.lombardia.it/cs/Satellite?c=Redazionale_P&amp;amp;childpagename=DG_Infrastrutture%2FDetail&amp;amp;cid=1213723582482&amp;amp;pagename=DG_INFWrapper&quot; target=&quot;_blank&quot;&gt;Matrice OD2014&lt;/a&gt; che può essere scaricato dal Geoportale OpenData della Regione &lt;a href=&quot;https://www.dati.lombardia.it/Mobilit-e-trasporti/Matrice-OD2014-file-compresso-per-download-rapido-/wy2j-jc9m&quot; target=&quot;_blank&quot;&gt;qui&lt;/a&gt;.&lt;br /&gt;
+Questo dataset, contiene un numero di identità che si spostano da un comune A ad un comune B, diviso temporalemnte ed in base al mezzo utilizzato.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;
+	Matrice regionale Origine Destinazione degli spostamenti distinti per origine, destinazione, fascia oraria, motivo e modo prevalente dello spostamento.
+&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.cityplanner.it/wp-content/uploads/2015/09/20150912_Selezione_001.jpg&quot;&gt;&lt;img alt=&quot;Matrice OD2014&quot; src=&quot;http://www.cityplanner.it/wp-content/uploads/2015/09/20150912_Selezione_001.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+Come si evince fin dalla favicon del portale, la Regione ha scelto la piattaforma &lt;a href=&quot;http://www.socrata.com/&quot; target=&quot;_blank&quot;&gt;Socrata&lt;/a&gt; che ha sua volta è un portale dove vengono archiviati i dati ed in particolar modo gli opendata. Molte città nel mondo utilizzano questo portale e si nota subito la qualità.&lt;br /&gt;
+Socrata mette a disposizione una &lt;a href=&quot;http://dev.socrata.com/&quot; target=&quot;_blank&quot;&gt;piattaforma di sviluppo&lt;/a&gt; da cui si possono estrarre i dati, senza doverli archiviare sul proprio server, mediante le cosidette &lt;a href=&quot;https://it.wikipedia.org/wiki/Application_programming_interface&quot; target=&quot;_blank&quot;&gt;API&lt;/a&gt;. Il modello di richiesta è abbastanza semplice, si tratta di un indirizzo url, che se richiamato nel browser, restituisce i dati in formato JSON:&lt;br /&gt;&lt;code&gt;&lt;a href=&quot;https://data.ct.gov/resource/hma6-9xbg.json?category=Fruit&amp;amp;item=Peaches&quot; target=&quot;_blank&quot;&gt;https://data.ct.gov/resource/hma6-9xbg.json?category=Fruit&amp;amp;item=Peaches&lt;/a&gt;&lt;/code&gt;&lt;br /&gt;
+Così ho iniziato ad ispezionare la struttura del dato e ho iniziato a fare qualche query sulla MatriceOD, con dei codici jQuery. Ho unito i risultati su una mappa LeafletJS e lavorato un po’ sullo stile: il risultato lo vedete nell’immagine in copertina.&lt;br /&gt;
+Questo sistema, di visualizzazione, che partiva con un filtro “destinazione:milano” è già pronte ad ospitare la funzione che cliccando su una origine, facesse diventare questa la destinazione, rigenerando il grafico.&lt;br /&gt;
+Aver organizzato bene le query fin dall’inizio, semplicemente aggiungendo la funzione all’evento click, il grafico si rigenera, con una velocità decisamente buona.&lt;/p&gt;
+&lt;p&gt;		&lt;a href=&quot;http://www.cityplanner.it/wp-content/uploads/2015/09/20150912_Selezione_004.jpg&quot;&gt;&lt;img alt=&quot;matriceOD Legnano-Busto Arsizio&quot; class=&quot;aligncenter size-full wp-image-5202&quot; height=&quot;800&quot; src=&quot;http://www.cityplanner.it/wp-content/uploads/2015/09/20150912_Selezione_004.jpg&quot; width=&quot;800&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;		 &lt;/p&gt;
+&lt;p&gt;		 &lt;/p&gt;
+&lt;p&gt;Infine ho inserito una tabella per la consultazione dei dati grezzi. Ho utilizzato la libreria &lt;a href=&quot;https://www.datatables.net/&quot; target=&quot;_blank&quot;&gt;DataTables&lt;/a&gt; che permette di visualizzare i dati in modo “tabella” come semplice input, lasciando alla libreria la creazione degli stili, dei filtri, l’ordinamento e il paging.&lt;br /&gt;&lt;a href=&quot;http://www.cityplanner.it/wp-content/uploads/2015/09/20150912_Selezione_005.jpg&quot;&gt;&lt;img alt=&quot;MatriceOD DataTables jQuery&quot; class=&quot;aligncenter size-full wp-image-5205&quot; src=&quot;http://www.cityplanner.it/wp-content/uploads/2015/09/20150912_Selezione_005.jpg&quot; width=&quot;100%&quot; /&gt;&lt;/a&gt;Ho inserito il tutto nel mio nuovo sistema &lt;a href=&quot;http://www.cityplanner.it/creare-un-webgis-versione-0-1/&quot; target=&quot;_blank&quot;&gt;WebGIS v.0.1&lt;/a&gt; e funziona perfettamente.&lt;br /&gt;&lt;strong&gt;&lt;a class=&quot;wc-shortcodes-button wc-shortcodes-button-primary wc-shortcodes-button-position-float&quot; href=&quot;http://www.cityplanner.it/wp_pulito/webgis/grafo-od2014/&quot; target=&quot;_self&quot; title=&quot;Guarda mappa&quot;&gt;Provalo subito la mappa&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		SOCRATA: &lt;a href=&quot;http://dev.socrata.com/foundry/#/www.dati.lombardia.it/wbii-r5a6&quot;&gt;http://dev.socrata.com/foundry/#/www.dati.lombardia.it/wbii-r5a6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+		10 Tips for Optimizing MySQL Queries: &lt;a href=&quot;http://20bits.com/article/10-tips-for-optimizing-mysql-queries-that-dont-suck&quot;&gt;http://20bits.com/article/10-tips-for-optimizing-mysql-queries-that-dont...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;span property=&quot;dc:title&quot; content=&quot;C’è chi va e c’è chi viene: matrice origine-destinazione&quot; class=&quot;rdf-meta element-hidden&quot;&gt;&lt;/span&gt;</description>
+ <pubDate>Mon, 21 Sep 2015 08:48:07 +0000</pubDate>
+ <dc:creator>pjhooker</dc:creator>
+ <guid isPermaLink="false">207 at http://www.spaghettiopendata.org</guid>
+ <comments>http://www.spaghettiopendata.org/blog/pjhooker/c-chi-va-e-c-chi-viene-matrice-origine-destinazione#comments</comments>
+</item>
+</channel>
+</rss>

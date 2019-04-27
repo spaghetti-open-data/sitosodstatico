@@ -1,0 +1,367 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="it" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:dcat="http://vocab.deri.ie/dcat.rdf/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:site="http://www.spaghettiopendata.org/ns#"
+  xmlns:schema="http://schema.org/">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:site_name" content="Spaghetti Open Data" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.spaghettiopendata.org/document/comunicare-il-raduno" />
+<link rel="shortcut icon" href="http://www.spaghettiopendata.org/sites/all/themes/sod3_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="http://www.spaghettiopendata.org/node/63" />
+<link rel="canonical" href="http://www.spaghettiopendata.org/document/comunicare-il-raduno" />
+<meta name="description" content="Ci lavorano: Andrea, Alberto, [...]
+ 
+(Alberto) Propongo di usare essenzialmente gli account Twitter e Facebook degli spaghettari che vorranno contribuire. Siamo in 350, e messi insieme abbiamo una bella potenza di fuoco. Funziona così:" />
+<meta property="og:title" content="Comunicare il raduno" />
+<meta property="og:description" content="Ci lavorano: Andrea, Alberto, [...]
+ 
+(Alberto) Propongo di usare essenzialmente gli account Twitter e Facebook degli spaghettari che vorranno contribuire. Siamo in 350, e messi insieme abbiamo una bella potenza di fuoco. Funziona così:" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Comunicare il raduno | Spaghetti Open Data</title>
+  <link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_Krv2lsDiRe0RpHVCfHNzZcy-xh1jpFJW9dPkOJ8J7FE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_kX1d5LrmIJ2geQ8Pjw4barVU9JIeO0Lo79UouLYqf_U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.0.2/cerulean/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_g6U6EwXzM2Jt8kacTS8MPdb4CEqzJ0bsrkHRe8WfEQw.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_jpJjaUC0z8JMIyav5oQrYykDRUb64rpaUDpB4Y9aklU.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_QDXevDQUHVzZMDomLWFovPGOvjb39NStLwsu8L03TvI.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-37620039-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sod3_bootstrap","theme_token":"J0Gf79P7EDmfjLuHntkYT0SixqdOdwwRKtbM2FnBhbQ","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/it__kFqB28HWmqctT6vvCycgucpWPXQeOGk8eIVBrBvAbU.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"\/\/netdna.bootstrapcdn.com\/bootswatch\/3.0.2\/cerulean\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/sod3_bootstrap\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/document\/comunicare-il-raduno?destination=node\/63%3Fpage%3D0":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-63 node-type-documento i18n-it" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Salta al contenuto principale</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      
+            <a class="name navbar-brand" href="/" title="Home">Spaghetti Open Data</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/home">Home</a></li>
+<li class="collapsed"><a href="/page/cos-e-chi-siamo">Cos&#039;è e chi siamo</a></li>
+<li class="leaf"><a href="/page/netiquette-ovvero-le-regole-di-comportamento">Netiquette</a></li>
+<li class="collapsed"><a href="/community" title="Community utenti">Community</a></li>
+<li class="leaf"><a href="/page/sod-merge-it-2018">SOD a MERGE-it 2018</a></li>
+<li class="collapsed"><a href="/page/altri-raduni-cosa-abbiamo-fatto">Altri raduni</a></li>
+<li class="leaf"><a href="/page/si-parla-di-sod-ovvero-una-sorta-di-rassegna-stampa" title="Dove si parla di SOD in Rete, dalla rassegna stampa dei raduni, a tutto il resto che ci cita">Si parla di SOD</a></li>
+<li class="leaf"><a href="/page/contatti">Contatti</a></li>
+<li class="last leaf"><a href="/page/aiuto">Aiuto</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-first well">
+    <section id="block-user-login" class="block block-user clearfix">
+
+        <h2 class="block-title">Accesso utente</h2>
+    
+  <form action="/document/comunicare-il-raduno?destination=node/63%3Fpage%3D0" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-type-textfield form-item-name form-item form-group">
+  <label for="edit-name">Nome utente <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" />
+</div>
+<div class="form-type-password form-item-pass form-item form-group">
+  <label for="edit-pass">Password <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" />
+</div>
+<ul><li class="first"><a href="/user/register" title="Crea un nuovo profilo utente.">Crea nuovo profilo</a></li>
+<li class="last"><a href="/user/password" title="Richiedi una nuova password tramite e-mail.">Richiedi nuova password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-r_2Aa7Pg6CI_sxkuXNdebgpMFmeKDdvgn66s7JcymG8" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Accedi" type="submit">Accedi</button>
+</div></form>
+</section> <!-- /.block -->
+  </div>
+      </aside>  <!-- /#sidebar-first -->
+    
+    <section class="col-sm-9">
+            <ol class="breadcrumb"><li class="first"><a href="/">Home</a></li>
+<li><a href="/group/raduno-2013-swat-team" title="">Dai una mano</a></li>
+<li class="active last">Comunicare il raduno</li>
+</ol>      <a id="main-content"></a>
+                    <h1 class="page-header">Comunicare il raduno</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-63" class="node node-documento clearfix" about="/document/comunicare-il-raduno" typeof="sioc:Item foaf:Document">
+
+
+  <header>
+            <span property="dc:title" content="Comunicare il raduno" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="9" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+          <span class="submitted">
+                <span property="dc:date dc:created" content="2012-12-05T14:57:48+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/alberto-cottica" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/alberto-cottica" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Alberto Cottica</a> il Mer, 12/05/2012 - 14:57</span>      </span>
+    
+          <!-- AddThis Button BEGIN -->
+      <div class="addthis_toolbox addthis_default_style" style="margin-top: 10px;">
+      <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+      <a class="addthis_button_google_plusone" g:plusone:annotation="bubble"></a>
+      <a class="addthis_button_tweet"></a>
+      <a class="addthis_button_pinterest_pinit"></a>
+      <a class="addthis_counter addthis_pill_style"></a>
+      </div>
+      <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+      <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js"></script>
+      <!-- AddThis Button END -->
+    
+
+  </header>
+
+  <div class="field field-name-og-group-ref field-type-entityreference field-label-above"><div class="field-label">Groups audience:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="http://www.spaghettiopendata.org/group/raduno-2013-swat-team">Raduno 2013 SWAT Team</a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Ci lavorano: Andrea, Alberto, [...]</p>
+<p> </p>
+<p>(Alberto) Propongo di usare essenzialmente gli account Twitter e Facebook degli spaghettari che vorranno contribuire. Siamo in 350, e messi insieme abbiamo una bella potenza di fuoco. Funziona così:</p>
+<ol><li>
+		decidiamo un hashtag: può andare bene #SOD13? Mi pare che non ci sia molto, tranne <a href="http://www.sod-opleidingen.nl/index.php">questa azienda olandese</a> (o belga? Non si capisce nemmeno)</li>
+<li>
+		ci serve un titolo per l'evento? Io sono una frana con questa roba creativa leggera. Poi fa tutto un po' Totò-Alberto Sordi... "La spaghettata"?... boh..</li>
+<li>
+		creiamo un account Twitter SOD =&gt; Andrea, lo fai tu? e </li>
+<li>
+		chiediamo alla mailing list di seguirlo</li>
+<li>
+		ogni giorno l'account Twitter ufficiale twitta qualcosa: novità se ce ne sono, riprende cose vecchie (per esempio il programma, o il modulo di registrazione) se non ci sono novità</li>
+<li>
+		noi del gruppo comunicazione ci impegnamo a ritwittare, magari anche facendo qualche cambiamento per evitare l'effetto fotocopia; gli altri di SOD lo faranno o no, al loro buon cuore</li>
+</ol><p>In questo modo, con cinque minuti al giorno per un mese secondo me un po' di impatto riusciamo ad averlo. Può andare?</p>
+</div></div></div><span property="dc:title" content="Comunicare il raduno" class="rdf-meta element-hidden"></span>
+      <footer>
+            <ul class="links list-inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/63%23comment-form">Accedi</a> o <a href="/user/register?destination=node/63%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul>    </footer>
+  
+  <div id="comments" class="comment-wrapper">
+          <h2 class="title">Commenti</h2>
+      
+  <a id="comment-4"></a>
+<div class="comment clearfix" about="/comment/4#comment-4" typeof="sioc:Post sioct:Comment">
+  
+  
+    <h3 property="dc:title" datatype=""><a href="/comment/4#comment-4" class="permalink" rel="bookmark">Alberto ok, bella anche &quot;la</a></h3>
+  
+  <div class="submitted">
+    <a href="/comment/4#comment-4" class="permalink" rel="bookmark">Collegamento permanente</a>    <span property="dc:date dc:created" content="2012-12-08T17:28:28+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/andrea-nelson-mauro" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/andrea-nelson-mauro" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Andrea Nelson Mauro</a> il Sab, 12/08/2012 - 17:28</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/document/comunicare-il-raduno" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Alberto ok, bella anche "la spaghettata".<br />
+Per l'account twitter ci vorrebbe la mail però. Esiste <a href="mailto:info@spaghettiopendata.org">info@spaghettiopendata.org</a>? O se ne può usare un'altra?<br />
+oltre al titolo ci vuole un loghetto? tempo fa qualcuno aveva fatto una roba con totò mi pare..</p>
+</div></div></div>      </div>
+
+  <ul class="links list-inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/63%23comment-form">Accedi</a> o <a href="/user/register?destination=node/63%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul></div>
+<a id="comment-5"></a>
+<div class="comment clearfix" about="/comment/5#comment-5" typeof="sioc:Post sioct:Comment">
+  
+  
+    <h3 property="dc:title" datatype=""><a href="/comment/5#comment-5" class="permalink" rel="bookmark">tw</a></h3>
+  
+  <div class="submitted">
+    <a href="/comment/5#comment-5" class="permalink" rel="bookmark">Collegamento permanente</a>    <span property="dc:date dc:created" content="2012-12-08T18:46:59+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/andrea-nelson-mauro" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/andrea-nelson-mauro" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Andrea Nelson Mauro</a> il Sab, 12/08/2012 - 18:46</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/document/comunicare-il-raduno" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>per l'account twitter che mail usiamo?<br /><a href="mailto:spaghettiopendata@gmail.com">spaghettiopendata@gmail.com</a> ?<br /><a href="mailto:info@spaghettiopendata.org">info@spaghettiopendata.org</a> ?</p>
+</div></div></div>      </div>
+
+  <ul class="links list-inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/63%23comment-form">Accedi</a> o <a href="/user/register?destination=node/63%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul></div>
+<a id="comment-6"></a>
+<div class="comment clearfix" about="/comment/6#comment-6" typeof="sioc:Post sioct:Comment">
+  
+  
+    <h3 property="dc:title" datatype=""><a href="/comment/6#comment-6" class="permalink" rel="bookmark">Ok! potrei avanzare 2</a></h3>
+  
+  <div class="submitted">
+    <a href="/comment/6#comment-6" class="permalink" rel="bookmark">Collegamento permanente</a>    <span property="dc:date dc:created" content="2012-12-09T08:45:58+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/cristian" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/cristian" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Cristian</a> il Dom, 12/09/2012 - 08:45</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/document/comunicare-il-raduno" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Ok! potrei avanzare 2 proposte:<br />
+- una paginina sulla faccialibro (fb) no!?!! magari valutiamo assieme se è necessaria o meno;<br />
+- potrebbe essere utile creare un manifesto con gli obiettivi in chiaro!!?!<br />
+Per ora non mi viene in mente altro ; ) </p>
+</div></div></div>      </div>
+
+  <ul class="links list-inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/63%23comment-form">Accedi</a> o <a href="/user/register?destination=node/63%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul></div>
+
+<div class="indented"><a id="comment-7"></a>
+<div class="comment comment-by-node-author clearfix" about="/comment/7#comment-7" typeof="sioc:Post sioct:Comment">
+  
+  
+    <h3 property="dc:title" datatype=""><a href="/comment/7#comment-7" class="permalink" rel="bookmark">SOD email</a></h3>
+  
+  <div class="submitted">
+    <a href="/comment/7#comment-7" class="permalink" rel="bookmark">Collegamento permanente</a>    <span property="dc:date dc:created" content="2012-12-09T11:25:55+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/alberto-cottica" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/alberto-cottica" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Alberto Cottica</a> il Dom, 12/09/2012 - 11:25</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/document/comunicare-il-raduno" class="rdf-meta element-hidden"></span><span rel="sioc:reply_of" resource="/comment/6#comment-6" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Rispondo sia a Cristian che a Andrea: io userei un gmail, perché adesso spaghettiopensata.org è ospite dei server di Twinbit e non vorrei creare altri fastidi al già generosissimo Paolo Mainardi. Andrea, lo crei tu? </p>
+</div></div></div>      </div>
+
+  <ul class="links list-inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/63%23comment-form">Accedi</a> o <a href="/user/register?destination=node/63%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul></div>
+</div><a id="comment-8"></a>
+<div class="comment clearfix" about="/comment/8#comment-8" typeof="sioc:Post sioct:Comment">
+  
+  
+    <h3 property="dc:title" datatype=""><a href="/comment/8#comment-8" class="permalink" rel="bookmark">Hash e Fb</a></h3>
+  
+  <div class="submitted">
+    <a href="/comment/8#comment-8" class="permalink" rel="bookmark">Collegamento permanente</a>    <span property="dc:date dc:created" content="2012-12-10T08:46:59+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/francesco-minazzi" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/francesco-minazzi" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Avv. Francesco ...</a> il Lun, 12/10/2012 - 08:46</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/document/comunicare-il-raduno" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>L'hashtag #SOD13 mi sembra perfetto, visto che la twittersfera (da quanto ho notato) associa istintivamente SOD a spaghetti, o insomma conosce l'acronimo. Anche la pagina Fb sarebbe ottima, dato che non tutti sono su Twitter, come non tutti sono su Fb, ma si potrebbe creare anche l'evento su Fb, così ogni membro SOD Fbdotato può "spammare" l'invito ai suoi contatti.</p>
+</div></div></div>      </div>
+
+  <ul class="links list-inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/63%23comment-form">Accedi</a> o <a href="/user/register?destination=node/63%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul></div>
+
+<div class="indented"><a id="comment-9"></a>
+<div class="comment comment-by-node-author clearfix" about="/comment/9#comment-9" typeof="sioc:Post sioct:Comment">
+  
+  
+    <h3 property="dc:title" datatype=""><a href="/comment/9#comment-9" class="permalink" rel="bookmark">FB lo fai tu?</a></h3>
+  
+  <div class="submitted">
+    <a href="/comment/9#comment-9" class="permalink" rel="bookmark">Collegamento permanente</a>    <span property="dc:date dc:created" content="2012-12-11T20:22:41+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/alberto-cottica" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/alberto-cottica" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Alberto Cottica</a> il Mar, 12/11/2012 - 20:22</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/document/comunicare-il-raduno" class="rdf-meta element-hidden"></span><span rel="sioc:reply_of" resource="/comment/8#comment-8" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Francesco, puoi fare tu FB? Io sono un utente molto debole di FB.</p>
+</div></div></div>      </div>
+
+  <ul class="links list-inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/63%23comment-form">Accedi</a> o <a href="/user/register?destination=node/63%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul></div>
+</div><a id="comment-10"></a>
+<div class="comment clearfix" about="/comment/10#comment-10" typeof="sioc:Post sioct:Comment">
+  
+  
+    <h3 property="dc:title" datatype=""><a href="/comment/10#comment-10" class="permalink" rel="bookmark">tw</a></h3>
+  
+  <div class="submitted">
+    <a href="/comment/10#comment-10" class="permalink" rel="bookmark">Collegamento permanente</a>    <span property="dc:date dc:created" content="2012-12-13T11:42:38+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/andrea-nelson-mauro" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/andrea-nelson-mauro" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Andrea Nelson Mauro</a> il Gio, 12/13/2012 - 11:42</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/document/comunicare-il-raduno" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>visto solo ora, faccio twitterr in giornata. faccio @sod se nessuno ha idee migliori (@sod13 come user mi pare non buono)</p>
+</div></div></div>      </div>
+
+  <ul class="links list-inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/63%23comment-form">Accedi</a> o <a href="/user/register?destination=node/63%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul></div>
+<a id="comment-11"></a>
+<div class="comment clearfix" about="/comment/11#comment-11" typeof="sioc:Post sioct:Comment">
+  
+  
+    <h3 property="dc:title" datatype=""><a href="/comment/11#comment-11" class="permalink" rel="bookmark">https://twitter.com/sod_folks</a></h3>
+  
+  <div class="submitted">
+    <a href="/comment/11#comment-11" class="permalink" rel="bookmark">Collegamento permanente</a>    <span property="dc:date dc:created" content="2012-12-14T09:44:50+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/andrea-nelson-mauro" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/andrea-nelson-mauro" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Andrea Nelson Mauro</a> il Ven, 12/14/2012 - 09:44</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/document/comunicare-il-raduno" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="https://twitter.com/sod_folks">https://twitter.com/sod_folks</a><br />
+mail: <a href="mailto:spaghettiopendatatw@gmail.com">spaghettiopendatatw@gmail.com</a><br />
+pw: spaghettitwitter.<br />
+ <br />
+bisognerebbe metterci un logo, uno sfondo, etc.. ma cosa usiamo? luca corsato mi pare che stesse facendo un logo tempo fa.<br />
+cmq ho fatto il post sul gruppo, magari spunta qualcosa da lì.<br />
+ciao</p>
+</div></div></div>      </div>
+
+  <ul class="links list-inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/63%23comment-form">Accedi</a> o <a href="/user/register?destination=node/63%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul></div>
+<a id="comment-13"></a>
+<div class="comment clearfix" about="/comment/13#comment-13" typeof="sioc:Post sioct:Comment">
+  
+  
+    <h3 property="dc:title" datatype=""><a href="/comment/13#comment-13" class="permalink" rel="bookmark">Comunicato stampa</a></h3>
+  
+  <div class="submitted">
+    <a href="/comment/13#comment-13" class="permalink" rel="bookmark">Collegamento permanente</a>    <span property="dc:date dc:created" content="2013-01-02T14:49:58+01:00" datatype="xsd:dateTime" rel="sioc:has_creator">Inviato da <a href="/users/mara-cinquepalmi" title="Visualizza profilo utente." class="username" xml:lang="" about="/users/mara-cinquepalmi" typeof="schema:Person sioc:UserAccount" property="schema:name" datatype="">Mara Cinquepalmi</a> il Mer, 01/02/2013 - 14:49</span>  </div>
+
+  <div class="content">
+    <span rel="sioc:reply_of" resource="/document/comunicare-il-raduno" class="rdf-meta element-hidden"></span><div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Ciao,<br />
+ecco un primo comunicato stampa:<br />
+Bologna, gennaio 2013</p>
+<p>	 <br />
+OPEN DATA, DAL 18 AL 20 GENNAIO IL PRIMO RADUNO<br />
+DELLA COMMUNITY SPAGHETTI OPEN DATA</p>
+<p>	 <br />
+Dal 18 al 20 gennaio 2013 Bologna ospita #SOD13, il primo raduno di <a href="http://www.spaghettiopendata.org/">Spaghetti Open Data</a>.<br />
+SOD è una community che raccoglie un gruppo di cittadini interessati al rilascio di dati pubblici in formato aperto, in modo da renderne facile l'accesso e il riuso (open data).<br />
+L’idea di Spaghetti Open Data nasce nel 2010 da un <a href="http://www.cottica.net/2010/09/16/spaghetti-open-data-reloaded/">post</a> di Alberto Cottica, economista, esperto di politiche pubbliche collaborative e partecipazione online ed organizzatore del raduno. Da quel post è nata una pagina web e, dopo due anni e mezzo, SOD oggi conta oltre trecentocinquanta iscritti, più di ottocento threads, migliaia di messaggi ed <a href="https://github.com/spaghetti-open-data">un repository GitHub</a> in open source.<br />
+Alla mailing list di Spaghetti Open Data partecipano sviluppatori, funzionari pubblici, data journalists, semplici curiosi che si sono appassionati al tema dei dati aperti.<br />
+Il raduno, come SOD stessa, è un'iniziativa di società civile, autorealizzata e autofinanziata da chi vi partecipa ed è realizzato in collaborazione con Open Data Regione Emilia-Romagna e Agenda Digitale Comune di Bologna.<br />
+Questo il programma della tre giorni:</p>
+<p>	 </p>
+<ul><li dir="ltr">
+		Venerdì 18 gennaio, dalle ore 14, la Sala Auditorium della Regione Emilia-Romagna (viale Aldo Moro, 50) ospita le presentazioni di progetti open data realizzati dalla comunità.
+	</li>
+<li dir="ltr">
+		Sabato 19 gennaio (orario da definire) il raduno si sposta all’Urban Center di Bologna (c/o Sala Borsa, Piazza Nettuno 3) per un hackathon. L’idea è scrivere una nuova app o a migliorarne una esistente.
+	</li>
+<li dir="ltr">
+		Domenica 20 gennaio (orario da definire) lo spazio <a href="http://kilowatt.bo.it/">Kilowatt</a> (via del Borgo di San Pietro, 22) ospita un mini-corso per imparare a mixare i dati aperti con geodati e realizzare mappe. L’incontro formativo è a cura di <a href="http://ed.fbk.eu/people/napo/">Maurizio "Napo" Napolitano</a> di Open Knowledge Foundation, geohacker italiano numero uno e attivissimo nella mailing list di SOD. Il corso è aperto a tutti e non è richiesta nessuna conoscenza tecnica pregressa. Alcuni volontari affiancheranno Napo per aiutare le persone che incontrano difficoltà tecniche. Durante il corso si parlerà di: Introduzione al modello dei dati geografici - cosa sono, dove trovarlli e qualche informazione di contorno; Visualizzare e organizzare - shape file e csv/xls: cosa ci faccio con queste cose?; Creare e analizzare geodati - modificare geometrie, estrarre dati,importare immagini senza coordinate geografiche, analisi spaziale; Visualizzare i propri geodati nel web - breve tutorial a LeafLet o OpenLayers per portare i propri dati su web in maniera indipendente dalla mappa di background; Offrire delle mappe personalizzate - breve tutorial a Maperitive e TileMill per creare delle mappe di background secondo i propri gusti; Utilizzare i dati di OpenStreetMap - che sono più aperti di quelli di Google.
+	</li>
+</ul><p>	 <br />
+L’hashtag per seguire i lavori del raduno è #SOD13.</p>
+<p>	 </p>
+</div></div></div>      </div>
+
+  <ul class="links list-inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/63%23comment-form">Accedi</a> o <a href="/user/register?destination=node/63%23comment-form">registrati</a> per inserire commenti.</span></li>
+</ul></div>
+
+  </div>
+
+</article> <!-- /.node -->
+
+</section> <!-- /.block -->
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+  </footer>
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+</body>
+</html>

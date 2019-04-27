@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="it" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:dcat="http://vocab.deri.ie/dcat.rdf/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:site="http://www.spaghettiopendata.org/ns#"
+  xmlns:schema="http://schema.org/">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:site_name" content="Spaghetti Open Data" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.spaghettiopendata.org/page/raduno-2013/rassegna-stampa" />
+<link rel="shortcut icon" href="http://www.spaghettiopendata.org/sites/all/themes/sod3_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortlink" href="http://www.spaghettiopendata.org/node/77" />
+<link rel="canonical" href="http://www.spaghettiopendata.org/page/raduno-2013/rassegna-stampa" />
+<meta name="description" content="Cosa si dice a proposito di #SOD13
+Corriere della Sera Bologna
+Comunicatori e comunicazione - Newsletter Compubblica" />
+<meta property="og:title" content="Rassegna stampa" />
+<meta property="og:description" content="Cosa si dice a proposito di #SOD13
+Corriere della Sera Bologna
+Comunicatori e comunicazione - Newsletter Compubblica" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Rassegna stampa | Spaghetti Open Data</title>
+  <link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_Krv2lsDiRe0RpHVCfHNzZcy-xh1jpFJW9dPkOJ8J7FE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_kX1d5LrmIJ2geQ8Pjw4barVU9JIeO0Lo79UouLYqf_U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.0.2/cerulean/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_g6U6EwXzM2Jt8kacTS8MPdb4CEqzJ0bsrkHRe8WfEQw.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_jpJjaUC0z8JMIyav5oQrYykDRUb64rpaUDpB4Y9aklU.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_QDXevDQUHVzZMDomLWFovPGOvjb39NStLwsu8L03TvI.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-37620039-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sod3_bootstrap","theme_token":"ICwAeTJSTTCzT06i5qepgPHf69v6ojJqaBwPoOJWpio","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/it__kFqB28HWmqctT6vvCycgucpWPXQeOGk8eIVBrBvAbU.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"\/\/netdna.bootstrapcdn.com\/bootswatch\/3.0.2\/cerulean\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/sod3_bootstrap\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/page\/raduno-2013\/rassegna-stampa?destination=node\/77":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-77 node-type-page i18n-it" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Salta al contenuto principale</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      
+            <a class="name navbar-brand" href="/" title="Home">Spaghetti Open Data</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/home">Home</a></li>
+<li class="collapsed"><a href="/page/cos-e-chi-siamo">Cos&#039;è e chi siamo</a></li>
+<li class="leaf"><a href="/page/netiquette-ovvero-le-regole-di-comportamento">Netiquette</a></li>
+<li class="collapsed"><a href="/community" title="Community utenti">Community</a></li>
+<li class="leaf"><a href="/page/sod-merge-it-2018">SOD a MERGE-it 2018</a></li>
+<li class="expanded active-trail dropdown"><a href="/page/altri-raduni-cosa-abbiamo-fatto" class="active-trail dropdown-toggle" data-target="#" data-toggle="dropdown">Altri raduni <span class="caret"></span></a><ul class="dropdown-menu"><li class="first expanded"><a href="/page/benvenut-sod16" title="">Raduno 2016</a></li>
+<li class="expanded"><a href="/page/benvenut-sod15">Raduno 2015</a></li>
+<li class="expanded"><a href="/page/benvenut-sod14" title="Landing page per SOD14">Raduno 2014</a></li>
+<li class="last expanded active-trail"><a href="/page/raduno-2013/ecco-il-primo-raduno-sod" title="" class="active-trail">Raduno 2013</a></li>
+</ul></li>
+<li class="leaf"><a href="/page/si-parla-di-sod-ovvero-una-sorta-di-rassegna-stampa" title="Dove si parla di SOD in Rete, dalla rassegna stampa dei raduni, a tutto il resto che ci cita">Si parla di SOD</a></li>
+<li class="leaf"><a href="/page/contatti">Contatti</a></li>
+<li class="last leaf"><a href="/page/aiuto">Aiuto</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-first well">
+    <section id="block-user-login" class="block block-user clearfix">
+
+        <h2 class="block-title">Accesso utente</h2>
+    
+  <form action="/page/raduno-2013/rassegna-stampa?destination=node/77" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-type-textfield form-item-name form-item form-group">
+  <label for="edit-name">Nome utente <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" />
+</div>
+<div class="form-type-password form-item-pass form-item form-group">
+  <label for="edit-pass">Password <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" />
+</div>
+<ul><li class="first"><a href="/user/register" title="Crea un nuovo profilo utente.">Crea nuovo profilo</a></li>
+<li class="last"><a href="/user/password" title="Richiedi una nuova password tramite e-mail.">Richiedi nuova password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-BNYbVx4weS1q0rOkeEGh9VWP9C3LTsJvvtgBcuMWbLo" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Accedi" type="submit">Accedi</button>
+</div></form>
+</section> <!-- /.block -->
+  </div>
+      </aside>  <!-- /#sidebar-first -->
+    
+    <section class="col-sm-9">
+            <ol class="breadcrumb"><li class="first"><a href="/">Home</a></li>
+<li><a href="/page/altri-raduni-cosa-abbiamo-fatto">Altri raduni</a></li>
+<li><a href="/page/raduno-2013/ecco-il-primo-raduno-sod" title="">Raduno 2013</a></li>
+<li class="active last">Rassegna stampa</li>
+</ol>      <a id="main-content"></a>
+                    <h1 class="page-header">Rassegna stampa</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-77" class="node node-page clearfix" about="/page/raduno-2013/rassegna-stampa" typeof="foaf:Document">
+
+
+  <header>
+            <span property="dc:title" content="Rassegna stampa" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+    
+    
+
+  </header>
+
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>Cosa si dice a proposito di #SOD13</strong><br /><a href="http://corrieredibologna.corriere.it/bologna/notizie/economia/2013/17-gennaio-2013/dati-pubblici-liberi-primo-raduno-bologna-2113593416212.shtml">Corriere della Sera Bologna</a><br /><a href="http://newsletter.comunicatoriecomunicazione.it//newsletter/arc.html?cid=54871144O&amp;mid=86846395T&amp;pid=9617592596O&amp;uid=7877&amp;exid=274">Comunicatori e comunicazione - Newsletter Compubblica</a><br /><a href="http://http://social-media-people.comunita.unita.it/2013/01/14/dal-18-al-20-gennaio-2013-bologna-ospita-sod13-il-primo-raduno-di-spaghetti-open-data/">Social Media People - L'Unità</a><br /><a href="http://www.dire.it/DIRE-EMILIA-ROMAGNA/spaghetti_open.php?c=47776&amp;m=14&amp;l=i">Agenzia Dire</a><br /><a href="http://www.girlgeekdinnersbologna.com/2013/01/13/ggd-meet-sod-per-la-raccolta-di-dati-di-genere/">Girl Geek Dinners Bologna</a><br /><a href="http://saperi.forumpa.it/story/69816/raduno-spaghetti-open-data-una-palestra-funzionari-pubblici-e-non-piena-filosofia-hacker?utm_source=FORUMPANET&amp;utm_medium=2013-01-16">Saperi Forumpa</a><br /><a href="http://blog.wired.it/codiceaperto/2013/01/18/bologna-la-dotta-bologna-la-grassa-bologna-opendata.html">Wired</a><br /><a href="http://dati.emilia-romagna.it/component/content/article/48-flash-news/285-18-20-gennaio-a-bologna-il-primo-raduno-di-spaghetti-open-data.html">Open Data Regione Emilia Romagna</a><br /><a href="http://www.comune.sanlazzaro.bo.it/comunicazione/mondo-comunicazione/open-data-a-bologna-il-primo-raduno-della-community-spaghetti-open-data">Rete &amp; Comunicazione - Comune di San Lazzaro di Savena</a><br /><a href="http://www.chefuturo.it/agenda/primo-raduno-spaghetti-opendata/">Che futuro</a><br /><a href="http://www.dati.piemonte.it/eventi/details/68-primo-meeting-della-community-spaghetti-open-data.html">DATI.Piemonte.it</a><br /><a href="http://www.emiliaromagnastartup.it/eventi/carne-ossa-e-tortellini-bologna-il-primo-incontro-di-spaghetti-open-data">Emilia Romagna start up</a><br /><a href="http://www.sviluppo.lazio.it/nl_news.asp?id=5283">Sviluppolazio</a><br /><a href="http://www.ildn.net/content/open-data-dal-18-al-20-gennaio-2013-il-primo-raduno-della-community-d-spaghetti-open-data">ILDN - Italian Linux Distro Network</a><br /><a href="http://www.rivistageomedia.it/201301074775/Appuntamenti/spaghetti-open-data-al-via-il-primo-meeting.html">Geomedia</a><br /><a href="http://www.regionedigitale.net/dallemilia-romagna/notizie-2013/gennaio/18-20-gennaio-bologna-ospita-il-primo-raduno-di-spaghetti-open-data">Regionedigitale</a><br /><a href="http://www.taslab.eu/osservatorio/news?p_p_id=taslab_news_list_INSTANCE_1gUn&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_taslab_news_list_INSTANCE_1gUn_struts_action=%2Ftaslab_news_list%2Fview&amp;_taslab_news_list_INSTANCE_1gUn_groupId=16&amp;_taslab_news_list_INSTANCE_1gUn_articleId=44995&amp;_taslab_news_list_INSTANCE_1gUn_version=1.0">Taslab</a><br /><a href="http://radio.rcdc.it/archives/tortellini-open-data-111805/">Radio Città del Capo</a><br />
+ <br /><strong>Cosa si dice a proposito di #Twitantonio</strong><br /><a href="http://www.repubblica.it/politica/2013/02/03/news/twitantonio_twitter_polismeter_electionista-51657145/?ref=HREC1-8">La Repubblica </a><br /><a href="http://lastampa.it/2013/01/31/italia/cronache/teniamo-il-fiato-sul-collo-agli-enti-la-nostra-e-una-guerriglia-civica-lLMRrHglShsKT60kpboizO/pagina.html?wtrk=cpc.social.Twitter&amp;utm_source=Twitter&amp;utm_medium=&amp;utm_campaign=">La Stampa</a><br /><a href="http://www.ilfattoquotidiano.it/2013/01/31/twitantonio-it-fate-le-vostre-domande-ai-candidati/484826/">Il Fatto Quotidiano</a><br /><a href="http://www.huffingtonpost.it/riccardo-luna/boom-di-riscrivilastoriaconsilvio-ma-silvio-su-twitter-non-funziona_b_2572165.html">Huffingtonpost</a><br /><a href="http://www.lsdi.it/2013/con-twitantonio-il-candidato-a-portata-di-tweet/">Lsdi - Libertà di stampa diritto all'informazione</a><br /><a href="http://www.trentamag.com/2013/01/29/twitantonio-e-nessuna-campagna-elettorale-sara-piu-come-prima/">Trentamag</a><br /><a href="http://www.chefuturo.it/2013/01/andrea-nelson-mauro-e-mara-cinquepalmi-cittadino-ce-twitantonio-stai-addosso-al-tuo-candidato/">Chefuturo</a><br /><a href="http://pinobruno.globalist.it/2013/01/twitantonio-il-candidato-a-portata-di-tweet/">Il blog di Pino Bruno</a><br /><a href="http://saperi.forumpa.it/story/69854/twittantonio-i-candidati-portata-di-tweet-esempio-perfetto-di-civic-hacking">Saperi Forumpa</a></p>
+<p>	<a href="http://metromagazine.blogspot.com/2013/01/twitantonio-il-confronto-con-i-politici.html?spref=tw">Metromagazine</a><br /><a href="http://www.giornalettismo.com/archives/736809/cosa-dicono-gli-italiani-ai-politici/">Giornalettismo</a><br /><a href="http://www.fastweb.it/social/twitantonio-l-app-gratuita-per-twittare-con-i-candidati">Fastweb</a><br /><a href="http://affaritaliani.libero.it/puglia/politica-2-0-e-oltre-le-agor-ora-sono-anche-online.html">Affari Italiani</a><br /><a href="http://www.linkiesta.it/blogs/alta-fedelta/elezioni-2013-politica-20-e-oltre-le-agora-ora-sono-anche-online.">Linkiesta</a><br /><a href="http://www.datamanager.it/news/campagna-elettorale-twitantonio-44114.html">Datamanager</a><br />
+ </p>
+</div></div></div><span property="dc:title" content="Rassegna stampa" class="rdf-meta element-hidden"></span>
+      <footer>
+                </footer>
+  
+  
+</article> <!-- /.node -->
+
+</section> <!-- /.block -->
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+  </footer>
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+</body>
+</html>

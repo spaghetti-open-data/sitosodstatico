@@ -1,0 +1,242 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="it" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:dcat="http://vocab.deri.ie/dcat.rdf/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:site="http://www.spaghettiopendata.org/ns#"
+  xmlns:schema="http://schema.org/">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.spaghettiopendata.org/page/raduno-2016/cosa-abbiamo-fatto-sod16-i-materiali" />
+<link rel="shortcut icon" href="http://www.spaghettiopendata.org/sites/all/themes/sod3_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:site_name" content="Spaghetti Open Data" />
+<link rel="canonical" href="http://www.spaghettiopendata.org/page/raduno-2016/cosa-abbiamo-fatto-sod16-i-materiali" />
+<meta property="og:title" content="Cosa abbiamo fatto a SOD16: i materiali" />
+<meta property="og:description" content="[da completare la raccolta dei materiali mostrati e discussi]
+Video interviste fatte durante la giornata di venerdì ad alcuni dei presenti e relatori al raduno: 
+https://www.youtube.com/playlist?list=UU4jkYQ9bwS94L-x-KEVpKiw
+ " />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="http://www.spaghettiopendata.org/node/250" />
+  <title>Cosa abbiamo fatto a SOD16: i materiali | Spaghetti Open Data</title>
+  <link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_Krv2lsDiRe0RpHVCfHNzZcy-xh1jpFJW9dPkOJ8J7FE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_kX1d5LrmIJ2geQ8Pjw4barVU9JIeO0Lo79UouLYqf_U.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootswatch/3.0.2/cerulean/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.spaghettiopendata.org/sites/default/files/css/css_g6U6EwXzM2Jt8kacTS8MPdb4CEqzJ0bsrkHRe8WfEQw.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_jpJjaUC0z8JMIyav5oQrYykDRUb64rpaUDpB4Y9aklU.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_R9UbiVw2xuTUI0GZoaqMDOdX0lrZtgX-ono8RVOUEVc.js"></script>
+<script src="http://www.spaghettiopendata.org/sites/default/files/js/js_QDXevDQUHVzZMDomLWFovPGOvjb39NStLwsu8L03TvI.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-37620039-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"sod3_bootstrap","theme_token":"8hqtlWhubt61lCB_hHSmytveQZJlrFF7MO9g_BjznhU","js":{"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"public:\/\/languages\/it__kFqB28HWmqctT6vvCycgucpWPXQeOGk8eIVBrBvAbU.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/jquery.bgiframe.min.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/sftouchscreen.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1},"css":{"modules\/system\/system.base.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/mollom\/mollom.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-vertical.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-navbar.css":1,"\/\/netdna.bootstrapcdn.com\/bootswatch\/3.0.2\/cerulean\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/sod3_bootstrap\/css\/style.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/page\/raduno-2016\/cosa-abbiamo-fatto-sod16-i-materiali?destination=node\/250":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-250 node-type-page i18n-it" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Salta al contenuto principale</a>
+  </div>
+    <header id="navbar" role="banner" class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      
+            <a class="name navbar-brand" href="/" title="Home">Spaghetti Open Data</a>
+      
+      <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+
+          <div class="navbar-collapse collapse">
+        <nav role="navigation">
+                      <ul class="menu nav navbar-nav"><li class="first leaf"><a href="/home">Home</a></li>
+<li class="collapsed"><a href="/page/cos-e-chi-siamo">Cos&#039;è e chi siamo</a></li>
+<li class="leaf"><a href="/page/netiquette-ovvero-le-regole-di-comportamento">Netiquette</a></li>
+<li class="collapsed"><a href="/community" title="Community utenti">Community</a></li>
+<li class="leaf"><a href="/page/sod-merge-it-2018">SOD a MERGE-it 2018</a></li>
+<li class="expanded active-trail dropdown"><a href="/page/altri-raduni-cosa-abbiamo-fatto" class="active-trail dropdown-toggle" data-target="#" data-toggle="dropdown">Altri raduni <span class="caret"></span></a><ul class="dropdown-menu"><li class="first expanded active-trail"><a href="/page/benvenut-sod16" title="" class="active-trail">Raduno 2016</a></li>
+<li class="expanded"><a href="/page/benvenut-sod15">Raduno 2015</a></li>
+<li class="expanded"><a href="/page/benvenut-sod14" title="Landing page per SOD14">Raduno 2014</a></li>
+<li class="last expanded"><a href="/page/raduno-2013/ecco-il-primo-raduno-sod" title="">Raduno 2013</a></li>
+</ul></li>
+<li class="leaf"><a href="/page/si-parla-di-sod-ovvero-una-sorta-di-rassegna-stampa" title="Dove si parla di SOD in Rete, dalla rassegna stampa dei raduni, a tutto il resto che ci cita">Si parla di SOD</a></li>
+<li class="leaf"><a href="/page/contatti">Contatti</a></li>
+<li class="last leaf"><a href="/page/aiuto">Aiuto</a></li>
+</ul>                                      </nav>
+      </div>
+      </div>
+</header>
+
+<div class="main-container container">
+
+  <header role="banner" id="page-header">
+    
+      </header> <!-- /#page-header -->
+
+  <div class="row">
+
+          <aside class="col-sm-3" role="complementary">
+          <div class="region region-sidebar-first well">
+    <section id="block-user-login" class="block block-user clearfix">
+
+        <h2 class="block-title">Accesso utente</h2>
+    
+  <form action="/page/raduno-2016/cosa-abbiamo-fatto-sod16-i-materiali?destination=node/250" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-type-textfield form-item-name form-item form-group">
+  <label for="edit-name">Nome utente <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" />
+</div>
+<div class="form-type-password form-item-pass form-item form-group">
+  <label for="edit-pass">Password <span class="form-required" title="Questo campo è obbligatorio.">*</span></label>
+ <input class="form-control form-text required" type="password" id="edit-pass" name="pass" size="15" maxlength="128" />
+</div>
+<ul><li class="first"><a href="/user/register" title="Crea un nuovo profilo utente.">Crea nuovo profilo</a></li>
+<li class="last"><a href="/user/password" title="Richiedi una nuova password tramite e-mail.">Richiedi nuova password</a></li>
+</ul><input type="hidden" name="form_build_id" value="form-yxLH38Bh38brj0bdNSsncfNdfzOedjxTofdnw9ftVUU" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<button class="btn btn-default form-submit" id="edit-submit" name="op" value="Accedi" type="submit">Accedi</button>
+</div></form>
+</section> <!-- /.block -->
+  </div>
+      </aside>  <!-- /#sidebar-first -->
+    
+    <section class="col-sm-9">
+            <ol class="breadcrumb"><li class="first"><a href="/">Home</a></li>
+<li><a href="/page/altri-raduni-cosa-abbiamo-fatto">Altri raduni</a></li>
+<li><a href="/page/benvenut-sod16" title="">Raduno 2016</a></li>
+<li class="active last">Cosa abbiamo fatto a SOD16: i materiali</li>
+</ol>      <a id="main-content"></a>
+                    <h1 class="page-header">Cosa abbiamo fatto a SOD16: i materiali</h1>
+                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <article id="node-250" class="node node-page clearfix" about="/page/raduno-2016/cosa-abbiamo-fatto-sod16-i-materiali" typeof="foaf:Document">
+
+
+  <header>
+            <span property="dc:title" content="Cosa abbiamo fatto a SOD16: i materiali" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+    
+    
+
+  </header>
+
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>[da completare la raccolta dei materiali mostrati e discussi]</p>
+<p>Video interviste fatte durante la giornata di venerdì ad alcuni dei presenti e relatori al raduno: </p>
+<p><a href="https://www.youtube.com/playlist?list=UU4jkYQ9bwS94L-x-KEVpKiw">https://www.youtube.com/playlist?list=UU4jkYQ9bwS94L-x-KEVpKiw</a></p>
+<p> </p>
+<h3>
+	<strong>6 Maggio 2016 - (Un)Conferenza </strong></h3>
+<h3>
+	(forse c'è una registrazione audio-video della sessione plenaria)</h3>
+<ul><li>
+		European Open Data Portal - <a href="http://www.europeandataportal.eu/">http://www.europeandataportal.eu/</a> (Wendy Carrara) - “(<i>intervento in inglese) </i></li>
+<li>
+		Ricerca Open Data 200: lo stato dell'arte del riuso degli Open Data dalle aziende in Italia - <a href="http://www.opendata500.com/it/">http://www.opendata500.com/it/</a> (Francesca De Chiara) </li>
+<li>
+		Open Demanio<strong> (</strong>Massimo Savelli - Servizio Tecnologie ICT - Innovazione - Agenzia del Demanio) - <a href="http://dati.agenziademanio.it/#/ ">http://dati.agenziademanio.it/#/ </a></li>
+<li>
+		FOIA: a che punto siamo? - <a href="http://www.foia4italy.it/">http://www.foia4italy.it/</a> - Ernesto Belisario e Monica Palmirani - <a href="https://www.facebook.com/diritto2punto0/videos/765059366963089/">intervento di Ernesto in video pubblicato via Facebook</a> e <a href="https://drive.google.com/file/d/0B3n4Ii6V2DlwNWRsNllVQVN3NGc/view?usp=sharing">slide mostrate da Monica (PDF)</a></li>
+</ul><h4>
+	 </h4>
+<h4>
+	Sessioni pomeridiane di (Un)Conference:<em> i link portano alle slides degli interventi</em></h4>
+<ol><li style="box-sizing: border-box;">
+		Core Vocabularies (Nicola Guarino) - <a href="http://drive.google.com/open?id=0B3n4Ii6V2DlwVWlyTE0ySnhaQ0k" style="box-sizing: border-box; color: rgb(47, 164, 231); text-decoration: none; background: transparent;">slide in PDF</a></li>
+<li style="box-sizing: border-box;">
+		Standard per i dati aperti - che fare? (Marco Brandizi) - <a href="http://prezi.com/ycjvaayit2wp/interoperable-open-data-which-recipes/" style="box-sizing: border-box; color: rgb(47, 164, 231); text-decoration: none; background: transparent;">presentazione in Prezi</a></li>
+<li>
+		InPolitiX, bridging the gap between citizens and politicians (Donato De Ieso) - <a href="http://www.slideshare.net/donatodeieso/presentazione-app-inpolitix">slide pubblicate su SlideShare</a></li>
+<li>
+		EnergyMapping - (Piergiorgio Cipriano, Patrizia Saggini, Francesca Lussu, Umberto Di Staso, Marco Combetto) - <a href="https://www.dropbox.com/sh/t288zffmr6v0dvi/AABcHaOWdcxUjlc-iVX9teG6a?dl=0">slides da scaricare (Dropbox</a></li>
+<li>
+		H2OpenMap - portiamo l'acqua sulle mappe e dove serve (Francesco Giunta) - <a href="http://www.h2openmap.org/ftp/Slide_SOD_light.pdf">slide in PDF</a></li>
+<li>
+		Confiscati Bene 2 anni dopo (Andrea Nelson Mauro) - l'intervento è stato a braccio, <a href="http://slides.com/dataninja/confiscatedgoods-hackers-ijf16#/">basato su queste slide di Gianluca De Martino</a></li>
+<li>
+		OpenMove - dagli OD del trasporto pubblico al mobile ticketing (Lorenzo Modena) - usato <a href="http://openmove.org/it/">il sito ufficiale</a>, nessuna slide</li>
+<li>
+		Il futuro di SOD: chi siamo? (Matteo Brunati) - <em>sessione non prevista dal programma, siamo andati a braccio</em></li>
+<li>
+		Bando POR Fesr di Regione Veneto (Gigi Cogo) - <a href="http://opendataveneto.pbworks.com/w/page/102677074/FrontPage">wiki delle note usate durante la sessione</a></li>
+<li>
+		OpenHistoryMap (Marco Montanari) - <a href="http://www.slideshare.net/sirmmo/openhistorymap-sod16">slide pubblicate su SlideShare</a></li>
+<li>
+		I muri d'Europa raccontati dai numeri (Matteo Moretti)</li>
+</ol><p> </p>
+<div>
+<h3>
+		<strong>7 Maggio 2016 - Civic Hackathon(s)</strong></h3>
+<p>Ci sono state 6 sessioni per i <a href="http://www.spaghettiopendata.org/term/tipo-di-attivit/civic-hackathons-07052016">Civic Hackathon(s)</a>, e 2 elementi extra:</p>
+<ul><li>
+			<a href="http://coderdojotrento.it/">CoderDojo</a> sui dati (<a href="https://www.eventbrite.it/e/registrazione-datadojo-for-kids-iscrizioni-per-incontro-7-maggio-biblioteca-dei-ragazzi-tn-25120990559?platform=hootsuite">DataDojo</a>) tenuto in Piazza Dante: <a href="http://coderdojotrento.it/snap1">slides</a> e <a href="http://coderdojotrento.it/risorse/snap-tutorial-1-data-in-a-snap/">link ai vari progetti</a> (bonus: c'è <a href="https://coderdojotrento.github.io/browser-pub/">pure un esperimento</a>)</li>
+<li>
+			Italian Open Data City Census Sprint</li>
+</ul><div>
+		 </div>
+<ol><li>
+			Back to the Death Star: una nuova esplorazione della rete dei beneficiari dei fondi di ricerca europei (Alberto Cottica) - <a href="https://github.com/spaghetti-open-data/eu-research-funding-network/wiki">wiki del repo su GitHub con il lavoro fatto</a></li>
+<li>
+			Beni Comuni Digitali - Definizioni e Buone Pratiche (Cristiano Longo)</li>
+<li>
+			Code4Health: OpenData e salute (Matteo Brunati) - <a href="https://github.com/spaghetti-open-data/code4health-amianto/wiki">wiki della sessione del repo su Github</a>, dove stiamo documentando il lavoro fatto, e da fare</li>
+<li>
+			Wikidata, la banca di conoscenza libera in casa Wikimedia (Marco Fossati) - <a href="https://meta.wikimedia.org/wiki/Grants:IEG/StrepHit:_Wikidata_Statements_Validation_via_References/Timeline#Week_4_3">cose fatte</a> e <a href="https://pad.okfn.org/p/wikidatasod16">appunti presi</a></li>
+<li>
+			Tool per valutare un CKAN/DKAN (Marco Montanari) - <a href="https://github.com/spaghetti-open-data/ar-kan">repo su GitHub del tool</a></li>
+<li>
+			Open Discussion su Sports Open Data API Restfulness (Sports Open Data) - cose realizzate: <a href="https://github.com/piersoft/sportsop_bot">BOT Telegram che interroga le API</a> (by Piersoft) </li>
+</ol><p> </p>
+<p> </p>
+<h3>
+		<strong>8 Maggio 2016 - FormAzione - Terza giornata del raduno</strong></h3>
+<p>Ci sono state 4 sessioni di formazione <a href="http://www.spaghettiopendata.org/term/tipo-di-attivit/formazione-08052016">"FormAzione"</a>: </p>
+<ol><li>
+			Telegram per il riuso degli openData  (Piersoft) - <a href="http://www.piersoft.it/?p=626">elenco dei BOT esaminati</a></li>
+<li>
+			Introduzione al trattamento e analisi dei geodati con R  (Andrea Zedda e Michele Ferretti) - <a href="https://github.com/miccferr/corso-r-sod16">materiale usato raccolto su GitHub</a></li>
+<li>
+			Strutturazione dei dati e pubblicazione: usiamo i dati di ComunWeb (Marco Combetto, Gabriele Francescotto, Francesca Gleria) - <a href="http://www.slideshare.net/gabricocek/comunweb-portali-istituzionali-e-qualit-dei-dati-aperti">slide pubblicate su SlideShare</a></li>
+<li>
+			LOD, SPARQL e dintorni: un piccolo how-to (Nicola Vitucci) - <a href="http://www.slideshare.net/nvitucci/lod-sparql-e-dintorni">slide pubblicate su SlideShare</a></li>
+</ol></div>
+<p> </p>
+</div></div></div><span property="dc:title" content="Cosa abbiamo fatto a SOD16: i materiali" class="rdf-meta element-hidden"></span>
+      <footer>
+                </footer>
+  
+  
+</article> <!-- /.node -->
+
+</section> <!-- /.block -->
+  </div>
+    </section>
+
+    
+  </div>
+</div>
+<footer class="footer container">
+  </footer>
+  <script src="http://www.spaghettiopendata.org/sites/default/files/js/js_B2uv6dkjoYobfQVyuXdchgrpnnx4oM0TkP_bDVf8Qrg.js"></script>
+</body>
+</html>
