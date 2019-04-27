@@ -17,7 +17,7 @@ Come per gli altri raduni SOD, anche il programma di SOD19 è costruito man mano
 
 ##### Abbiamo già un trailer :-) 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nDDEEPcQAHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Grazie a Luca Corsato: [eccolo qui](https://www.youtube.com/embed/nDDEEPcQAHg)
 
 ## Cos'è e chi siamo
 
