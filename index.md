@@ -7,22 +7,26 @@ Siamo un gruppo di cittadini italiani interessati al rilascio di dati pubblici i
 
 Parliamo di dati su [questa mailing list](https://groups.google.com/d/forum/spaghettiopendata) da settembre 2010. Abbiamo anche un [repository GitHub](https://github.com/spaghetti-open-data), un canale Twitter ([@spaghetti_folks](https://www.twitter.com/@spaghetti_folks)) e un [canale Slack](https://spaghettiopendata.slack.com/). 
 
-# Vieni al raduno SOD19 l'1 e 2 giugno a Milano!
+# Raduno SOD19: 1-2 giugno a Milano
 
-Il raduno di Spaghetti Open Data si chiama **SOD19** e si terrà **a Milano l'1 e 2 giugno 2019**.
+Il raduno di Spaghetti Open Data per il 2019 (in breve **SOD19** - _mantiene la tradizione dell'acronimo SOD + anno corrente del raduno_) si terrà **a Milano l'1 e 2 giugno 2019**, alla [Fabbrica del Vapore](http://www.fabbricadelvapore.org/wps/portal/luogo/fabbricavapore). 
+Se hai a cuore il tema dei dati aperti e se ti senti almeno un po' civic hacker è il posto giusto per te, chiunque tu sia e qualunque cosa tu sappia o non sappia fare. Su Spaghetti Open Data ci sono sviluppatori, giornaliste, funzionari pubblici, ricercatrici, giuristi, attiviste, studenti e un bel po' di semplici curiosi di tutti i sessi e tutte le età. Assolutamente chiunque sia interessato agli open data è benvenuto.
 
-Se hai a cuore il tema dei dati aperti, e se ti senti almeno un po' civic hacker è il posto giusto per te, chiunque tu sia e qualunque cosa tu sappia o non sappia fare. Su Spaghetti Open Data ci sono sviluppatori, giornaliste, funzionari pubblici, ricercatrici, giuristi, attiviste, studenti e un bel po' di semplici curiosi di tutti i sessi e tutte le età. Assolutamente chiunque sia interessato agli open data è benvenuto.
+### Il trailer :-) 
+
+Grazie a Luca Corsato, [eccolo qui](https://www.youtube.com/embed/nDDEEPcQAHg)
+
+## Dove saremo 
+* il raduno sarà alla [Fabbrica del Vapore](http://www.fabbricadelvapore.org/wps/portal/luogo/fabbricavapore), raggiungibile dalla metro (linea M5 - fermata Monumentale)
+
+## Il programma (in divenire)
  
-Come per gli altri raduni SOD, anche il programma di SOD19 è costruito man mano dalla comunità. Ne stiamo discutendo in lista qui:
+Attenzione: **quest'anno il raduno dura 2 giorni** (_e non i soliti 3_). Come per tutti gli altri raduni SOD, il programma è costruito dal basso, dalla comunità. Ne stiamo discutendo in lista:
 [https://groups.google.com/forum/#!tags/spaghettiopendata/SOD19](https://groups.google.com/forum/#!tags/spaghettiopendata/SOD19)
 
-##### Abbiamo già un trailer :-) 
+Segui le discussioni in lista per restare aggiornato e non perdere l'[hashtag #SOD19](https://twitter.com/search?f=tweets&vertical=default&q=%23SOD19&src=typd)!
 
-Grazie a Luca Corsato: [eccolo qui](https://www.youtube.com/embed/nDDEEPcQAHg)
-
-Tutto il resto, è in fase di definizione: segui la lista e l'[hashtag #SOD19](https://twitter.com/search?f=tweets&vertical=default&q=%23SOD19&src=typd) per sapere le ultime novità in merito al raduno!
-
-## Cos'è e chi siamo
+## SOD: cos'è e chi siamo
 
 Siamo un gruppo di cittadini italiani interessati al rilascio di dati pubblici in formato aperto, in modo da renderne facile l'accesso e il riuso (open data). Alcuni di noi lavorano per amministrazioni dello Stato o di enti locali, altri no.
  
@@ -30,22 +34,52 @@ Siamo un gruppo di cittadini italiani interessati al rilascio di dati pubblici i
 
 Tutto è nato nel 2010 da [un post di Alberto che ha suscitato un certo interesse in rete](http://www.cottica.net/2010/09/16/spaghetti-open-data-reloaded/): diverse persone ci hanno suggerito siti web e pagine interessanti, pieni di dati pubblici, e ci è venuta voglia di lavorare ad una pagina web che li raccogliesse. Da ottobre 2010 fino a novembre 2011, il [sito spaghettiopendata.org](https://web.archive.org/web/20111016041539/http://www.spaghettiopendata.org/) è stato una sorta di portale dati.gov.it creato dal basso, dalla comunità. Un non portale degli Open Data italiani.
 
-Alla pubblicazione del sito ufficiale dati.gov.it, abbiamo deciso di continuare a raccontarci e a confrontarci sul tema dei dati. 
+Alla pubblicazione del sito ufficiale dati.gov.it, abbiamo deciso di continuare a raccontarci e a confrontarci sul tema dei dati.
 
-## Scopri l'archivio
+## Come comportarsi
 
-Fino alla primavera del 2018, questo sito era gestito con Drupal, un CMS Open Source che necessitava di parecchie cure per la gestione. Ne abbiamo fatto una copia statica agli inizi del 2018, in modo tale da salvare tutti i materiali: si trova qui [/archivio](https://www.spaghettiopendata.org/archivio/index.html).
+### Scopo della mailing-list
+Aggregare il movimento italiano sugli Open Data (da cui il nome spaghetti) segnalando ciò che viene fatto e aiutando i nuovi entrati ad orientarsi. Ulteriori informazioni si possono trovare nella pagina “Chi siamo”.
+
+#### Filosofia
+Questa mailing list non è una community chiusa, come tale tutti possono entrare ma non ci sono moderatori. Le scelte vengono fatte nel modo più democratico possibile, tuttavia non avendo una costituzione, questa netiquette è un orientamento per capire quando e come dialogare, piuttosto che stabilire i limiti delle azioni degli iscritti alla lista. Obiettivo implicito della mailing list è restare in vita, quindi potranno essere allontanate persone la cui verbosità/aggressività/trollaggine sarà di troppo disturbo per i partecipanti.
+
+#### La lista è aperta a tutti in “lettura” chi vuole scrivere però è benvenuto quando
+* legge i messaggi altrui prima di scrivere
+* sa scrivere codice (informatico, legale) e lo condivide
+* segnala iniziative sugli Open Data (formati, standard, progettazione e architettura, legislazione, narrazioni fatte sulla base di Open Data)
+* aiuta e fornisce supporto ai nuovi arrivati
+* desidera confrontarsi sugli Open Data e capirne di più
+
+#### Mantenere sempre una politica di full disclosure
+1. Ciascuno dichiara il proprio arsenale di cappelli con cui si presenta, ovvero elenca le organizzazioni e/o associazioni di cui è membro. 
+2. Per default, ognuno scrive come se stesso. Se, in qualche caso, qualcuno vuole mettersi un cappello specifico, lo dichiara all'inizio del messaggio
+3. Quando si scrive, cercare di stare attenti ad evitare i fraintendimenti e a non offendere nessuno, lavoriamo sulla trasparenza come sulla chiarezza
+4. Quando si legge, "_assume good faith_". Se qualcuno scrive una cosa che non ci piace, non concludiamo immediamente di essere sotto attacco: potremmo avere capito male, o la persona potrebbe essersi espressa in modo goffo
+
+#### Chi non è benvenuto e rischia l’espulsione dalla lista
+* chi fa attacchi personali
+* chi usa modi trolleggianti (maleducati e/o spam tipo ottusi reply a mitraglia che portano a discussioni infinite nelle quali ci si perde facilmente)
+* chi fa interventi completamente off topic rispetto ai temi della lista (e non lo segnala inserendo nell’oggetto OT)
+* chi fa autopromozione
+
+#### Attenzione agli argomenti borderline
+* discussioni a 2 (meglio scriversi in privato se non interviene qualcun altro nella discussione entro qualche scambio)
+* critiche gratuite (benvenute le critiche se educate, motivate e dimostrabili, scevre da attacchi personali)
+* promozione di eventi off topic (soprattutto se privati e/o for profit)
+
+## Scopri l'archivio del sito (2013-2018)
+
+Fino alla primavera del 2018, questo sito era gestito con Drupal, un CMS Open Source che necessitava di parecchie cure per la gestione. Ne abbiamo fatto una copia statica agli inizi del 2018, in modo tale da salvare tutti i materiali: lo trovi qui [/archivio](https://www.spaghettiopendata.org/archivio/index.html). Per capire come lo usavamo il modo migliore è partire [dalle nostre spiegazioni ai nuovi arrivati che trovi nel wiki](https://github.com/spaghetti-open-data/website/wiki). 
 
 ## Contatti
 
-Eh, averli i contatti da girarti: scherziamo!
-Siamo una comunità informale, e per scriverci ti conviene scrivere direttamente nella nostra mailing-list: se ci mandi una mail non abbiamo idea se ti risponderemo mai.
- 
-Ci trovi anche su:
+Eh, averli i contatti da girarti: scherziamo! Siamo una comunità informale: per scriverci ti conviene scrivere direttamente nella nostra mailing-list. Puoi pure provare ad inviarci una mail, ma non abbiamo idea se ti risponderemo mai.
+Ci trovi su:
 
 1. Twitter: @spaghetti_folks
-2. GitHub: https://github.com/spaghetti-open-data
-3. Slack: https://spaghettiopendata.slack.com
+2. GitHub: [https://github.com/spaghetti-open-data](https://github.com/spaghetti-open-data)
+3. Slack: [https://spaghettiopendata.slack.com](https://spaghettiopendata.slack.com)
 
 
 
