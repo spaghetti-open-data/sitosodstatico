@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Spaghetti Open Data
 ---
 
 Siamo un gruppo di cittadini italiani interessati al rilascio di dati pubblici in formato aperto, in modo da renderne facile l'accesso e il riuso (open data). Ci sembra che questa pratica sia utile per alimentare la discussione sulle scelte che ci attendono; rendendo facilmente accessibili informazioni di qualità alta, contribuirà a renderla più razionale, allargata e fondata sui dati. Con tutti i suoi difetti, la nostra democrazia è un grandissimo dono che ci hanno fatto le generazioni passate: il minimo che possiamo fare, tutti insieme, è cercare di averne cura.
@@ -19,6 +20,8 @@ Come per gli altri raduni SOD, anche il programma di SOD19 è costruito man mano
 
 Grazie a Luca Corsato: [eccolo qui](https://www.youtube.com/embed/nDDEEPcQAHg)
 
+Tutto il resto, è in fase di definizione: segui la lista e l'[hashtag #SOD19](https://twitter.com/search?f=tweets&vertical=default&q=%23SOD19&src=typd) per sapere le ultime novità in merito al raduno!
+
 ## Cos'è e chi siamo
 
 Siamo un gruppo di cittadini italiani interessati al rilascio di dati pubblici in formato aperto, in modo da renderne facile l'accesso e il riuso (open data). Alcuni di noi lavorano per amministrazioni dello Stato o di enti locali, altri no.
@@ -27,14 +30,11 @@ Siamo un gruppo di cittadini italiani interessati al rilascio di dati pubblici i
 
 Tutto è nato nel 2010 da [un post di Alberto che ha suscitato un certo interesse in rete](http://www.cottica.net/2010/09/16/spaghetti-open-data-reloaded/): diverse persone ci hanno suggerito siti web e pagine interessanti, pieni di dati pubblici, e ci è venuta voglia di lavorare ad una pagina web che li raccogliesse. Da ottobre 2010 fino a novembre 2011, il [sito spaghettiopendata.org](https://web.archive.org/web/20111016041539/http://www.spaghettiopendata.org/) è stato una sorta di portale dati.gov.it creato dal basso, dalla comunità. Un non portale degli Open Data italiani.
 
-Alla pubblicazione del sito ufficiale dati.gov.it, abbiamo deciso di continuare a raccontarci e a confrontarci sul tema dei dati.
-
----
- 
+Alla pubblicazione del sito ufficiale dati.gov.it, abbiamo deciso di continuare a raccontarci e a confrontarci sul tema dei dati. 
 
 ## Scopri l'archivio
 
-Fino alla primavera del 2018, questo sito era gestito con Drupal, un CMS Open Source che necessitava di parecchie cure per la gestione. Ne abbiamo fatto una copia statica, con tutti i materiali, che si trova qui [/archivio](https://www.spaghettiopendata.org/archivio/).
+Fino alla primavera del 2018, questo sito era gestito con Drupal, un CMS Open Source che necessitava di parecchie cure per la gestione. Ne abbiamo fatto una copia statica agli inizi del 2018, in modo tale da salvare tutti i materiali: si trova qui [/archivio](https://www.spaghettiopendata.org/archivio/index.html).
 
 ## Contatti
 
