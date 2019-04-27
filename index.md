@@ -9,12 +9,13 @@ Parliamo di dati su [questa mailing list](https://groups.google.com/d/forum/spag
 
 # Raduno SOD19: 1-2 giugno a Milano
 
-Il raduno di Spaghetti Open Data per il 2019 (in breve **SOD19** - _mantiene la tradizione dell'acronimo SOD + anno corrente del raduno_) si terrà **a Milano l'1 e 2 giugno 2019**, alla [Fabbrica del Vapore](http://www.fabbricadelvapore.org/wps/portal/luogo/fabbricavapore). 
+Il raduno di Spaghetti Open Data del 2019 (in breve **SOD19**) si terrà **a Milano l'1 e 2 giugno 2019**, alla [Fabbrica del Vapore](http://www.fabbricadelvapore.org/wps/portal/luogo/fabbricavapore). 
 Se hai a cuore il tema dei dati aperti e se ti senti almeno un po' civic hacker è il posto giusto per te, chiunque tu sia e qualunque cosa tu sappia o non sappia fare. Su Spaghetti Open Data ci sono sviluppatori, giornaliste, funzionari pubblici, ricercatrici, giuristi, attiviste, studenti e un bel po' di semplici curiosi di tutti i sessi e tutte le età. Assolutamente chiunque sia interessato agli open data è benvenuto.
 
 #### Il trailer del raduno
 
 Grazie a Luca Corsato, [eccolo qui](https://www.youtube.com/embed/nDDEEPcQAHg), come ai tempi delle prime edizioni!
+<div><iframe width="460" height="315" src="https://www.youtube.com/embed/nDDEEPcQAHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Dove saremo 
 * il raduno sarà alla [Fabbrica del Vapore](http://www.fabbricadelvapore.org/wps/portal/luogo/fabbricavapore), raggiungibile dalla metro (linea M5 - fermata Monumentale)
@@ -38,7 +39,7 @@ Alla pubblicazione del sito ufficiale dati.gov.it, abbiamo deciso di continuare 
 
 # Come comportarsi
 
-### Scopo della mailing-list
+#### Scopo della mailing-list
 Aggregare il movimento italiano sugli Open Data (da cui il nome spaghetti) segnalando ciò che viene fatto e aiutando i nuovi entrati ad orientarsi. Ulteriori informazioni si possono trovare nella pagina “Chi siamo”.
 
 #### Filosofia
