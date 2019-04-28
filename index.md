@@ -17,7 +17,7 @@ Se hai a cuore il tema dei dati aperti e se ti senti almeno un po' civic hacker 
 #### Il trailer del raduno
 
 Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](https://www.youtube.com/embed/nDDEEPcQAHg), come ai tempi delle prime edizioni!
-<div><iframe width="400px" src="https://www.youtube.com/embed/nDDEEPcQAHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div><iframe width="40%" src="https://www.youtube.com/embed/nDDEEPcQAHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Come iscriversi 
 **Iscriviti comunque, anche se pensi di partecipare a parte del raduno**, ad esempio solo il sabato o la domenica. Abbiamo bisogno di stimare la partecipazione, l'iscrizione non costituisce una conferma della partecipazione (_comunque aperta e gratuita_), né un titolo preferenziale di sorta.
@@ -48,6 +48,8 @@ Puoi scegliere tra diverse possibilità:
 4. Formazione: una sessione 'hands on' in cui si insegnano conoscenze sul tema proposto. 
 
 È molto utile aprire un thread di discussione in lista per approfondire la sessione proposta. [Segui le discussioni in lista](https://groups.google.com/forum/#!tags/spaghettiopendata/SOD19) per restare aggiornato e segui l'[hashtag #SOD19](https://twitter.com/search?f=tweets&vertical=default&q=%23SOD19&src=typd)!
+
+---
 
 # SOD: chi siamo
 
