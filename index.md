@@ -3,7 +3,7 @@ layout: default
 title: Spaghetti Open Data
 ---
 
-<img src="/archivio/sites/default/files/blog/SOD_14_pasta.png" alt="Logo di Spaghetti Open Data" style="width:30%" />
+<img src="../assets/images/spaghettiopendata.png" alt="Logo di Spaghetti Open Data" />
 
 Siamo un gruppo di cittadini italiani interessati al rilascio di dati pubblici in formato aperto, in modo da renderne facile l'accesso e il riuso (open data). Ci sembra che questa pratica sia utile per alimentare la discussione sulle scelte che ci attendono; rendendo facilmente accessibili informazioni di qualità alta, contribuirà a renderla più razionale, allargata e fondata sui dati. Con tutti i suoi difetti, la nostra democrazia è un grandissimo dono che ci hanno fatto le generazioni passate: il minimo che possiamo fare, tutti insieme, è cercare di averne cura.
 
@@ -36,7 +36,7 @@ TBD
 **Quest'anno il raduno dura 2 giorni** (_e non i soliti 3_). Come per tutti gli altri raduni SOD, il programma è costruito dal basso, dalla comunità. Ne stiamo discutendo in lista:
 [https://groups.google.com/forum/#!tags/spaghettiopendata/SOD19](https://groups.google.com/forum/#!tags/spaghettiopendata/SOD19)
 
-### Call for papers
+#### Call for papers
 Stiamo raccogliendo le proposte per gli interventi: **hai tempo fino al 6 maggio per proporre una sessione**! Puoi scegliere tra diverse possibilità: 
 1. Dibattito: un panel con più persone invitate;
 2. Presentazione: un talk o uno speech;
@@ -47,7 +47,7 @@ Stiamo raccogliendo le proposte per gli interventi: **hai tempo fino al 6 maggio
 
 È molto utile aprire un thread di discussione in lista per approfondire la sessione proposta. [Segui le discussioni in lista](https://groups.google.com/forum/#!tags/spaghettiopendata/SOD19) per restare aggiornato e segui l'[hashtag #SOD19](https://twitter.com/search?f=tweets&vertical=default&q=%23SOD19&src=typd)!
 
-# SOD: cos'è e chi siamo
+# SOD: chi siamo
 
 Siamo un gruppo di cittadini italiani interessati al rilascio di dati pubblici in formato aperto, in modo da renderne facile l'accesso e il riuso (open data). Alcuni di noi lavorano per amministrazioni dello Stato o di enti locali, altri no.
  
@@ -95,7 +95,7 @@ Fino alla primavera del 2018, questo sito era gestito con Drupal: ne abbiamo fat
 
 # Contatti
 
-Eh, averli i contatti da girarti: scherziamo! Siamo una comunità informale: per scriverci ti conviene scrivere direttamente nella nostra mailing-list. Puoi pure provare ad inviarci una mail, ma non abbiamo idea se ti risponderemo mai.
+Eh, averli i contatti da girarti: scherziamo! Siamo una comunità informale: per scriverci ti conviene scrivere direttamente nella nostra mailing-list. Puoi pure provare ad inviarci una mail, ma non abbiamo idea se ti risponderemo mai :-) 
 Ci trovi su:
 
 1. Twitter: ([@spaghetti_folks](https://www.twitter.com/@spaghetti_folks)
