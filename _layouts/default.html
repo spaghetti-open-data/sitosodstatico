@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "it-IT" }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -24,7 +24,7 @@
       <div id="banner">
         <span id="logo"></span>
 
-        <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
+        <a href="/archivio/" class="button fork"><strong>Archivio del sito</strong></a>
         {% if site.show_downloads %}
           <div class="downloads">
             <span>Downloads:</span>
@@ -46,9 +46,10 @@
       </section>
       <footer>
         {% if site.github.is_project_page %}
-          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+          <p><a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
+	  | <a href="{{ site.github.repository_url }}" class="button fork"><strong>Repository del sito</strong></a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
+        <p><small>Ospitato sulle GitHub Pages &mdash; Tema di <a href="https://twitter.com/mattgraham">mattgraham</a></small></p>
       </footer>
     </div>
 
