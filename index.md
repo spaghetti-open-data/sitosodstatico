@@ -16,7 +16,7 @@ Se hai a cuore il tema dei dati aperti e se ti senti almeno un po' civic hacker 
 
 #### Il trailer del raduno
 
-Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](https://www.youtube.com/embed/nDDEEPcQAHg), come ai tempi delle prime edizioni!
+Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](https://www.youtube.com/watch?v=nDDEEPcQAHg), come ai tempi delle prime edizioni!
 <div><iframe width="40%" src="https://www.youtube.com/embed/nDDEEPcQAHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Come iscriversi 
