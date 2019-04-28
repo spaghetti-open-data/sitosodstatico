@@ -16,7 +16,7 @@ Se hai a cuore il tema dei dati aperti e se ti senti almeno un po' civic hacker 
 
 #### Il trailer del raduno
 
-Grazie a Luca Corsato, ritorna il trailer per il raduno! [Eccolo qui](https://www.youtube.com/embed/nDDEEPcQAHg), come ai tempi delle prime edizioni!
+Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](https://www.youtube.com/embed/nDDEEPcQAHg), come ai tempi delle prime edizioni!
 <div><iframe width="400px" src="https://www.youtube.com/embed/nDDEEPcQAHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Come iscriversi 
@@ -37,29 +37,31 @@ TBD
 [https://groups.google.com/forum/#!tags/spaghettiopendata/SOD19](https://groups.google.com/forum/#!tags/spaghettiopendata/SOD19)
 
 #### Call for papers
-Stiamo raccogliendo le proposte per gli interventi: **hai tempo fino al 6 maggio per proporre una sessione**! Puoi scegliere tra diverse possibilità: 
+Stiamo raccogliendo le proposte per gli interventi: **hai tempo fino al 6 maggio per proporre una sessione**! 
+
+* [Proponi qualcosa a SOD19!](https://docs.google.com/forms/d/e/1FAIpQLSfFTyO6zMrMaDSj5ZiqJ1Ow9j6pQWhw1K6pc_3OWNk4KH8w0A/viewform)
+
+Puoi scegliere tra diverse possibilità: 
 1. Dibattito: un panel con più persone invitate;
 2. Presentazione: un talk o uno speech;
 3. Hackathon: è un tema in cui inviti a partecipare per il civic hackathon (_chi propone è anche chi organizzerà la sessione operativa_);
 4. Formazione: una sessione 'hands on' in cui si insegnano conoscenze sul tema proposto. 
 
-* [Proponi qualcosa a SOD19!](https://docs.google.com/forms/d/e/1FAIpQLSfFTyO6zMrMaDSj5ZiqJ1Ow9j6pQWhw1K6pc_3OWNk4KH8w0A/viewform)
-
 È molto utile aprire un thread di discussione in lista per approfondire la sessione proposta. [Segui le discussioni in lista](https://groups.google.com/forum/#!tags/spaghettiopendata/SOD19) per restare aggiornato e segui l'[hashtag #SOD19](https://twitter.com/search?f=tweets&vertical=default&q=%23SOD19&src=typd)!
 
 # SOD: chi siamo
 
-Siamo un gruppo di cittadini italiani interessati al rilascio di dati pubblici in formato aperto, in modo da renderne facile l'accesso e il riuso (open data). Alcuni di noi lavorano per amministrazioni dello Stato o di enti locali, altri no.
+Siamo un gruppo di cittadini italiani interessati al rilascio di dati pubblici in formato aperto, in modo da renderne facile l'accesso e il riuso (open data). Alcuni di noi lavorano per amministrazioni dello Stato o di enti locali, altri no. Se vuoi saperne di più, vai alla [pagina sul chi siamo](./sod-chi-siamo.html).
  
 #### Cosa abbiamo fatto: il catalogo di dati costruito dal basso, prima di dati.gov.it
 
 Tutto è nato nel 2010 da [un post di Alberto che ha suscitato un certo interesse in rete](http://www.cottica.net/2010/09/16/spaghetti-open-data-reloaded/): diverse persone ci hanno suggerito siti web e pagine interessanti, pieni di dati pubblici, e ci è venuta voglia di lavorare ad una pagina web che li raccogliesse. Da ottobre 2010 fino a novembre 2011, il [sito spaghettiopendata.org](https://web.archive.org/web/20111016041539/http://www.spaghettiopendata.org/) è stato una sorta di portale dati.gov.it creato dal basso, dalla comunità. Un non portale degli Open Data italiani.
 
-Alla pubblicazione del sito ufficiale dati.gov.it, abbiamo deciso di continuare a raccontarci e a confrontarci sul tema dei dati.
+Alla pubblicazione del sito ufficiale dati.gov.it, abbiamo deciso di continuare a raccontarci e a confrontarci sul tema dei dati nella mailing-list [https://groups.google.com/d/forum/spaghettiopendata](https://groups.google.com/d/forum/spaghettiopendata).
 
 # Come comportarsi
 
-#### Scopo della mailing-list
+#### Scopo della mailing-list https://groups.google.com/d/forum/spaghettiopendata
 Aggregare il movimento italiano sugli Open Data (da cui il nome spaghetti) segnalando ciò che viene fatto e aiutando i nuovi entrati ad orientarsi.
 
 #### Filosofia
