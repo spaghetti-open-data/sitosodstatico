@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: child-page
 title: Spaghetti Open Data: chi siamo
 ---
 

@@ -102,7 +102,7 @@ Fino alla primavera del 2018, questo sito era gestito con Drupal: ne abbiamo fat
 Eh, averli i contatti da girarti: scherziamo! Siamo una comunità informale: per scriverci ti conviene scrivere direttamente nella nostra mailing-list. Puoi pure provare ad inviarci una mail, ma non abbiamo idea se ti risponderemo mai :-) 
 Ci trovi su:
 
-1. Twitter: ([@spaghetti_folks](https://www.twitter.com/@spaghetti_folks)
+1. Twitter: [@spaghetti_folks](https://www.twitter.com/@spaghetti_folks)
 2. GitHub: [https://github.com/spaghetti-open-data](https://github.com/spaghetti-open-data)
 3. Slack: [https://spaghettiopendata.slack.com](https://spaghettiopendata.slack.com)
 
