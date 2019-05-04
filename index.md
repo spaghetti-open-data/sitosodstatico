@@ -49,7 +49,7 @@ Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](http
 
 ##### In plenaria
 
-**10.30 - 11.50** - Digital democracy products made in Brazil (Felipe Benites Cabral)
+* **10.30 - 11.50** - Digital democracy products made in Brazil (Felipe Benites Cabral)
 <p>Negli ultimi tre anni, un brasiliano che vive a Milano ha lanciato in modo diverso applicazioni che utilizzano dati aperti (o dati liberati) e hanno intaccato il processo democratico in Brasile. Il principale progetto di lotta contro la corruzione in Brasile. E molti rami che sono iniziati dopo.
 Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'esplorazione di quello che può essere replicato in Italia.</p>
 
@@ -59,8 +59,8 @@ Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'e
     <thead class="thead-default">
     	<tr>
         	<th scope="col" style="width:10%">&nbsp;</th>
-        	<th scope="col" style="width:30%; text-align:center">Tavolo Civic Hacking</th>
-        	<th scope="col" style="width:30%; text-align:center">Tavolo Dati & Mestieri</th>
+        	<th scope="col" style="width:40%; text-align:center">Tavolo Civic Hacking</th>
+        	<th scope="col" style="width:40%; text-align:center">Tavolo Dati & Mestieri</th>
      	</tr>
     </thead>
 	<tbody>
@@ -72,7 +72,17 @@ Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'e
 	</tbody>
 </table>
 
+##### Pranzo
 
+* **13.30 - 14.30** - Pranzo (_forse catering in loco, da confermare_)
+
+##### Sessioni parallele del pomeriggio
+
+
+##### In plenaria
+
+* **17.45 - 18:00** - Stiamo dimenticando qualcuno! (Erika Marconato)
+<p>I bias sono come le mutande: nessuno dichiara a gran voce di averle e, di solito, sono nascoste. Pure noi di Spaghetti Open Data li abbiamo e ve lo dimostrerò con questo talk in cui parlerò di donne, tech e della comunità di cui facciamo parte. E se credi che "tanto i dati sono dati" e con quelli si risolve il problema, preparati alla sorpresa!</p>
 
 
 
