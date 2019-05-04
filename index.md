@@ -43,7 +43,7 @@ Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](http
 
 **Quest'anno il raduno dura 2 giorni** (_e non i soliti 3_). Come per tutti gli altri raduni SOD, il programma è costruito dal basso, dalla comunità. Qui di seguito la versione _in bozza_:
 
-### 1 Giugno 2019 - (Un)Conference
+#### 1 Giugno 2019 - (Un)Conference
 
 * **9.30 - 10.30** - Ritrovo al bar della Fabbrica del Vapore
 
