@@ -43,7 +43,7 @@ Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](http
 
 **Quest'anno il raduno dura 2 giorni** (_e non i soliti 3_). Come per tutti gli altri raduni SOD, il programma è costruito dal basso, dalla comunità. Qui di seguito la versione _in bozza_:
 
-#### 1 Giugno 2019 - (Un)Conference
+### 1 Giugno 2019 - (Un)Conference
 
 * **9.30 - 10.30** - Ritrovo al bar della Fabbrica del Vapore
 
@@ -69,13 +69,13 @@ Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'e
 	    	<tr>
 			<td style="vertical-align:middle">12.10</td>
 			<td>Come organizzare e rappresentare la domanda di Open Data (Matteo Brunati e altri)
-			<blockquote>Oggi le iniziative Open Data sono costruite tutte relativamente intorno all’offerta. Non è facile aggregare il lato domanda (anche per colpa della frammentazione della società civile). Considerando anche l’esistenza del FOIA, la domanda di apertura di dati non sembra decollare o manifestarsi in modo rilevante. Cosa non funziona di certo e come si potrebbe favorire la creazione e l’aggregazione della domanda di Open Data.</blockquote>
+			<p style="font-size:small">Oggi le iniziative Open Data sono costruite tutte relativamente intorno all’offerta. Non è facile aggregare il lato domanda (anche per colpa della frammentazione della società civile). Considerando anche l’esistenza del FOIA, la domanda di apertura di dati non sembra decollare o manifestarsi in modo rilevante. Cosa non funziona di certo e come si potrebbe favorire la creazione e l’aggregazione della domanda di Open Data.</p>
 			</td>
 			<td>Scriptorium digitale, per preservare la cultura digitale da un nuovo Medioevo (Matteo Fortini)
-			<blockquote>Il nostro mondo è sempre più caratterizzato dalla pubblicazione di dati e contenuti online, spesso con licenze aperte.
+			<p style="font-size:small">Il nostro mondo è sempre più caratterizzato dalla pubblicazione di dati e contenuti online, spesso con licenze aperte.
 			Purtroppo a quest’abbondanza non corrisponde in generale altrettanto impegno - politico, economico, tecnologico - perché questi contenuti siano disponibili sempre e per sempre. Basta un cambio di governo, una crisi economica, un aggiornamento normativo, un problema amministrativo o tecnico perché siano indisponibili anche per lunghi periodi.
 			Pensiamo che la società civile debba riconoscere l’inestimabile valore dei dati aperti pubblicati e si debba adoperare perché non rischino in alcun modo di essere perduti o, con conseguenze simili, diventare non disponibili.
-			Come accadde per i monaci benedettini in epoca medievale, è tempo di porsi il problema di mettere al sicuro tutti questi dati dall’impatto di qualsiasi catastrofe che li possa colpire, perché rimangano patrimonio pubblico.</blockquote>
+			Come accadde per i monaci benedettini in epoca medievale, è tempo di porsi il problema di mettere al sicuro tutti questi dati dall’impatto di qualsiasi catastrofe che li possa colpire, perché rimangano patrimonio pubblico.</p>
 			</td>
     		</tr>
 	</tbody>
@@ -99,19 +99,19 @@ Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'e
 	    	<tr>
 					<td style="vertical-align:middle">14.30 - 15.30</td>
 					<td>Open Data come atto politico (Piersoft)
-					<blockquote>Casi di successo e insuccesso per gli Open Data come strumento a servizio dell’Open Government nella PA</blockquote>
+					<p style="font-size:small">Casi di successo e insuccesso per gli Open Data come strumento a servizio dell’Open Government nella PA</p>
 					</td>
 					<td>Archeostickers (Luca Corsato)
-					<blockquote>Archeostickers è una campagna di cazzeggio intellettuale-barra-storico-barra-artistico, che riusa esclusivamente dati aperti per creare meme. Si parlerà di Cosa, Come e Perché piacciano ma nessuno approfondisce sui dati e la loro capacità generativa di contenuti e idee.</blockquote>
+					<p style="font-size:small">Archeostickers è una campagna di cazzeggio intellettuale-barra-storico-barra-artistico, che riusa esclusivamente dati aperti per creare meme. Si parlerà di Cosa, Come e Perché piacciano ma nessuno approfondisce sui dati e la loro capacità generativa di contenuti e idee.</p>
 					</td>
 				</tr>
 				<tr>
 				<td style="vertical-align:middle">15.30 - 16.30</td>
 				<td>Quali licenze per i dati pubblici? (Matteo Fortini)
-				<blockquote>Lo so, è un tema che ormai è peggio della brexit, però abbiamo visto anche recentemente che le PA stanno cominciando a scegliere delle licenze specifiche per i loro dati aperti e che queste scelte non sempre vanno incontro alle esigenze (giuste o sbagliate) degli altri mondi open data. [Un esempio di discussione qui](https://groups.google.com/forum/#!msg/spaghettiopendata/Jjj6ySl3yZg/ZJxgj1P0AAAJ). Altro esempio le linee guida ICCD, che sono lungimiranti, ma rischiano anche di frenare eventuali aperture maggiori [si veda qui](http://www.iccd.beniculturali.it/it/norme-regolamenti-circolari/4456/linee-guida-2018-linee-guida-per-la-pubblicazione-e-il-riuso-del-catalogo). Una soluzione che è citata è quella di Bologna, con licenze ad-hoc, che però non è amata da tutti. Di recente, pure la commissione europea ha fatto [una riflessione](https://ec.europa.eu/jrc/en/news/commission-makes-it-even-easier-citizens-reuse-all-information-it-publishes-online).</blockquote>
+				<p style="font-size:small">Lo so, è un tema che ormai è peggio della brexit, però abbiamo visto anche recentemente che le PA stanno cominciando a scegliere delle licenze specifiche per i loro dati aperti e che queste scelte non sempre vanno incontro alle esigenze (giuste o sbagliate) degli altri mondi open data. <a href="https://groups.google.com/forum/#!msg/spaghettiopendata/Jjj6ySl3yZg/ZJxgj1P0AAAJ" >Un esempio di discussione qui</a>. Altro esempio le linee guida ICCD, che sono lungimiranti, ma rischiano anche di frenare eventuali aperture maggiori <a href="http://www.iccd.beniculturali.it/it/norme-regolamenti-circolari/4456/linee-guida-2018-linee-guida-per-la-pubblicazione-e-il-riuso-del-catalogo" >si veda qui</a>. Una soluzione che è citata è quella di Bologna, con licenze ad-hoc, che però non è amata da tutti. Di recente, pure la commissione europea ha fatto <a href="https://ec.europa.eu/jrc/en/news/commission-makes-it-even-easier-citizens-reuse-all-information-it-publishes-online">una riflessione</a>.</p>
 				</td>
 				<td>OpenData e IoT, rendere "fisico" un dato + data visualization (Andrea Trentini)
-				<blockquote>Presentazione del "BiblioVisualizer" installato presso la Biblioteca comunale di Cormano. Un "gioco" di visualizzazione dei dati sul prestito libri nel Consorzio (CSBNO).La barra (attualmente) mostra un "termometro" dei prestiti cumulativi della giornata in tutto il consorzio. Parte da 0 (tutti i LED chiari) a mezzanotte di ogni giorno. Durante il giorno sale fino a riempire la barra di rosso man mano che nel consorzio vengono prestati libri, ogni LED corrisponde a 100 prestiti.Un cursore blu mostra il tempo che passa (si sposta ogni secondo) e un impulso colorato di giallo scatta ogni volta che la barra riesce a collegarsi in rete. Lo scopo è quello di rendere parzialmente interattivo e “giocoso” (_gamification_) il prestito libri per un miglior coinvolgimento attivo degli utenti del servizio prestito, il “termometro” della biblioteca è immediatamente comprensibile a tutti mentre la pagina web da cui i dati vengono presi è pressoché sconosciuta. </blockquote>
+				<p style="font-size:small">Presentazione del "BiblioVisualizer" installato presso la Biblioteca comunale di Cormano. Un "gioco" di visualizzazione dei dati sul prestito libri nel Consorzio (CSBNO).La barra (attualmente) mostra un "termometro" dei prestiti cumulativi della giornata in tutto il consorzio. Parte da 0 (tutti i LED chiari) a mezzanotte di ogni giorno. Durante il giorno sale fino a riempire la barra di rosso man mano che nel consorzio vengono prestati libri, ogni LED corrisponde a 100 prestiti.Un cursore blu mostra il tempo che passa (si sposta ogni secondo) e un impulso colorato di giallo scatta ogni volta che la barra riesce a collegarsi in rete. Lo scopo è quello di rendere parzialmente interattivo e “giocoso” (<em>gamification</em>) il prestito libri per un miglior coinvolgimento attivo degli utenti del servizio prestito, il “termometro” della biblioteca è immediatamente comprensibile a tutti mentre la pagina web da cui i dati vengono presi è pressoché sconosciuta. </p>
 				</td>
 				</tr>
 
@@ -136,10 +136,10 @@ Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'e
 	    	<tr>
 			<td style="vertical-align:middle">16.50 - 18.00</td>
 			<td>Mappare le barriere architettoniche per il PEBA (Piersoft)
-			<blockquote>Verrà spiegato come usare un bot Telegram per la mappatura partecipata di barriere architettoniche, secondo uno schema codificato nella PA locale. i dati vengono poi rilasciati in Open Data per l'ente che può usarli per redigere il PEBA (Piano Eliminazione Barriere Architettoniche).</blockquote>
+			<p style="font-size:small">Verrà spiegato come usare un bot Telegram per la mappatura partecipata di barriere architettoniche, secondo uno schema codificato nella PA locale. i dati vengono poi rilasciati in Open Data per l'ente che può usarli per redigere il PEBA (Piano Eliminazione Barriere Architettoniche).</p>
 			</td>
 			<td>Accettabilità della trasparenza: sovrapposizione dei dati personali e dei dati aziendali (Fabio Disconzi)
-			<blockquote>Accettabilità della trasparenza: sovrapposizione dei dati personali e dei dati aziendali. Il racconto di un paio di stranezze vissute con il sito: sarebbe utile la partecipazione di qualcuno che ne capisce di licenze e di leggi sulla privacy e simili.</blockquote>
+			<p style="font-size:small">Accettabilità della trasparenza: sovrapposizione dei dati personali e dei dati aziendali. Il racconto di un paio di stranezze vissute con il sito: sarebbe utile la partecipazione di qualcuno che ne capisce di licenze e di leggi sulla privacy e simili.</p>
 			</td>
     		</tr>
 	</tbody>
