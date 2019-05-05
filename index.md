@@ -29,9 +29,14 @@ Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](http
 * il raduno sarà alla [Fabbrica del Vapore](http://www.fabbricadelvapore.org/wps/portal/luogo/fabbricavapore), raggiungibile comodamente dalla metro (linea M5 - fermata Monumentale, 5min a piedi con camminata lenta);
 * saremo al piano terra, in un'unica sala di oltre 600mq che divideremo in (almeno) tre zone:
 	* una zona centrale dove ci sarà l'area plenaria;
-	* due zone laterali ai due angoli estremi della stanza. Ci serviranno per le sessioni parallele del sabato e per le sessioni degli hackathon della domenica. Queste zone laterali sono:
-		* Tavolo Civic Hacking
-		* Tavolo Dati & Mestieri
+	* alcune zone laterali ai due angoli estremi della stanza. Ci serviranno per le sessioni parallele del sabato e per le sessioni degli hackathon della domenica. Queste zone laterali sono:
+		* per la giornata del sabato:
+			* Tavolo Civic Hacking
+			* Tavolo Dati & Mestieri
+		* per la giornata della domenica:
+			* Tavolo Rosso
+			* Tavolo Verde
+			* Tavolo Azzurro
 
 
 ## Dove dormire
@@ -154,13 +159,13 @@ _da completare_
 
 #### 2 Giugno 2019 - Civic Hackathon - seconda giornata
 
-Questa giornata è dedicata agli hackathon. Ci sono delle tracce abbozzate, ma sarà possibile partecipare anche a sessioni nate in quel momento, da chi sarà presente.
+Questa giornata è dedicata agli hackathon. Ci sono delle tracce abbozzate, ma sarà possibile partecipare anche a sessioni nate in quel momento.
 
 * 9.00 - 9.45 - Ritrovo al bar della Fabbrica del Vapore per **Open Yoga** ovvero usare i dati come tappetino (bring your own device!) - _da definire_
 * 9.45 - 15.00 - ognuno può partecipare alla sessione che desidera, anche a quelle che eventualmente nasceranno in quel momento, tra cui:
-	* [tavolo rosso] **Melting Pot Milano** (Alberto Cottica) <br/> Si prende spunto da <a href="http://brussels-diversity.jetpack.ai/">quest'esperienza</a>. In breve, è una mappa one person one dot dove ogni pixel rappresenta un abitante non nato in Italia. Il colore del pixel rappresenta la nazionalità: europea, nord-africana, asiatica etc. La mappa serve a capire se c'è segregazione spaziale. A Bruxelles c'è, con gli europei che abitano più a sud e est, i nord africani a nord e ovest, i turchi a nordest etc. In lista se ne sta discutendo in <a href="https://groups.google.com/d/msg/spaghettiopendata/87nI_CoU_ME/ds2aHtm5BwAJ">questo thread</a>;
-	* [tavolo verde] **Ready for Commons**, o come fare un business model per gli Open Data (Luca Corsato) <br/> Il modello di business aperto è perfetto per i patrimoni di dati perché genera relazioni e accelera attività di ricerca e sviluppo. Si spiegherà come armonizzare la creazione di valore economico e sociale tutelando titolarità e proprietà dei dati. La sessione sarà formativa ma in forma di hackathon prendendo spunto dal alcuni dataset di partenza;
-	* [tavolo azzurro] **Tutorial di Introduzione agli Open Data per Smanettoni** (Marco Brandizi) <br/> Facciamo un hackathon per (iniziare a) scrivere un tutorial di "Introduzione agli Open Data per Smanettoni". L’idea è di rivolgersi al neofita di dati, ma mediamente appassionato di informatica (per intenderci, che sa fare due cose con Linux e programmazione, mettere su un CKAN e roba così), spiegargli che cosa sono gli OD e perché servono, mostrargli dove andarli a cercare, come raccoglierli, come modellarli e renderli interoperabili, come si pubblicano (es, CKAN), come si usano una volta pubblicati (Jupyter, dashboards, analisi con Python), cenni di linked data, scelta delle licenze.
+	* [_Tavolo Rosso_] **Melting Pot Milano** (Alberto Cottica) <br/> Si prende spunto da <a href="http://brussels-diversity.jetpack.ai/">quest'esperienza</a>. In breve, è una mappa one person one dot dove ogni pixel rappresenta un abitante non nato in Italia. Il colore del pixel rappresenta la nazionalità: europea, nord-africana, asiatica etc. La mappa serve a capire se c'è segregazione spaziale. A Bruxelles c'è, con gli europei che abitano più a sud e est, i nord africani a nord e ovest, i turchi a nordest etc. In lista se ne sta discutendo in <a href="https://groups.google.com/d/msg/spaghettiopendata/87nI_CoU_ME/ds2aHtm5BwAJ">questo thread</a>;
+	* [_Tavolo Verde_] **Ready for Commons**, o come fare un business model per gli Open Data (Luca Corsato) <br/> Il modello di business aperto è perfetto per i patrimoni di dati perché genera relazioni e accelera attività di ricerca e sviluppo. Si spiegherà come armonizzare la creazione di valore economico e sociale tutelando titolarità e proprietà dei dati. La sessione sarà formativa ma in forma di hackathon prendendo spunto dal alcuni dataset di partenza;
+	* [_Tavolo Azzurro_] **Tutorial di Introduzione agli Open Data per Smanettoni** (Marco Brandizi) <br/> Facciamo un hackathon per (iniziare a) scrivere un tutorial di "Introduzione agli Open Data per Smanettoni". L’idea è di rivolgersi al neofita di dati, ma mediamente appassionato di informatica (per intenderci, che sa fare due cose con Linux e programmazione, mettere su un CKAN e roba così), spiegargli che cosa sono gli Open Data e perché servono, mostrargli dove andarli a cercare, come raccoglierli, come modellarli e renderli interoperabili, come si pubblicano (es, CKAN), come si usano una volta pubblicati (Jupyter, dashboards, analisi con Python), cenni di linked data, scelta delle licenze.
 	* 15.00 - 15.30 - chiusura e saluti
 
 
