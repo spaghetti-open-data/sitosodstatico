@@ -58,21 +58,21 @@ Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'e
 
 ##### Sessioni parallele della mattina
 
-<table class="table table-hover table-responsive table-condensed" align="center" style="width: 90%">
+<table class="table table-hover table-responsive table-condensed" align="center" style="width: 100%">
     <thead class="thead-default">
     	<tr>
         	<th scope="col" style="width:10%">&nbsp;</th>
-        	<th scope="col" style="width:40%; text-align:center">Tavolo Civic Hacking</th>
-        	<th scope="col" style="width:40%; text-align:center">Tavolo Dati & Mestieri</th>
+        	<th scope="col" style="width:45%; text-align:center">Tavolo Civic Hacking</th>
+        	<th scope="col" style="width:45%; text-align:center">Tavolo Dati & Mestieri</th>
      	</tr>
     </thead>
 	<tbody>
 	    	<tr>
 			<td style="vertical-align:middle">12.10</td>
-			<td><strong>Come organizzare e rappresentare la domanda di Open Data</strong> (Matteo Brunati e altri)
+			<td style="vertical-align:top"><strong>Come organizzare e rappresentare la domanda di Open Data</strong> (Matteo Brunati e altri)
 			<p style="font-size:small">Oggi le iniziative Open Data sono costruite tutte relativamente intorno all’offerta. Non è facile aggregare il lato domanda (anche per colpa della frammentazione della società civile). Considerando anche l’esistenza del FOIA, la domanda di apertura di dati non sembra decollare o manifestarsi in modo rilevante. Cosa non funziona di certo e come si potrebbe favorire la creazione e l’aggregazione della domanda di Open Data.</p>
 			</td>
-			<td><strong>Scriptorium digitale, per preservare la cultura digitale da un nuovo Medioevo</strong> (Matteo Fortini)
+			<td style="vertical-align:top"><strong>Scriptorium digitale, per preservare la cultura digitale da un nuovo Medioevo</strong> (Matteo Fortini)
 			<p style="font-size:small">Il nostro mondo è sempre più caratterizzato dalla pubblicazione di dati e contenuti online, spesso con licenze aperte. Purtroppo a quest’abbondanza non corrisponde in generale altrettanto impegno - politico, economico, tecnologico - perché questi contenuti siano disponibili sempre e per sempre. Basta un cambio di governo, una crisi economica, un aggiornamento normativo, un problema amministrativo o tecnico perché siano indisponibili anche per lunghi periodi. Pensiamo che la società civile debba riconoscere l’inestimabile valore dei dati aperti pubblicati e si debba adoperare perché non rischino in alcun modo di essere perduti o, con conseguenze simili, diventare non disponibili.
 			Come accadde per i monaci benedettini in epoca medievale, è tempo di porsi il problema di mettere al sicuro tutti questi dati dall’impatto di qualsiasi catastrofe che li possa colpire, perché rimangano patrimonio pubblico.</p>
 			</td>
@@ -86,30 +86,30 @@ Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'e
 
 ##### Sessioni parallele del primo pomeriggio
 
-<table class="table table-hover table-responsive table-condensed" align="center" style="width: 90%">
+<table class="table table-hover table-responsive table-condensed" align="center" style="width: 100%">
     <thead class="thead-default">
     	<tr>
         	<th scope="col" style="width:10%">&nbsp;</th>
-        	<th scope="col" style="width:40%; text-align:center">Tavolo Civic Hacking</th>
-        	<th scope="col" style="width:40%; text-align:center">Tavolo Dati & Mestieri</th>
+        	<th scope="col" style="width:45%; text-align:center">Tavolo Civic Hacking</th>
+        	<th scope="col" style="width:45%; text-align:center">Tavolo Dati & Mestieri</th>
      	</tr>
     </thead>
 	<tbody>
 	    	<tr>
 					<td style="vertical-align:middle">14.30 - 15.30</td>
-					<td><strong>Open Data come atto politico</strong> (Piersoft)
+					<td style="vertical-align:top"><strong>Open Data come atto politico</strong> (Piersoft)
 					<p style="font-size:small">Casi di successo e insuccesso per gli Open Data come strumento a servizio dell’Open Government nella PA</p>
 					</td>
-					<td><strong>Archeostickers</strong> (Luca Corsato)
+					<td style="vertical-align:top"><strong>Archeostickers</strong> (Luca Corsato)
 					<p style="font-size:small">Archeostickers è una campagna di cazzeggio intellettuale-barra-storico-barra-artistico, che riusa esclusivamente dati aperti per creare meme. Si parlerà di Cosa, Come e Perché piacciano ma nessuno approfondisce sui dati e la loro capacità generativa di contenuti e idee.</p>
 					</td>
 				</tr>
 				<tr>
 				<td style="vertical-align:middle">15.30 - 16.30</td>
-				<td><strong>Quali licenze per i dati pubblici?</strong> (Matteo Fortini)
+				<td style="vertical-align:top"><strong>Quali licenze per i dati pubblici?</strong> (Matteo Fortini)
 				<p style="font-size:small">Lo so, è un tema che ormai è peggio della brexit, però abbiamo visto anche recentemente che le PA stanno cominciando a scegliere delle licenze specifiche per i loro dati aperti e che queste scelte non sempre vanno incontro alle esigenze (giuste o sbagliate) degli altri mondi open data. <a href="https://groups.google.com/forum/#!msg/spaghettiopendata/Jjj6ySl3yZg/ZJxgj1P0AAAJ" >Un esempio di discussione qui</a>. Altro esempio le linee guida ICCD, che sono lungimiranti, ma rischiano anche di frenare eventuali aperture maggiori <a href="http://www.iccd.beniculturali.it/it/norme-regolamenti-circolari/4456/linee-guida-2018-linee-guida-per-la-pubblicazione-e-il-riuso-del-catalogo" >si veda qui</a>. Una soluzione che è citata è quella di Bologna, con licenze ad-hoc, che però non è amata da tutti. Di recente, pure la commissione europea ha fatto <a href="https://ec.europa.eu/jrc/en/news/commission-makes-it-even-easier-citizens-reuse-all-information-it-publishes-online">una riflessione</a>.</p>
 				</td>
-				<td><strong>OpenData e IoT, rendere "fisico" un dato + data visualization</strong> (Andrea Trentini)
+				<td style="vertical-align:top"><strong>OpenData e IoT, rendere "fisico" un dato + data visualization</strong> (Andrea Trentini)
 				<p style="font-size:small">Presentazione del "BiblioVisualizer" installato presso la Biblioteca comunale di Cormano. Un "gioco" di visualizzazione dei dati sul prestito libri nel Consorzio (CSBNO).La barra (attualmente) mostra un "termometro" dei prestiti cumulativi della giornata in tutto il consorzio. Parte da 0 (tutti i LED chiari) a mezzanotte di ogni giorno. Durante il giorno sale fino a riempire la barra di rosso man mano che nel consorzio vengono prestati libri, ogni LED corrisponde a 100 prestiti.Un cursore blu mostra il tempo che passa (si sposta ogni secondo) e un impulso colorato di giallo scatta ogni volta che la barra riesce a collegarsi in rete. Lo scopo è quello di rendere parzialmente interattivo e “giocoso” (<em>gamification</em>) il prestito libri per un miglior coinvolgimento attivo degli utenti del servizio prestito, il “termometro” della biblioteca è immediatamente comprensibile a tutti mentre la pagina web da cui i dati vengono presi è pressoché sconosciuta. </p>
 				</td>
 				</tr>
@@ -123,21 +123,21 @@ Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'e
 
 ##### Sessioni parallele del pomeriggio inoltrato
 
-<table class="table table-hover table-responsive table-condensed" align="center" style="width: 90%">
+<table class="table table-hover table-responsive table-condensed" align="center" style="width: 100%">
     <thead class="thead-default">
     	<tr>
         	<th scope="col" style="width:10%">&nbsp;</th>
-        	<th scope="col" style="width:40%; text-align:center">Tavolo Civic Hacking</th>
-        	<th scope="col" style="width:40%; text-align:center">Tavolo Dati & Mestieri</th>
+        	<th scope="col" style="width:45%; text-align:center">Tavolo Civic Hacking</th>
+        	<th scope="col" style="width:45%; text-align:center">Tavolo Dati & Mestieri</th>
      	</tr>
     </thead>
 	<tbody>
 	    	<tr>
 			<td style="vertical-align:middle">16.50 - 18.00</td>
-			<td><strong>Mappare le barriere architettoniche per il PEBA</strong> (Piersoft)
+			<td style="vertical-align:top"><strong>Mappare le barriere architettoniche per il PEBA</strong> (Piersoft)
 			<p style="font-size:small">Verrà spiegato come usare un bot Telegram per la mappatura partecipata di barriere architettoniche, secondo uno schema codificato nella PA locale. i dati vengono poi rilasciati in Open Data per l'ente che può usarli per redigere il PEBA (Piano Eliminazione Barriere Architettoniche).</p>
 			</td>
-			<td><strong>Accettabilità della trasparenza: sovrapposizione dei dati personali e dei dati aziendali</strong> (Fabio Disconzi)
+			<td style="vertical-align:top"><strong>Accettabilità della trasparenza: sovrapposizione dei dati personali e dei dati aziendali</strong> (Fabio Disconzi)
 			<p style="font-size:small">Accettabilità della trasparenza: sovrapposizione dei dati personali e dei dati aziendali. Il racconto di un paio di stranezze vissute con il sito: sarebbe utile la partecipazione di qualcuno che ne capisce di licenze e di leggi sulla privacy e simili.</p>
 			</td>
     		</tr>
@@ -154,6 +154,14 @@ _da completare_
 
 #### 2 Giugno 2019 - Civic Hackathon - seconda giornata
 
+Questa giornata è dedicata agli hackathon. Ci sono delle tracce abbozzate, ma sarà possibile partecipare anche a sessioni nate in quel momento, da chi sarà presente.
+
+* 9.00 - 9.45 - Ritrovo al bar della Fabbrica del Vapore per **Open Yoga** ovvero usare i dati come tappetino (bring your own device!) - _da definire_
+* 9.45 - 15.00 - ognuno può partecipare alla sessione che desidera, anche a quelle che eventualmente nasceranno in quel momento, tra cui:
+	* [tavolo rosso] **Melting Pot Milano** (Alberto Cottica) <br/> Si prende spunto da <a href="http://brussels-diversity.jetpack.ai/">quest'esperienza</a>. In breve, è una mappa one person one dot dove ogni pixel rappresenta un abitante non nato in Italia. Il colore del pixel rappresenta la nazionalità: europea, nord-africana, asiatica etc. La mappa serve a capire se c'è segregazione spaziale. A Bruxelles c'è, con gli europei che abitano più a sud e est, i nord africani a nord e ovest, i turchi a nordest etc. In lista se ne sta discutendo in <a href="https://groups.google.com/d/msg/spaghettiopendata/87nI_CoU_ME/ds2aHtm5BwAJ">questo thread</a>;
+	* [tavolo verde] **Ready for Commons**, o come fare un business model per gli Open Data (Luca Corsato) <br/> Il modello di business aperto è perfetto per i patrimoni di dati perché genera relazioni e accelera attività di ricerca e sviluppo. Si spiegherà come armonizzare la creazione di valore economico e sociale tutelando titolarità e proprietà dei dati. La sessione sarà formativa ma in forma di hackathon prendendo spunto dal alcuni dataset di partenza;
+	* [tavolo azzurro] **Tutorial di Introduzione agli Open Data per Smanettoni** (Marco Brandizi) <br/> Facciamo un hackathon per (iniziare a) scrivere un tutorial di "Introduzione agli Open Data per Smanettoni". L’idea è di rivolgersi al neofita di dati, ma mediamente appassionato di informatica (per intenderci, che sa fare due cose con Linux e programmazione, mettere su un CKAN e roba così), spiegargli che cosa sono gli OD e perché servono, mostrargli dove andarli a cercare, come raccoglierli, come modellarli e renderli interoperabili, come si pubblicano (es, CKAN), come si usano una volta pubblicati (Jupyter, dashboards, analisi con Python), cenni di linked data, scelta delle licenze.
+	* 15.00 - 15.30 - chiusura e saluti
 
 
 [Segui le discussioni in lista](https://groups.google.com/forum/#!tags/spaghettiopendata/SOD19) e l'[hashtag #SOD19](https://twitter.com/search?f=tweets&vertical=default&q=%23SOD19&src=typd) per restare aggiornato e per aiutarci a far girare la voce sul raduno!
