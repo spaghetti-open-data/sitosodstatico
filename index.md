@@ -27,7 +27,7 @@ Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](http
 
 ## Dove saremo
 * il raduno sarà alla [Fabbrica del Vapore](http://www.fabbricadelvapore.org/wps/portal/luogo/fabbricavapore), raggiungibile comodamente dalla metro (linea M5 - fermata Monumentale, 5min a piedi con camminata lenta);
-* saremo al piano terra, in un'unica sala di oltre 600mq che divideremo in (almeno) tre zone:
+* saremo al primo piano nella _Sala Messina 2_, un'unica sala di oltre 600mq che divideremo in (almeno) tre zone:
 	* una zona centrale dove ci sarà l'area plenaria;
 	* alcune zone laterali ai due angoli estremi della stanza. Ci serviranno per le sessioni parallele del sabato e per le sessioni degli hackathon della domenica. Queste zone laterali sono:
 		* per la giornata del sabato:
