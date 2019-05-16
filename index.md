@@ -52,9 +52,11 @@ Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](http
 
 #### 1 Giugno 2019 - (Un)Conference
 
-* 9.30 - 10.30 - Ritrovo al bar della Fabbrica del Vapore
+* 9.30 - 10.00 - Ritrovo al bar della Fabbrica del Vapore
 
 ##### In plenaria
+
+* 10.10 - 10.30 - Saluti dal Comune (Lorenzo Lipparini - assessore a Partecipazione, Cittadinanza attiva e Open Data del Comune di Milano) 
 
 * 10.30 - 11.50 - **Digital democracy products made in Brazil** (Felipe Benites Cabral) <br/> Negli ultimi tre anni, un brasiliano che vive a Milano ha lanciato in modo diverso applicazioni che utilizzano dati aperti (o dati liberati) e hanno intaccato il processo democratico in Brasile. Il principale progetto di lotta contro la corruzione in Brasile. E molti rami che sono iniziati dopo.
 Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'esplorazione di quello che può essere replicato in Italia.
