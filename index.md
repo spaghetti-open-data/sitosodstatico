@@ -7,7 +7,7 @@ title: Spaghetti Open Data
 
 Siamo un gruppo di cittadini italiani interessati al rilascio di dati pubblici in formato aperto, in modo da renderne facile l'accesso e il riuso (open data). Ci sembra che questa pratica sia utile per alimentare la discussione sulle scelte che ci attendono; rendendo facilmente accessibili informazioni di qualità alta, contribuirà a renderla più razionale, allargata e fondata sui dati. Con tutti i suoi difetti, la nostra democrazia è un grandissimo dono che ci hanno fatto le generazioni passate: il minimo che possiamo fare, tutti insieme, è cercare di averne cura.
 
-Parliamo di dati su [questa mailing list](https://groups.google.com/d/forum/spaghettiopendata) da settembre 2010. Abbiamo anche un [repository GitHub](https://github.com/spaghetti-open-data), un canale Twitter ([@spaghetti_folks](https://www.twitter.com/@spaghetti_folks) e un [canale Slack](https://spaghettiopendata.slack.com/).
+Parliamo di dati su [questa mailing list](https://groups.google.com/d/forum/spaghettiopendata) da settembre 2010. Abbiamo anche un [repository GitHub](https://github.com/spaghetti-open-data), un canale Twitter ([@spaghetti_folks](https://www.twitter.com/@spaghetti_folks)) e un [canale Slack](https://spaghettiopendata.slack.com/) (_qui non siamo sempre presenti_).
 
 # Raduno SOD19: 1-2 giugno a Milano
 
