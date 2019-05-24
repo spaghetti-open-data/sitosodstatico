@@ -26,6 +26,7 @@ Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](http
 **Iscriviti comunque, anche se pensi di partecipare a parte del raduno**, ad esempio solo il sabato o la domenica. Abbiamo bisogno di stimare la partecipazione, l'iscrizione non costituisce una conferma della partecipazione (_comunque aperta e gratuita_), né un titolo preferenziale di sorta.
 
 * [Iscriviti all'evento via Eventbrite](https://www.eventbrite.it/e/biglietti-preiscrizione-raduno-della-comunita-spaghetti-open-data-19-sod19-58334801963)
+* **IMPORTANTE**: per la copertura assicurativa, è necessario registrarsi come “volontario” sulla piattaforma del Comune a questo link: [https://volontariato.comune.milano.it/eventi/spaghetti-open-data](https://volontariato.comune.milano.it/eventi/spaghetti-open-data). Questione di due minuti, è importante e necessario. Grazie!
 
 ## Dove saremo
 * il raduno sarà alla [Fabbrica del Vapore](http://www.fabbricadelvapore.org/wps/portal/luogo/fabbricavapore), raggiungibile comodamente dalla metro (linea M5 - fermata Monumentale, 5min a piedi con camminata lenta);
