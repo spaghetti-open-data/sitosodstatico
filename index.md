@@ -27,6 +27,7 @@ Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](http
 
 * [Iscriviti all'evento via Eventbrite](https://www.eventbrite.it/e/biglietti-preiscrizione-raduno-della-comunita-spaghetti-open-data-19-sod19-58334801963)
 * **IMPORTANTE**: per la copertura assicurativa, è necessario registrarsi come “volontario” sulla piattaforma del Comune a questo link: [https://volontariato.comune.milano.it/eventi/spaghetti-open-data](https://volontariato.comune.milano.it/eventi/spaghetti-open-data). Questione di due minuti, è importante e necessario. Grazie!
+* **Pranzi e cene**: se si vuole mangiare sul posto, abbiamo organizzato un catering che ci porterà piatti dal mondo a piccoli prezzi. Stiamo anche cercando di organizzare una cena sabato sera. Se volete partecipare specificatelo nella form di prenotazione pranzo qui sotto (c'è un link anche al menù) [Form di prenotazione](https://docs.google.com/forms/d/e/1FAIpQLSdWUnhgSQ0Kzgi2ZsoF8wPOSR7nWm9HdqTHYMxVF9R981aDyQ/viewform) (prenotazioni entro 29/5 a mezzanotte)
 
 ## Dove saremo
 * il raduno sarà alla [Fabbrica del Vapore](http://www.fabbricadelvapore.org/wps/portal/luogo/fabbricavapore), raggiungibile comodamente dalla metro (linea M5 - fermata Monumentale, 5min a piedi con camminata lenta);
@@ -94,7 +95,7 @@ Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'e
 
 ##### Pranzo
 
-* 13.30 - 14.30 - Pranzo (_forse catering in loco, da confermare_)
+* 13.30 - 14.30 - Pranzo (catering) - ti sei iscritto? Compila [questa form](https://docs.google.com/forms/d/e/1FAIpQLSdWUnhgSQ0Kzgi2ZsoF8wPOSR7nWm9HdqTHYMxVF9R981aDyQ/viewform) (**entro il 29/5**) 
 
 ##### Sessioni parallele del primo pomeriggio
 
@@ -162,7 +163,7 @@ Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'e
 
 ##### Cena
 
-_da completare_
+* **Ci serve per contarci**: il posto dove saremo è in fase di definizione. Compila [questa form](https://docs.google.com/forms/d/e/1FAIpQLSdWUnhgSQ0Kzgi2ZsoF8wPOSR7nWm9HdqTHYMxVF9R981aDyQ/viewform) (**entro il 29/5**) 
 
 #### 2 Giugno 2019 - Civic Hackathon - seconda giornata
 
@@ -175,6 +176,7 @@ Questa giornata è dedicata agli hackathon. Ci sono delle tracce abbozzate, ma s
 	* [_Tavolo Azzurro_] **Tutorial di Introduzione agli Open Data per Smanettoni** (Marco Brandizi) <br/> Facciamo un hackathon per (iniziare a) scrivere un tutorial di "Introduzione agli Open Data per Smanettoni". L’idea è di rivolgersi al neofita di dati, ma mediamente appassionato di informatica (per intenderci, che sa fare due cose con Linux e programmazione, mettere su un CKAN e roba così), spiegargli che cosa sono gli Open Data e perché servono, mostrargli dove andarli a cercare, come raccoglierli, come modellarli e renderli interoperabili, come si pubblicano (es, CKAN), come si usano una volta pubblicati (Jupyter, dashboards, analisi con Python), cenni di linked data, scelta delle licenze.
 	* 15.00 - 15.30 - chiusura e saluti
 
+NOTA: per il **pranzo della domenica**, avremo lo stesso catering adottato al sabato (_il menù poke_): ti sei iscritto? Compila [questa form](https://docs.google.com/forms/d/e/1FAIpQLSdWUnhgSQ0Kzgi2ZsoF8wPOSR7nWm9HdqTHYMxVF9R981aDyQ/viewform) (**entro il 29/5**)  
 
 [Segui le discussioni in lista](https://groups.google.com/forum/#!tags/spaghettiopendata/SOD19) e l'[hashtag #SOD19](https://twitter.com/search?f=tweets&vertical=default&q=%23SOD19&src=typd) per restare aggiornato e per aiutarci a far girare la voce sul raduno!
 
