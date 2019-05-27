@@ -25,7 +25,7 @@ Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](http
 ## Come iscriversi
 
 * **IMPORTANTE**: per la copertura assicurativa, è necessario registrarsi come “volontario” sulla piattaforma del Comune a questo link: [https://volontariato.comune.milano.it/eventi/spaghetti-open-data](https://volontariato.comune.milano.it/eventi/spaghetti-open-data). Questione di due minuti, è importante e necessario. Grazie!
-  * NOTA: Alla fine della registrazione sul sito volontariato.comune.milano.it si chiede se si è disponibili per un “_turno_”: va inteso se sarai presente in entrambi i giorni di SOD19 o se solo al sab o alla domenica.
+  * NOTA: Alla fine della registrazione sul sito volontariato.comune.milano.it si chiede se si è disponibili per un “_turno_”: il turno va inteso alla presenza in entrambi i giorni di SOD19 o se soltanto al sabato o alla domenica
 * **Pranzi e cene**: se si vuole mangiare sul posto, abbiamo organizzato un catering che ci porterà piatti dal mondo a piccoli prezzi. Stiamo anche cercando di organizzare una cena sabato sera. Se volete partecipare specificatelo nella form di prenotazione pranzo qui sotto (c'è un link anche al menù) [Form di prenotazione](https://docs.google.com/forms/d/e/1FAIpQLSdWUnhgSQ0Kzgi2ZsoF8wPOSR7nWm9HdqTHYMxVF9R981aDyQ/viewform) (prenotazioni entro 29/5 a mezzanotte)
 
 ## Dove saremo
