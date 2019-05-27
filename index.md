@@ -48,7 +48,7 @@ Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](http
 * **Ostello Bello** - effettuare le prenotazioni dal sito [www.ostellobello.com](http://www.ostellobello.com) che dà diritto al 10% di sconto inserendo il codice promozionale _MAMMAMIA_ (che possono usare tutti i partecipanti al raduno)
 * _da completare_
 
-## Il programma (in divenire)
+## Il programma 
 
 **Quest'anno il raduno dura 2 giorni** (_e non i soliti 3_). Come per tutti gli altri raduni SOD, il programma è costruito dal basso, dalla comunità. Qui di seguito la versione _in bozza_:
 
