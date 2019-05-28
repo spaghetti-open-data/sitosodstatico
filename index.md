@@ -17,7 +17,7 @@ Il raduno di Spaghetti Open Data del 2019 (in breve **SOD19**) si terrà **a Mil
 Se hai a cuore il tema dei dati aperti e se ti senti almeno un po' civic hacker è il posto giusto per te, chiunque tu sia e qualunque cosa tu sappia o non sappia fare. Su Spaghetti Open Data ci sono sviluppatori, giornaliste, funzionari pubblici, ricercatrici, giuristi, attiviste, studenti e un bel po' di semplici curiosi di tutti i sessi e tutte le età. Assolutamente chiunque sia interessato agli open data è benvenuto.
 
 Grazie a Luca Corsato, abbiamo pure il trailer per il raduno! [Eccolo qui](https://www.youtube.com/watch?v=nDDEEPcQAHg), come ai tempi delle prime edizioni!
-<div><iframe width="40%" src="https://www.youtube.com/embed/nDDEEPcQAHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div><iframe width="40%" src="https://www.youtube.com/embed/nDDEEPcQAHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/></div>
 
 * **NOTA** - Ricordati di portare qualche **ciabatta elettrica se vieni al raduno**! Fidati che ci serviranno, grazie!
 
