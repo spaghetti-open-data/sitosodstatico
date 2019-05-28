@@ -16,11 +16,10 @@ Parliamo di dati su [questa mailing list](https://groups.google.com/d/forum/spag
 Il raduno di Spaghetti Open Data del 2019 (in breve **SOD19**) si terrà **a Milano l'1 e 2 giugno 2019**, alla [Fabbrica del Vapore](http://www.fabbricadelvapore.org/wps/portal/luogo/fabbricavapore).
 Se hai a cuore il tema dei dati aperti e se ti senti almeno un po' civic hacker è il posto giusto per te, chiunque tu sia e qualunque cosa tu sappia o non sappia fare. Su Spaghetti Open Data ci sono sviluppatori, giornaliste, funzionari pubblici, ricercatrici, giuristi, attiviste, studenti e un bel po' di semplici curiosi di tutti i sessi e tutte le età. Assolutamente chiunque sia interessato agli open data è benvenuto.
 
-#### Il trailer del raduno
-
-Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](https://www.youtube.com/watch?v=nDDEEPcQAHg), come ai tempi delle prime edizioni!
+Grazie a Luca Corsato, abbiamo pure il trailer per il raduno! [Eccolo qui](https://www.youtube.com/watch?v=nDDEEPcQAHg), come ai tempi delle prime edizioni!
 <div><iframe width="40%" src="https://www.youtube.com/embed/nDDEEPcQAHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+* **NOTA** - Ricordati di portare qualche **ciabatta elettrica se vieni al raduno**! Fidati che ci serviranno, grazie!
 
 ## Come iscriversi
 
@@ -49,7 +48,7 @@ Grazie a Luca Corsato, abbiamo un nuovo trailer per il raduno! [Eccolo qui](http
 
 ## Il programma 
 
-**Quest'anno il raduno dura 2 giorni** (_e non i soliti 3_). Come per tutti gli altri raduni SOD, il programma è costruito dal basso, dalla comunità. Qui di seguito la versione _in bozza_:
+**Quest'anno il raduno dura 2 giorni** (_e non i soliti 3_). Come per tutti gli altri raduni SOD, il programma è stato costruito dal basso, dalla comunità.
 
 #### 1 Giugno 2019 - (Un)Conference
 
