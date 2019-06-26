@@ -13,46 +13,18 @@ Parliamo di dati su [questa mailing list](https://groups.google.com/d/forum/spag
 
 <p style="text-align:right"><img src="./assets/images/logo-PatrocinioComuneMilano.png" alt="Logo del patrocinio del comune di Milano" style="width: 30%"></p>
 
-Il raduno di Spaghetti Open Data del 2019 (in breve **SOD19**) si terrà **a Milano l'1 e 2 giugno 2019**, alla [Fabbrica del Vapore](http://www.fabbricadelvapore.org/wps/portal/luogo/fabbricavapore).
-Se hai a cuore il tema dei dati aperti e se ti senti almeno un po' civic hacker è il posto giusto per te, chiunque tu sia e qualunque cosa tu sappia o non sappia fare. Su Spaghetti Open Data ci sono sviluppatori, giornaliste, funzionari pubblici, ricercatrici, giuristi, attiviste, studenti e un bel po' di semplici curiosi di tutti i sessi e tutte le età. Assolutamente chiunque sia interessato agli open data è benvenuto.
+Il raduno di Spaghetti Open Data del 2019 (in breve **SOD19**) si è tenuto **a Milano l'1 e 2 giugno 2019**, alla [Fabbrica del Vapore](http://www.fabbricadelvapore.org/wps/portal/luogo/fabbricavapore).
+
 
 Grazie a Luca Corsato, abbiamo pure il trailer per il raduno! [Eccolo qui](https://www.youtube.com/watch?v=nDDEEPcQAHg), come ai tempi delle prime edizioni!
 <div><iframe width="40%" src="https://www.youtube.com/embed/nDDEEPcQAHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/></div>
 
-* **NOTA** - Ricordati di portare qualche **ciabatta elettrica se vieni al raduno**! Fidati che ci serviranno, grazie!
 
-## Come iscriversi
+## Il programma: cosa abbiamo fatto 
 
-* **IMPORTANTE**: per la copertura assicurativa, è necessario registrarsi come “volontario” sulla piattaforma del Comune a questo link: [https://volontariato.comune.milano.it/eventi/spaghetti-open-data](https://volontariato.comune.milano.it/eventi/spaghetti-open-data). Questione di due minuti, è importante e necessario. Grazie!
-  * NOTA: Alla fine della registrazione sul sito volontariato.comune.milano.it si chiede se si è disponibili per un “_turno_”: il turno è per sapere se sarai presente in entrambi i giorni di SOD19 o se soltanto al sabato o alla domenica
-* **Pranzi e cene**: se si vuole mangiare sul posto, abbiamo organizzato un catering che ci porterà piatti dal mondo a piccoli prezzi. Stiamo anche cercando di organizzare una cena sabato sera. Se volete partecipare specificatelo nella form di prenotazione pranzo qui sotto (c'è un link anche al menù) [Form di prenotazione](https://docs.google.com/forms/d/e/1FAIpQLSdWUnhgSQ0Kzgi2ZsoF8wPOSR7nWm9HdqTHYMxVF9R981aDyQ/viewform) (prenotazioni entro 29/5 a mezzanotte)
-
-## Dove saremo
-* il raduno sarà alla [Fabbrica del Vapore](http://www.fabbricadelvapore.org/wps/portal/luogo/fabbricavapore), raggiungibile comodamente dalla metro (linea M5 - fermata Monumentale, 5min a piedi con camminata lenta);
-* saremo al primo piano nella _Sala Messina 2_, un'unica sala di oltre 600mq che divideremo in (almeno) tre zone:
-	* una zona centrale dove ci sarà l'area plenaria;
-	* alcune zone laterali ai due angoli estremi della stanza. Ci serviranno per le sessioni parallele del sabato e per le sessioni degli hackathon della domenica. Queste zone laterali sono:
-		* per la giornata del sabato:
-			* Tavolo Civic Hacking
-			* Tavolo Dati & Mestieri
-		* per la giornata della domenica:
-			* Tavolo Rosso
-			* Tavolo Verde
-			* Tavolo Azzurro
-
-
-## Dove dormire
-
-* **Ostello Bello** - effettuare le prenotazioni dal sito [www.ostellobello.com](http://www.ostellobello.com) che dà diritto al 10% di sconto inserendo il codice promozionale _MAMMAMIA_ (che possono usare tutti i partecipanti al raduno)
-* _da completare_
-
-## Il programma 
-
-**Quest'anno il raduno dura 2 giorni** (_e non i soliti 3_). Come per tutti gli altri raduni SOD, il programma è stato costruito dal basso, dalla comunità.
+Quest'anno il raduno è durato 2 giorni (_e non i soliti 3_). Come per tutti gli altri raduni SOD, il programma è stato costruito dal basso, dalla comunità.
 
 #### 1 Giugno 2019 - (Un)Conference
-
-* 9.30 - 10.00 - Ritrovo al bar della Fabbrica del Vapore
 
 ##### In plenaria
 
@@ -61,11 +33,8 @@ Grazie a Luca Corsato, abbiamo pure il trailer per il raduno! [Eccolo qui](https
 * 10.15 - 10.45 - **Gli Open Data del Comune di Milano** (a cura del team Open Data del Comune di Milano) 
 
 * 10.45 - 11.50 - **Digital democracy products made in Brazil** (Felipe Benites Cabral) <br/> Negli ultimi tre anni, un brasiliano che vive a Milano ha lanciato in modo diverso applicazioni che utilizzano dati aperti (o dati liberati) e hanno intaccato il processo democratico in Brasile. Il principale progetto di lotta contro la corruzione in Brasile. E molti rami che sono iniziati dopo.
-Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'esplorazione di quello che può essere replicato in Italia.
+Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'esplorazione di quello che può essere replicato in Italia. - [SLIDE](https://docs.google.com/presentation/d/1VgglwbQ1EWYR6jRp1ryeb-0iwXkJGYEmxCs4TanfTTc/edit#slide=id.g56555cf39c_0_159) e [NOTE](https://docs.google.com/document/d/1Jp-RBlYJ0zO8DnmTDz5dd2u0NT1w1ebYohlfONqLsFk/edit?usp=sharing)
 
-##### Pausa caffè
-
-* 11.50 - 12.10 - pausa caffè al Bar della Fabbrica
 
 ##### Sessioni parallele della mattina
 
@@ -80,7 +49,7 @@ Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'e
 	<tbody>
 	    	<tr>
 			<td style="vertical-align:middle">12.10</td>
-			<td style="vertical-align:top"><strong>Come organizzare e rappresentare la domanda di Open Data</strong> (Matteo Brunati e altri)
+			<td style="vertical-align:top"><strong>Come organizzare e rappresentare la domanda di Open Data</strong> (Matteo Brunati e altri) - <a href="http://www.dagoneye.it/blog/2019/06/13/non-dati-open-data-italiani/" >SLIDE e BLOG POST</a>
 			<p style="font-size:small">Oggi le iniziative Open Data sono costruite tutte relativamente intorno all’offerta. Non è facile aggregare il lato domanda (anche per colpa della frammentazione della società civile). Considerando anche l’esistenza del FOIA, la domanda di apertura di dati non sembra decollare o manifestarsi in modo rilevante. Cosa non funziona di certo e come si potrebbe favorire la creazione e l’aggregazione della domanda di Open Data.</p>
 			</td>
 			<td style="vertical-align:top"><strong>Scriptorium digitale, per preservare la cultura digitale da un nuovo Medioevo</strong> (Matteo Fortini)
@@ -90,10 +59,6 @@ Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'e
     		</tr>
 	</tbody>
 </table>
-
-##### Pranzo
-
-* 13.30 - 14.30 - Pranzo (catering) - ti sei iscritto? Compila [questa form](https://docs.google.com/forms/d/e/1FAIpQLSdWUnhgSQ0Kzgi2ZsoF8wPOSR7nWm9HdqTHYMxVF9R981aDyQ/viewform) (**entro il 29/5**) 
 
 ##### Sessioni parallele del primo pomeriggio
 
@@ -120,17 +85,13 @@ Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'e
 				<td style="vertical-align:top"><strong>Quali licenze per i dati pubblici?</strong> (Matteo Fortini)
 				<p style="font-size:small">Lo so, è un tema che ormai è peggio della brexit, però abbiamo visto anche recentemente che le PA stanno cominciando a scegliere delle licenze specifiche per i loro dati aperti e che queste scelte non sempre vanno incontro alle esigenze (giuste o sbagliate) degli altri mondi open data. <a href="https://groups.google.com/forum/#!msg/spaghettiopendata/Jjj6ySl3yZg/ZJxgj1P0AAAJ" >Un esempio di discussione qui</a>. Altro esempio le linee guida ICCD, che sono lungimiranti, ma rischiano anche di frenare eventuali aperture maggiori <a href="http://www.iccd.beniculturali.it/it/norme-regolamenti-circolari/4456/linee-guida-2018-linee-guida-per-la-pubblicazione-e-il-riuso-del-catalogo" >si veda qui</a>. Una soluzione che è citata è quella di Bologna, con licenze ad-hoc, che però non è amata da tutti. Di recente, pure la commissione europea ha fatto <a href="https://ec.europa.eu/jrc/en/news/commission-makes-it-even-easier-citizens-reuse-all-information-it-publishes-online">una riflessione</a>.</p>
 				</td>
-				<td style="vertical-align:top"><strong>OpenData e IoT, rendere "fisico" un dato + data visualization</strong> (Andrea Trentini)
+				<td style="vertical-align:top"><strong>OpenData e IoT, rendere "fisico" un dato + data visualization</strong> (Andrea Trentini) - - <a href="https://gitlab.com/HackLabCormano/BiblioVisualizer/blob/master/PresentazioneSOD19/BiblioVisualizer.pdf" >SLIDE</a> e <a href="https://gitlab.com/HackLabCormano/BiblioVisualizer" >REPOSITORY</a>
 				<p style="font-size:small">Presentazione del "BiblioVisualizer" installato presso la Biblioteca comunale di Cormano. Un "gioco" di visualizzazione dei dati sul prestito libri nel Consorzio (CSBNO).La barra (attualmente) mostra un "termometro" dei prestiti cumulativi della giornata in tutto il consorzio. Parte da 0 (tutti i LED chiari) a mezzanotte di ogni giorno. Durante il giorno sale fino a riempire la barra di rosso man mano che nel consorzio vengono prestati libri, ogni LED corrisponde a 100 prestiti.Un cursore blu mostra il tempo che passa (si sposta ogni secondo) e un impulso colorato di giallo scatta ogni volta che la barra riesce a collegarsi in rete. Lo scopo è quello di rendere parzialmente interattivo e “giocoso” (<em>gamification</em>) il prestito libri per un miglior coinvolgimento attivo degli utenti del servizio prestito, il “termometro” della biblioteca è immediatamente comprensibile a tutti mentre la pagina web da cui i dati vengono presi è pressoché sconosciuta. </p>
 				</td>
 				</tr>
 
 	</tbody>
 </table>
-
-##### Pausa caffè
-
-* 16.30 - 16.50 - pausa caffè al Bar della Fabbrica
 
 ##### Sessioni parallele del pomeriggio inoltrato
 
@@ -157,26 +118,17 @@ Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'e
 
 ##### In plenaria
 
-* 18.00 - 18:20 - **Stiamo dimenticando qualcuno!** (Erika Marconato) <br/>I bias sono come le mutande: nessuno dichiara a gran voce di averle e, di solito, sono nascoste. Pure noi di Spaghetti Open Data li abbiamo e ve lo dimostrerò con questo talk in cui parlerò di donne, tech e della comunità di cui facciamo parte. E se credi che "tanto i dati sono dati" e con quelli si risolve il problema, preparati alla sorpresa!
-
-##### Cena
-
-* **Ci serve per contarci**: il posto dove saremo è in fase di definizione. Compila [questa form](https://docs.google.com/forms/d/e/1FAIpQLSdWUnhgSQ0Kzgi2ZsoF8wPOSR7nWm9HdqTHYMxVF9R981aDyQ/viewform) (**entro il 29/5**) 
+* 18.00 - 18:20 - **Stiamo dimenticando qualcuno!** (Erika Marconato) <br/>I bias sono come le mutande: nessuno dichiara a gran voce di averle e, di solito, sono nascoste. Pure noi di Spaghetti Open Data li abbiamo e ve lo dimostrerò con questo talk in cui parlerò di donne, tech e della comunità di cui facciamo parte. E se credi che "tanto i dati sono dati" e con quelli si risolve il problema, preparati alla sorpresa! - [SLIDE e BLOG POST](https://medium.com/civichackingit/stiamo-dimenticando-qualcuno-8d417a8c0ce3 )
 
 #### 2 Giugno 2019 - Civic Hackathon - seconda giornata
 
-Questa giornata è dedicata agli hackathon. Ci sono delle tracce abbozzate, ma sarà possibile partecipare anche a sessioni nate in quel momento.
+Questa giornata è quella dedicata agli hackathon.
 
-* 9.00 - 9.45 - Ritrovo al bar della Fabbrica del Vapore per **Open Yoga** ovvero usare i dati come tappetino (bring your own device!) - _da definire_
-* 9.45 - 15.00 - ognuno può partecipare alla sessione che desidera, anche a quelle che eventualmente nasceranno in quel momento, tra cui:
-	* [_Tavolo Rosso_] **Melting Pot Milano** (Alberto Cottica) <br/> Si prende spunto da <a href="http://brussels-diversity.jetpack.ai/">quest'esperienza</a>. In breve, è una mappa one person one dot dove ogni pixel rappresenta un abitante non nato in Italia. Il colore del pixel rappresenta la nazionalità: europea, nord-africana, asiatica etc. La mappa serve a capire se c'è segregazione spaziale. A Bruxelles c'è, con gli europei che abitano più a sud e est, i nord africani a nord e ovest, i turchi a nordest etc. In lista se ne sta discutendo in <a href="https://groups.google.com/d/msg/spaghettiopendata/87nI_CoU_ME/ds2aHtm5BwAJ">questo thread</a>;
-	* [_Tavolo Verde_] **Ready for Commons**, o come fare un business model per gli Open Data (Luca Corsato) <br/> Il modello di business aperto è perfetto per i patrimoni di dati perché genera relazioni e accelera attività di ricerca e sviluppo. Si spiegherà come armonizzare la creazione di valore economico e sociale tutelando titolarità e proprietà dei dati. La sessione sarà formativa ma in forma di hackathon prendendo spunto dal alcuni dataset di partenza;
-	* [_Tavolo Azzurro_] **Tutorial di Introduzione agli Open Data per Smanettoni** (Marco Brandizi) <br/> Facciamo un hackathon per (iniziare a) scrivere un tutorial di "Introduzione agli Open Data per Smanettoni". L’idea è di rivolgersi al neofita di dati, ma mediamente appassionato di informatica (per intenderci, che sa fare due cose con Linux e programmazione, mettere su un CKAN e roba così), spiegargli che cosa sono gli Open Data e perché servono, mostrargli dove andarli a cercare, come raccoglierli, come modellarli e renderli interoperabili, come si pubblicano (es, CKAN), come si usano una volta pubblicati (Jupyter, dashboards, analisi con Python), cenni di linked data, scelta delle licenze.
-	* 15.00 - 15.30 - chiusura e saluti
+	* [_Tavolo Rosso_] **Melting Pot Milano** (Alberto Cottica) <br/> Si prende spunto da <a href="http://brussels-diversity.jetpack.ai/">quest'esperienza</a>. In breve, è una mappa one person one dot dove ogni pixel rappresenta un abitante non nato in Italia. Il colore del pixel rappresenta la nazionalità: europea, nord-africana, asiatica etc. La mappa serve a capire se c'è segregazione spaziale. A Bruxelles c'è, con gli europei che abitano più a sud e est, i nord africani a nord e ovest, i turchi a nordest etc. [Materiali nel repository su GitHub](https://github.com/spaghetti-open-data/-milano-melting-pot)
+	* [_Tavolo Verde_] **Ready for Commons**, o come fare un business model per gli Open Data (Luca Corsato) <br/> Il modello di business aperto è perfetto per i patrimoni di dati perché genera relazioni e accelera attività di ricerca e sviluppo. Si spiegherà come armonizzare la creazione di valore economico e sociale tutelando titolarità e proprietà dei dati. La sessione sarà formativa ma in forma di hackathon prendendo spunto dal alcuni dataset di partenza - [Materiali nel repository su GitHub](https://github.com/spaghetti-open-data/Ready_for_Commons_hackathon);
+	* [_Tavolo Azzurro_] **Tutorial di Introduzione agli Open Data per Smanettoni** (Marco Brandizi) <br/> Facciamo un hackathon per (iniziare a) scrivere un tutorial di "Introduzione agli Open Data per Smanettoni". L’idea è di rivolgersi al neofita di dati, ma mediamente appassionato di informatica (per intenderci, che sa fare due cose con Linux e programmazione, mettere su un CKAN e roba così), spiegargli che cosa sono gli Open Data e perché servono, mostrargli dove andarli a cercare, come raccoglierli, come modellarli e renderli interoperabili, come si pubblicano (es, CKAN), come si usano una volta pubblicati (Jupyter, dashboards, analisi con Python), cenni di linked data, scelta delle licenze. [Materiali e note condivise](https://demo.codimd.org/sVooyn6IRzCAQF-shGjLpQ?view).
 
-NOTA: per il **pranzo della domenica**, avremo lo stesso catering adottato al sabato (_il menù poke_): ti sei iscritto? Compila [questa form](https://docs.google.com/forms/d/e/1FAIpQLSdWUnhgSQ0Kzgi2ZsoF8wPOSR7nWm9HdqTHYMxVF9R981aDyQ/viewform) (**entro il 29/5**)  
-
-[Segui le discussioni in lista](https://groups.google.com/forum/#!tags/spaghettiopendata/SOD19) e l'[hashtag #SOD19](https://twitter.com/search?f=tweets&vertical=default&q=%23SOD19&src=typd) per restare aggiornato e per aiutarci a far girare la voce sul raduno!
+[Qui trovi le discussioni in lista riguardo al raduno](https://groups.google.com/forum/#!tags/spaghettiopendata/SOD19) e qui l'[hashtag #SOD19](https://twitter.com/search?f=tweets&vertical=default&q=%23SOD19&src=typd).
 
 ---
 
