@@ -104,7 +104,7 @@ Una presentazione di ciò che è stato fatto, di ciò che ha funzionato e dell'e
 			<td style="vertical-align:top"><strong>Mappare le barriere architettoniche per il PEBA</strong> (Piersoft)
 			<p style="font-size:small">Verrà spiegato come usare un bot Telegram per la mappatura partecipata di barriere architettoniche, secondo uno schema codificato nella PA locale. i dati vengono poi rilasciati in Open Data per l'ente che può usarli per redigere il PEBA (Piano Eliminazione Barriere Architettoniche).</p>
 			</td>
-			<td style="vertical-align:top"><strong>Accettabilità della trasparenza: sovrapposizione dei dati personali e dei dati aziendali</strong> (Fabio Disconzi)
+			<td style="vertical-align:top"><strong>Accettabilità della trasparenza: sovrapposizione dei dati personali e dei dati aziendali</strong> (Fabio Disconzi) - <a href="SOD19/2019-06-01-fabio-disconzi-sod-web.pptx" >SLIDE</a>
 			<p style="font-size:small">Accettabilità della trasparenza: sovrapposizione dei dati personali e dei dati aziendali. Il racconto di un paio di stranezze vissute con il sito: sarebbe utile la partecipazione di qualcuno che ne capisce di licenze e di leggi sulla privacy e simili.</p>
 			</td>
     		</tr>
